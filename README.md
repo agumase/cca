@@ -1,4 +1,4 @@
-# Canonical Correlation Analysis
+# Canonical Correlation Analysis in Python
 
 Reference: http://numerical.recipes/whp/notes/CanonCorrBySVD.pdf
 
@@ -53,6 +53,8 @@ ycenter sr         9.6710
 dpi     1106.7584
 ddpi       3.7576
 ```
+
+## Web Viewer
 
 [CCA result of DrugBank interactions](https://taneishi.github.io/cca)
 
