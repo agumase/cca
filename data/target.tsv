@@ -1,0 +1,3476 @@
+T0001	ligase activity 	0.095	-0.11
+T0002	protein binding 	0.161	-0.096
+T0003	lyase activity 	-0.33	0.249
+T0004	lyase activity 	-0.084	-0.187
+T0005	hydrolase activity 	1.194	-0.7070000000000001
+T0006	hydrolase activity 	0.6890000000000001	-0.276
+T0007	hydrolase activity 	0.875	0.408
+T0008	binding 	0.833	-0.099
+T0009	transferase activity 	0.11199999999999999	-0.45
+T0010	hydrolase activity 	0.57	-1.021
+T0011	hydrolase activity 	1.8219999999999998	-0.441
+T0012	hydrolase activity 	-0.09699999999999999	-1.2
+T0013	isomerase activity 	-0.73	-0.374
+T0014	lyase activity 	0.19699999999999998	-0.006
+T0015	receptor activity 	-3.615	-0.96
+T0016	receptor activity 	-4.963	0.355
+T0017	receptor activity 	-4.982	0.618
+T0018	receptor activity 	-3.7680000000000002	-0.516
+T0019	receptor activity 	-2.184	-0.284
+T0020	receptor activity 	-3.545	-0.38799999999999996
+T0021	channel or pore class transporter activity 	-2.0269999999999997	-1.0859999999999999
+T0022	receptor activity 	-4.769	0.157
+T0023	binding 	-2.8310000000000004	-0.19399999999999998
+T0024	hydrolase activity 	-0.376	-0.5589999999999999
+T0025	transferase activity 	0.599	-0.11800000000000001
+T0026	oxidoreductase activity 	-0.11599999999999999	0.261
+T0027	hydrolase activity 	0.049	-0.529
+T0028	transferase activity 	-0.013999999999999999	0.263
+T0029	enzyme regulator activity 	-0.08	-0.07400000000000001
+T0030	enzyme regulator activity 	0.397	0.026000000000000002
+T0031	binding 	-1.33	0.37200000000000005
+T0032	transferase activity 	0.40399999999999997	-0.637
+T0033	transferase activity 	0.5379999999999999	-0.603
+T0034	receptor activity 	-2.286	-0.493
+T0035	receptor activity 	-1.574	-0.485
+T0036	ion transporter activity 	-0.611	0.08900000000000001
+T0037	transferase activity 	0.243	0.037000000000000005
+T0038	transferase activity 	0.321	-0.948
+T0039	transferase activity 	-0.028999999999999998	0.098
+T0040	hydrolase activity 	-0.496	0.647
+T0041	NONE	-0.462	0.153
+T0042	enzyme regulator activity 	0.285	-0.5770000000000001
+T0043	transferase activity 	0.033	-0.36
+T0044	transferase activity 	0.336	-0.67
+T0045	transferase activity 	0.988	-0.228
+T0046	transferase activity 	0.893	0.126
+T0047	transferase activity 	0.778	0.884
+T0048	transferase activity 	0.605	-0.499
+T0049	lyase activity 	-0.17	0.281
+T0050	hydrolase activity 	-0.7020000000000001	-0.196
+T0051	hydrolase activity 	-0.725	-0.147
+T0052	hydrolase activity 	-1.079	0.107
+T0053	hydrolase activity 	-1.0270000000000001	0.433
+T0054	hydrolase activity 	-0.312	-0.23800000000000002
+T0055	hydrolase activity 	0.396	-0.49200000000000005
+T0056	transferase activity 	-0.196	-0.16699999999999998
+T0057	transferase activity 	0.287	-0.373
+T0058	binding 	0.701	0.023
+T0059	transferase activity 	-0.902	-0.051
+T0060	binding 	-0.298	-0.5379999999999999
+T0061	oxidoreductase activity 	-0.142	-0.825
+T0062	oxidoreductase activity 	0.9590000000000001	0.171
+T0063	oxidoreductase activity 	1.203	-0.794
+T0064	oxidoreductase activity 	0.545	-0.083
+T0065	binding 	1.8559999999999999	0.015
+T0066	oxidoreductase activity 	0.634	-0.601
+T0067	oxidoreductase activity 	0.667	-0.14400000000000002
+T0068	lyase activity 	0.841	-0.42
+T0069	hydrolase activity 	0.098	-0.278
+T0070	hydrolase activity 	0.42100000000000004	-0.031
+T0071	hydrolase activity 	0.316	0.425
+T0072	hydrolase activity 	-0.631	-0.113
+T0073	hydrolase activity 	0.175	-0.055999999999999994
+T0074	hydrolase activity 	0.408	0.05
+T0075	hydrolase activity 	-0.10300000000000001	0.033
+T0076	channel or pore class transporter activity 	-1.3359999999999999	0.244
+T0077	channel or pore class transporter activity 	-2.142	0.657
+T0078	channel or pore class transporter activity 	-1.5759999999999998	-0.493
+T0079	channel or pore class transporter activity 	0.363	0.14400000000000002
+T0080	enzyme regulator activity 	-0.13	-0.599
+T0081	transferase activity 	0.179	-0.619
+T0082	hydrolase activity 	-3.011	-0.16899999999999998
+T0083	binding 	-3.428	-0.41700000000000004
+T0084	hydrolase activity 	-2.9730000000000003	-0.313
+T0085	binding 	-3.176	-0.358
+T0086	hydrolase activity 	-2.56	-0.7
+T0087	lyase activity 	1.193	0.08900000000000001
+T0088	oxidoreductase activity 	0.092	-0.6809999999999999
+T0089	oxidoreductase activity 	0.452	-0.13699999999999998
+T0090	hydrolase activity 	0.406	-0.6609999999999999
+T0091	hydrolase activity 	0.851	-0.461
+T0092	transferase activity 	0.086	-0.586
+T0093	transferase activity 	1.2830000000000001	-0.9209999999999999
+T0094	binding 	1.2819999999999998	-0.528
+T0095	transporter activity 	-0.382	-0.361
+T0096	ligase activity 	0.033	0.18100000000000002
+T0097	ligase activity 	-0.021	-0.005
+T0098	ligase activity 	-0.16699999999999998	-0.115
+T0099	ligase activity 	0.287	0.252
+T0100	ligase activity 	-0.342	-0.192
+T0101	ligase activity 	-0.37	-0.07200000000000001
+T0102	ligase activity 	0.324	-0.10099999999999999
+T0103	oxidoreductase activity 	1.742	-0.529
+T0104	protein binding 	0.001	-0.37799999999999995
+T0105	transferase activity 	-0.335	-0.7929999999999999
+T0106	transferase activity 	-0.955	-0.21
+T0107	transferase activity 	-0.275	0.023
+T0108	transferase activity 	-0.8859999999999999	-0.366
+T0109	hydrolase activity 	0.233	0.379
+T0110	hydrolase activity 	0.649	0.32799999999999996
+T0111	hydrolase activity 	1.653	-0.098
+T0112	receptor activity 	-4.052	-0.45399999999999996
+T0113	receptor activity 	-3.2039999999999997	0.475
+T0114	receptor activity 	-2.307	0.41700000000000004
+T0115	transporter activity 	-3.465	-0.489
+T0116	hydrolase activity 	0.23600000000000002	-0.035
+T0117	hydrolase activity 	-0.24100000000000002	-0.9359999999999999
+T0118	hydrolase activity 	0.125	-0.278
+T0119	hydrolase activity 	0.17300000000000001	-0.11800000000000001
+T0120	hydrolase activity 	0.601	-0.536
+T0121	lyase activity 	-0.564	-0.4
+T0122	lyase activity 	-0.9470000000000001	-0.048
+T0123	oxidoreductase activity 	0.23800000000000002	0.096
+T0124	oxidoreductase activity 	-0.47	-0.145
+T0125	oxidoreductase activity 	0.585	0.053
+T0126	oxidoreductase activity 	0.601	0.611
+T0127	oxidoreductase activity 	0.40700000000000003	0.43
+T0128	oxidoreductase activity 	0.731	0.361
+T0129	oxidoreductase activity 	0.395	0.41
+T0130	oxidoreductase activity 	0.508	0.149
+T0131	oxidoreductase activity 	0.18600000000000003	0.419
+T0132	oxidoreductase activity 	0.281	1.327
+T0133	transferase activity 	0.298	-0.001
+T0134	oxidoreductase activity 	0.511	0.13
+T0135	transferase activity 	0.409	-0.304
+T0136	transferase activity 	-0.578	-0.306
+T0137	hydrolase activity 	0.598	-0.86
+T0138	receptor activity 	-3.739	-0.004
+T0139	protein binding 	-3.958	-0.133
+T0140	oxidoreductase activity 	-0.064	-0.483
+T0141	binding 	-1.064	-0.099
+T0142	binding 	-0.878	0.15
+T0143	electron transporter activity 	-0.249	0.057999999999999996
+T0144	binding 	0.68	-0.449
+T0145	hydrolase activity 	-1.203	0.858
+T0146	hydrolase activity 	0.04	0.363
+T0147	NONE	-0.503	-0.9159999999999999
+T0148	protein binding 	-2.9330000000000003	-1.185
+T0149	hydrolase activity 	-0.294	0.34600000000000003
+T0150	lyase activity 	1.157	-0.128
+T0151	binding 	-0.076	0.052000000000000005
+T0152	binding 	0.107	-0.10099999999999999
+T0153	binding 	0.001	-0.005
+T0154	hydrolase activity 	0.198	-0.7879999999999999
+T0155	hydrolase activity 	0.11699999999999999	-0.618
+T0156	hydrolase activity 	1.001	-0.124
+T0157	transferase activity 	-0.15	0.588
+T0158	hydrolase activity 	1.177	-0.539
+T0159	oxidoreductase activity 	0.7559999999999999	0.087
+T0160	oxidoreductase activity 	0.6920000000000001	0.5529999999999999
+T0161	oxidoreductase activity 	0.062	0.35200000000000004
+T0162	oxidoreductase activity 	0.016	-0.047
+T0163	oxidoreductase activity 	0.386	-0.248
+T0164	oxidoreductase activity 	-0.146	-0.29600000000000004
+T0165	transferase activity 	0.19899999999999998	-0.311
+T0166	oxidoreductase activity 	-0.59	-0.012
+T0167	oxidoreductase activity 	-0.545	-0.597
+T0168	transferase activity 	-0.16	-0.326
+T0169	lyase activity 	-0.091	-0.23399999999999999
+T0170	antioxidant activity 	-0.23	-0.08199999999999999
+T0171	oxidoreductase activity 	-0.14800000000000002	-0.276
+T0172	oxidoreductase activity 	-0.32799999999999996	-0.332
+T0173	lyase activity 	0.32799999999999996	0.29600000000000004
+T0174	lyase activity 	0.408	0.452
+T0175	lyase activity 	0.24600000000000002	0.295
+T0176	oxidoreductase activity 	0.003	1.16
+T0177	oxidoreductase activity 	0.21899999999999997	0.6709999999999999
+T0178	lyase activity 	0.2	-0.284
+T0179	lyase activity 	-0.07200000000000001	-0.052000000000000005
+T0180	isomerase activity 	1.006	0.37799999999999995
+T0181	oxidoreductase activity 	0.077	-0.198
+T0182	lyase activity 	0.258	-0.031
+T0183	transferase activity 	-0.516	-0.021
+T0184	NONE	0.442	0.327
+T0185	lyase activity 	-0.34	-0.243
+T0186	isomerase activity 	0.389	-0.5539999999999999
+T0187	isomerase activity 	0.23399999999999999	0.091
+T0188	NONE	-0.41700000000000004	-0.028999999999999998
+T0189	hydrolase activity 	0.47100000000000003	-0.7
+T0190	hydrolase activity 	1.041	0.774
+T0191	enzyme regulator activity 	-0.22399999999999998	-0.182
+T0192	electron transporter activity 	0.716	0.221
+T0193	oxidoreductase activity 	0.061	-0.212
+T0194	transferase activity 	0.008	-0.47600000000000003
+T0195	transferase activity 	-0.004	-0.358
+T0196	hydrolase activity 	0.293	-0.384
+T0197	oxidoreductase activity 	0.7759999999999999	0.02
+T0198	oxidoreductase activity 	-0.5	0.149
+T0199	hydrolase activity 	-0.126	0.503
+T0200	hydrolase activity 	0.38799999999999996	0.278
+T0201	hydrolase activity 	0.389	0.401
+T0202	hydrolase activity 	0.5379999999999999	-0.069
+T0203	hydrolase activity 	-0.067	-0.21
+T0204	hydrolase activity 	0.196	0.18600000000000003
+T0205	hydrolase activity 	-0.391	-0.16899999999999998
+T0206	hydrolase activity 	0.795	-0.324
+T0207	hydrolase activity 	0.16699999999999998	0.355
+T0208	hydrolase activity 	-0.037000000000000005	-0.297
+T0209	hydrolase activity 	0.7240000000000001	0.682
+T0210	hydrolase activity 	0.493	-0.444
+T0211	ion transporter activity 	-1.575	-0.297
+T0212	hydrolase activity 	-0.067	-0.9420000000000001
+T0213	hydrolase activity 	0.134	-0.271
+T0214	hydrolase activity 	0.043	-0.545
+T0215	hydrolase activity 	0.401	0.11199999999999999
+T0216	hydrolase activity 	0.971	0.295
+T0217	hydrolase activity 	0.522	0.664
+T0218	hydrolase activity 	0.8370000000000001	0.863
+T0219	hydrolase activity 	-0.254	0.068
+T0220	hydrolase activity 	0.044000000000000004	0.354
+T0221	hydrolase activity 	0.228	-0.46
+T0222	hydrolase activity 	0.363	-0.263
+T0223	hydrolase activity 	0.48200000000000004	-0.043
+T0224	hydrolase activity 	0.332	-0.24600000000000002
+T0225	hydrolase activity 	1.1059999999999999	0.027999999999999997
+T0226	hydrolase activity 	0.085	0.919
+T0227	hydrolase activity 	0.972	0.5920000000000001
+T0228	transcription regulator activity 	-0.076	0.33
+T0229	transcription regulator activity 	-0.15	0.366
+T0230	transcription regulator activity 	-0.11900000000000001	0.218
+T0231	hydrolase activity 	-1.058	-0.55
+T0232	transferase activity 	0.336	1.047
+T0233	transferase activity 	0.308	0.47100000000000003
+T0234	lyase activity 	-0.225	0.456
+T0235	lyase activity 	-0.154	0.498
+T0236	binding 	0.08800000000000001	0.371
+T0237	enzyme regulator activity 	-0.861	-0.193
+T0238	enzyme regulator activity 	0.045	-0.49200000000000005
+T0239	enzyme regulator activity 	0.34700000000000003	-0.209
+T0240	binding 	0.42700000000000005	-0.434
+T0241	binding 	0.581	-0.9440000000000001
+T0242	oxidoreductase activity 	-0.214	-0.128
+T0243	oxidoreductase activity 	-0.342	-0.353
+T0244	oxidoreductase activity 	-0.7170000000000001	-0.495
+T0245	oxidoreductase activity 	-0.563	-0.37799999999999995
+T0246	oxidoreductase activity 	-0.873	0.408
+T0247	lyase activity 	0.345	-0.011000000000000001
+T0248	hydrolase activity 	-0.257	2.021
+T0249	enzyme regulator activity 	-0.41700000000000004	0.16399999999999998
+T0250	ligase activity 	-0.161	0.284
+T0251	hydrolase activity 	-0.37799999999999995	0.19699999999999998
+T0252	hydrolase activity 	-0.26	0.867
+T0253	protein binding 	0.469	0.14800000000000002
+T0254	enzyme regulator activity 	1.952	0.122
+T0255	binding 	0.092	-0.247
+T0256	transferase activity 	0.32799999999999996	-0.011000000000000001
+T0257	hydrolase activity 	0.915	0.275
+T0258	transporter activity 	-2.314	1.625
+T0259	channel or pore class transporter activity 	-0.698	-0.225
+T0260	binding 	0.043	1.195
+T0261	transcription regulator activity 	0.114	-0.688
+T0262	hydrolase activity 	0.35700000000000004	0.7559999999999999
+T0263	transferase activity 	0.292	0.017
+T0264	transferase activity 	0.34600000000000003	-0.4
+T0265	transferase activity 	-0.264	-0.28800000000000003
+T0266	binding 	0.638	1.156
+T0267	transferase activity 	-0.01	-0.25
+T0268	binding 	0.344	-0.245
+T0269	binding 	0.401	-0.35100000000000003
+T0270	protein binding 	-0.395	-0.396
+T0271	enzyme regulator activity 	0.174	-0.47100000000000003
+T0272	binding 	-0.344	-0.228
+T0273	transferase activity 	0.503	-0.358
+T0274	transferase activity 	1.1320000000000001	-0.07400000000000001
+T0275	hydrolase activity 	0.47200000000000003	0.239
+T0276	hydrolase activity 	0.484	-0.136
+T0277	hydrolase activity 	-0.253	-0.235
+T0278	hydrolase activity 	0.41200000000000003	-0.025
+T0279	lyase activity 	0.002	-0.499
+T0280	hydrolase activity 	0.687	0.637
+T0281	binding 	1.219	-0.039
+T0282	binding 	0.419	-0.8079999999999999
+T0283	binding 	0.401	-0.188
+T0284	lyase activity 	0.195	0.195
+T0285	transferase activity 	0.924	-0.511
+T0286	lyase activity 	0.128	-0.265
+T0287	transferase activity 	0.725	-0.462
+T0288	transferase activity 	0.608	-0.556
+T0289	lyase activity 	0.221	-0.4
+T0290	lyase activity 	1.1340000000000001	0.01
+T0291	lyase activity 	0.5329999999999999	-0.6709999999999999
+T0292	lyase activity 	0.898	-0.386
+T0293	oxidoreductase activity 	-0.33299999999999996	0.159
+T0294	oxidoreductase activity 	-0.46	0.6779999999999999
+T0295	lyase activity 	0.259	-0.33899999999999997
+T0296	transferase activity 	0.568	-0.91
+T0297	transferase activity 	0.49200000000000005	-0.436
+T0298	transferase activity 	-0.245	0.578
+T0299	transferase activity 	0.652	-0.635
+T0300	lyase activity 	-0.145	-0.36700000000000005
+T0301	lyase activity 	0.8190000000000001	0.705
+T0302	lyase activity 	0.789	-0.259
+T0303	hydrolase activity 	0.521	-0.43799999999999994
+T0304	hydrolase activity 	0.27899999999999997	0.44799999999999995
+T0305	hydrolase activity 	0.257	0.107
+T0306	hydrolase activity 	-0.015	0.11699999999999999
+T0307	oxidoreductase activity 	0.386	0.369
+T0308	hydrolase activity 	1.796	1.5330000000000001
+T0309	hydrolase activity 	0.39	0.057
+T0310	ligase activity 	0.759	-0.722
+T0311	ligase activity 	1.298	-0.374
+T0312	ligase activity 	0.35700000000000004	0.272
+T0313	oxidoreductase activity 	-0.598	0.593
+T0314	hydrolase activity 	-0.033	0.28
+T0315	lyase activity 	0.797	-0.735
+T0316	hydrolase activity 	0.16699999999999998	-1.04
+T0317	hydrolase activity 	0.10800000000000001	-0.254
+T0318	oxidoreductase activity 	0.361	0.016
+T0319	hydrolase activity 	0.669	0.24100000000000002
+T0320	ligase activity 	0.787	-0.601
+T0321	ligase activity 	0.535	-0.755
+T0322	ligase activity 	0.5760000000000001	-0.405
+T0323	hydrolase activity 	0.757	-0.32299999999999995
+T0324	transferase activity 	0.065	-0.451
+T0325	hydrolase activity 	0.06	0.504
+T0326	hydrolase activity 	-0.677	0.249
+T0327	hydrolase activity 	-0.34600000000000003	-0.495
+T0328	hydrolase activity 	-0.7070000000000001	-0.32
+T0329	hydrolase activity 	-0.075	-0.23199999999999998
+T0330	hydrolase activity 	0.9840000000000001	3.395
+T0331	ion transporter activity 	1.683	1.8359999999999999
+T0332	hydrolase activity 	-0.302	0.033
+T0333	hydrolase activity 	-0.053	-0.56
+T0334	hydrolase activity 	-1.12	-0.838
+T0335	hydrolase activity 	-0.149	-0.638
+T0336	lyase activity 	0.196	-0.741
+T0337	lyase activity 	0.875	-0.08
+T0338	ion transporter activity 	1.696	0.11800000000000001
+T0339	NONE	-0.6509999999999999	-0.023
+T0340	hydrolase activity 	0.153	0.7759999999999999
+T0341	signal transducer activity 	0.41200000000000003	-0.221
+T0342	electron transporter activity 	0.934	0.078
+T0343	electron transporter activity 	0.11599999999999999	0.39399999999999996
+T0344	transferase activity 	-1.034	-0.7020000000000001
+T0345	transferase activity 	0.086	0.38299999999999995
+T0346	transferase activity 	0.40700000000000003	0.226
+T0347	hydrolase activity 	-0.614	-0.166
+T0348	channel or pore class transporter activity 	-1.126	-0.095
+T0349	channel or pore class transporter activity 	-0.8740000000000001	-0.47
+T0350	channel or pore class transporter activity 	-0.39299999999999996	-0.905
+T0351	binding 	0.20600000000000002	0.37799999999999995
+T0352	hydrolase activity 	0.12	-0.698
+T0353	binding 	0.925	0.16699999999999998
+T0354	protein binding 	0.13	0.071
+T0355	transferase activity 	-0.086	-0.13699999999999998
+T0356	transferase activity 	-0.737	-0.153
+T0357	NONE	2.116	1.043
+T0358	transferase activity 	0.17600000000000002	-0.488
+T0359	transferase activity 	0.14400000000000002	-0.597
+T0360	oxidoreductase activity 	1.091	-0.961
+T0361	NONE	1.765	0.6559999999999999
+T0362	hydrolase activity 	-0.18899999999999997	0.9890000000000001
+T0363	binding 	2.114	0.159
+T0364	molecular_function unknown 	1.5730000000000002	-0.495
+T0365	binding 	1.072	-0.19399999999999998
+T0366	hydrolase activity 	0.6509999999999999	0.139
+T0367	hydrolase activity 	0.8340000000000001	0.617
+T0368	transferase activity 	0.139	-0.363
+T0369	hydrolase activity 	0.917	1.08
+T0370	hydrolase activity 	0.6759999999999999	0.109
+T0371	hydrolase activity 	1.013	-0.158
+T0372	hydrolase activity 	-0.08900000000000001	-0.087
+T0373	hydrolase activity 	0.66	-0.207
+T0374	transferase activity 	-0.128	-0.233
+T0375	transferase activity 	-0.19699999999999998	-0.24
+T0376	transferase activity 	0.355	-1.147
+T0377	transferase activity 	1.17	-0.387
+T0378	ligase activity 	0.602	-0.802
+T0379	transferase activity 	-0.833	-0.9079999999999999
+T0380	hydrolase activity 	0.57	0.154
+T0381	enzyme regulator activity 	0.561	-0.201
+T0382	hydrolase activity 	0.009000000000000001	0.11699999999999999
+T0383	hydrolase activity 	0.016	-0.015
+T0384	hydrolase activity 	-0.008	0.122
+T0385	hydrolase activity 	-0.371	-0.43799999999999994
+T0386	hydrolase activity 	0.048	1.1420000000000001
+T0387	hydrolase activity 	-0.09300000000000001	0.17600000000000002
+T0388	hydrolase activity 	1.2109999999999999	0.111
+T0389	hydrolase activity 	1.2570000000000001	0.451
+T0390	binding 	-1.993	-0.252
+T0391	hydrolase activity 	0.175	0.061
+T0392	binding 	1.232	-0.7120000000000001
+T0393	binding 	0.615	0.429
+T0394	hydrolase activity 	0.455	-0.531
+T0395	hydrolase activity 	-0.299	-0.578
+T0396	hydrolase activity 	0.249	-0.828
+T0397	ligase activity 	-0.345	0.249
+T0398	hydrolase activity 	0.7809999999999999	0.14400000000000002
+T0399	oxidoreductase activity 	0.39899999999999997	-0.35
+T0400	protein binding 	-0.228	-0.389
+T0401	protein binding 	0.051	-0.122
+T0402	transcription regulator activity 	-0.511	0.305
+T0403	oxidoreductase activity 	0.201	-0.331
+T0404	oxidoreductase activity 	0.53	-0.134
+T0405	binding 	0.342	-0.374
+T0406	ligase activity 	-0.24	0.29600000000000004
+T0407	hydrolase activity 	1.02	-0.036000000000000004
+T0408	isomerase activity 	-0.28300000000000003	-0.011000000000000001
+T0409	enzyme regulator activity 	-0.52	-0.552
+T0410	NONE	1.676	0.098
+T0411	hydrolase activity 	-0.001	-0.49700000000000005
+T0412	ligase activity 	1.032	-0.013000000000000001
+T0413	transferase activity 	-0.359	-0.484
+T0414	binding 	1.4280000000000002	0.27699999999999997
+T0415	ion transporter activity 	0.044000000000000004	-0.114
+T0416	transferase activity 	1.16	-0.759
+T0417	oxidoreductase activity 	1.34	-0.147
+T0418	transferase activity 	-0.157	0.114
+T0419	hydrolase activity 	-0.42200000000000004	-0.575
+T0420	binding 	-2.539	-0.14800000000000002
+T0421	oxidoreductase activity 	-0.242	-0.066
+T0422	oxidoreductase activity 	0.37799999999999995	0.361
+T0423	hydrolase activity 	0.61	-0.09300000000000001
+T0424	hydrolase activity 	0.988	-0.41700000000000004
+T0425	ligase activity 	0.899	0.161
+T0426	binding 	1.568	0.107
+T0427	electron transporter activity 	1.0290000000000001	1.4680000000000002
+T0428	transcription regulator activity 	0.745	0.285
+T0429	oxidoreductase activity 	0.363	-0.18899999999999997
+T0430	oxidoreductase activity 	0.512	-0.251
+T0431	channel or pore class transporter activity 	-1.229	-0.38799999999999996
+T0432	channel or pore class transporter activity 	-0.919	0.536
+T0433	channel or pore class transporter activity 	-1.439	0.441
+T0434	channel or pore class transporter activity 	0.312	0.038
+T0435	transferase activity 	-0.524	0.245
+T0436	transferase activity 	-0.307	0.04
+T0437	protein binding 	-0.217	0.10400000000000001
+T0438	binding 	-0.609	-1.3940000000000001
+T0439	lyase activity 	-1.053	1.696
+T0440	lyase activity 	-0.35600000000000004	3.592
+T0441	lyase activity 	-0.47600000000000003	6.244
+T0442	lyase activity 	-0.312	9.863
+T0443	lyase activity 	-1.104	5.254
+T0444	lyase activity 	-0.39299999999999996	3.6860000000000004
+T0445	lyase activity 	-0.5579999999999999	3.339
+T0446	lyase activity 	-0.465	0.5660000000000001
+T0447	lyase activity 	0.41200000000000003	2.158
+T0448	transferase activity 	1.1320000000000001	-0.627
+T0449	binding 	0.036000000000000004	0.414
+T0450	protein binding 	0.308	-0.37799999999999995
+T0451	protein binding 	0.308	-0.37799999999999995
+T0452	oxidoreductase activity 	0.332	0.138
+T0453	NONE	-0.037000000000000005	0.092
+T0454	transferase activity 	0.479	-0.162
+T0455	hydrolase activity 	0.391	-0.38799999999999996
+T0456	hydrolase activity 	-0.322	-0.534
+T0457	hydrolase activity 	-0.355	0.48700000000000004
+T0458	lyase activity 	0.593	-0.145
+T0459	hydrolase activity 	0.245	0.7559999999999999
+T0460	hydrolase activity 	-0.444	0.188
+T0461	hydrolase activity 	-0.318	0.087
+T0462	hydrolase activity 	0.461	0.09300000000000001
+T0463	oxidoreductase activity 	-0.521	-0.287
+T0464	hydrolase activity 	0.42700000000000005	-0.465
+T0465	hydrolase activity 	0.82	0.5710000000000001
+T0466	oxidoreductase activity 	0.278	0.6
+T0467	transferase activity 	0.015	0.133
+T0468	transferase activity 	0.161	-0.033
+T0469	oxidoreductase activity 	0.495	-0.151
+T0470	oxidoreductase activity 	0.14800000000000002	0.162
+T0471	oxidoreductase activity 	1.2690000000000001	-0.223
+T0472	oxidoreductase activity 	0.617	0.41100000000000003
+T0473	oxidoreductase activity 	-0.001	0.363
+T0474	oxidoreductase activity 	0.7959999999999999	0.23800000000000002
+T0475	oxidoreductase activity 	0.664	-0.40399999999999997
+T0476	oxidoreductase activity 	0.765	-0.284
+T0477	oxidoreductase activity 	0.887	-0.064
+T0478	hydrolase activity 	-0.013000000000000001	-0.184
+T0479	hydrolase activity 	-0.7	-0.22899999999999998
+T0480	oxidoreductase activity 	1.446	0.217
+T0481	hydrolase activity 	0.491	0.541
+T0482	hydrolase activity 	0.514	0.037000000000000005
+T0483	oxidoreductase activity 	0.606	0.6890000000000001
+T0484	hydrolase activity 	-0.503	0.396
+T0485	hydrolase activity 	-0.521	-0.062
+T0486	hydrolase activity 	0.136	1.65
+T0487	hydrolase activity 	-0.08800000000000001	-0.091
+T0488	hydrolase activity 	0.258	0.163
+T0489	hydrolase activity 	0.46299999999999997	1.3980000000000001
+T0490	transferase activity 	0.233	0.46
+T0491	NONE	-0.038	0.26
+T0492	enzyme regulator activity 	-0.33799999999999997	0.371
+T0493	hydrolase activity 	1.053	0.852
+T0494	transferase activity 	0.723	-0.506
+T0495	hydrolase activity 	1.306	0.26899999999999996
+T0496	hydrolase activity 	-0.126	0.28600000000000003
+T0497	hydrolase activity 	-0.36200000000000004	0.565
+T0498	hydrolase activity 	0.124	0.33799999999999997
+T0499	hydrolase activity 	-0.13	0.318
+T0500	hydrolase activity 	1.165	0.991
+T0501	oxidoreductase activity 	-0.415	-0.946
+T0502	lyase activity 	1.06	0.11699999999999999
+T0503	transferase activity 	-0.098	0.94
+T0504	transferase activity 	-1.018	-1.141
+T0505	protein binding 	-3.083	0.76
+T0506	protein binding 	-1.161	-0.895
+T0507	protein binding 	0.396	0.49
+T0508	transcription regulator activity 	0.6809999999999999	0.102
+T0509	oxidoreductase activity 	0.884	0.21899999999999997
+T0510	oxidoreductase activity 	0.57	0.6759999999999999
+T0511	oxidoreductase activity 	0.855	0.14
+T0512	NONE	0.642	-0.08900000000000001
+T0513	protein binding 	0.324	0.066
+T0514	protein binding 	-0.5489999999999999	-0.591
+T0515	protein binding 	-1.6569999999999998	-0.256
+T0516	transcription regulator activity 	-0.079	-0.013999999999999999
+T0517	transferase activity 	0.825	0.342
+T0518	protein binding 	1.01	0.996
+T0519	hydrolase activity 	-0.961	-0.444
+T0520	hydrolase activity 	-0.006999999999999999	0.268
+T0521	hydrolase activity 	-0.711	-0.231
+T0522	hydrolase activity 	0.016	-0.18100000000000002
+T0523	hydrolase activity 	0.387	-0.192
+T0524	hydrolase activity 	0.136	-0.171
+T0525	hydrolase activity 	-0.091	-0.35200000000000004
+T0526	oxidoreductase activity 	0.174	0.425
+T0527	transferase activity 	0.008	0.708
+T0528	transcription regulator activity 	-0.271	0.303
+T0529	oxidoreductase activity 	0.45899999999999996	0.24100000000000002
+T0530	hydrolase activity 	-0.302	-0.182
+T0531	oxidoreductase activity 	0.192	-0.39
+T0532	transferase activity 	1.3530000000000002	-0.131
+T0533	transferase activity 	0.8170000000000001	-0.38299999999999995
+T0534	hydrolase activity 	0.629	0.141
+T0535	hydrolase activity 	0.541	0.7140000000000001
+T0536	isomerase activity 	-0.9109999999999999	0.11599999999999999
+T0537	hydrolase activity 	-1.73	0.078
+T0538	binding 	-0.653	0.12
+T0539	lyase activity 	0.40299999999999997	-0.026000000000000002
+T0540	protein binding 	0.741	0.10099999999999999
+T0541	hydrolase activity 	-0.14300000000000002	0.311
+T0542	hydrolase activity 	-0.11900000000000001	-0.1
+T0543	hydrolase activity 	0.078	-0.127
+T0544	hydrolase activity 	0.078	0.092
+T0545	hydrolase activity 	-0.222	0.217
+T0546	hydrolase activity 	1.276	-0.34
+T0547	hydrolase activity 	0.304	-0.20199999999999999
+T0548	oxidoreductase activity 	0.698	-0.96
+T0549	transferase activity 	0.32899999999999996	-0.32799999999999996
+T0550	transferase activity 	-0.028999999999999998	-0.198
+T0551	transcription regulator activity 	-0.46299999999999997	-0.044000000000000004
+T0552	hydrolase activity 	1.328	0.013999999999999999
+T0553	hydrolase activity 	0.424	-0.035
+T0554	hydrolase activity 	0.175	-0.168
+T0555	hydrolase activity 	0.461	-0.073
+T0556	hydrolase activity 	0.626	0.18600000000000003
+T0557	transferase activity 	-0.045	0.309
+T0558	transferase activity 	0.446	0.384
+T0559	hydrolase activity 	-0.49200000000000005	-0.042
+T0560	hydrolase activity 	-0.41200000000000003	0.644
+T0561	isomerase activity 	1.4569999999999999	-0.183
+T0562	oxidoreductase activity 	0.5539999999999999	-0.40700000000000003
+T0563	oxidoreductase activity 	0.16699999999999998	-0.544
+T0564	transferase activity 	0.038	-0.231
+T0565	transferase activity 	0.051	0.075
+T0566	NONE	-0.413	0.327
+T0567	transferase activity 	0.187	-0.556
+T0568	transferase activity 	0.515	-0.146
+T0569	transferase activity 	0.10099999999999999	-0.496
+T0570	transferase activity 	-0.943	0.038
+T0571	transferase activity 	0.251	-0.688
+T0572	oxidoreductase activity 	0.166	-0.488
+T0573	transferase activity 	-0.606	0.031
+T0574	oxidoreductase activity 	0.87	0.275
+T0575	channel or pore class transporter activity 	-0.555	-0.379
+T0576	hydrolase activity 	-0.16	0.491
+T0577	NONE	0.45299999999999996	-0.828
+T0578	transferase activity 	0.121	-0.187
+T0579	hydrolase activity 	0.113	-0.129
+T0580	hydrolase activity 	0.6829999999999999	-0.201
+T0581	hydrolase activity 	0.233	-0.581
+T0582	hydrolase activity 	0.054000000000000006	0.215
+T0583	receptor activity 	-2.862	0.10800000000000001
+T0584	transferase activity 	0.301	-0.43200000000000005
+T0585	ion transporter activity 	0.634	-0.40399999999999997
+T0586	binding 	0.39299999999999996	-0.44299999999999995
+T0587	isomerase activity 	0.39299999999999996	-1.331
+T0588	protein binding 	-0.212	0.27
+T0589	receptor activity 	-1.959	-0.17300000000000001
+T0590	catalytic activity 	0.441	0.156
+T0591	enzyme regulator activity 	-0.40299999999999997	0.282
+T0592	binding 	-0.414	-0.695
+T0593	ligase activity 	0.111	0.132
+T0594	structural molecule activity 	1.15	0.546
+T0595	ligase activity 	-0.057	0.16899999999999998
+T0596	structural molecule activity 	0.892	-0.424
+T0597	transferase activity 	0.426	-0.133
+T0598	ligase activity 	0.303	-0.156
+T0599	lyase activity 	0.602	-0.5710000000000001
+T0600	ligase activity 	0.113	-0.122
+T0601	transferase activity 	-0.5479999999999999	-0.267
+T0602	transferase activity 	0.83	-0.447
+T0603	transferase activity 	0.37	-0.368
+T0604	transferase activity 	-0.091	-1.107
+T0605	transferase activity 	0.07400000000000001	-0.746
+T0606	structural molecule activity 	0.272	-0.45
+T0607	lyase activity 	-0.052000000000000005	0.036000000000000004
+T0608	isomerase activity 	-0.040999999999999995	-1.072
+T0609	hydrolase activity 	0.605	0.023
+T0610	transferase activity 	-0.23600000000000002	0.863
+T0611	hydrolase activity 	0.7290000000000001	0.14300000000000002
+T0612	hydrolase activity 	1.127	-0.07
+T0613	hydrolase activity 	-0.74	-0.7140000000000001
+T0614	transferase activity 	0.207	0.091
+T0615	transferase activity 	-0.41	0.868
+T0616	binding 	0.924	0.14400000000000002
+T0617	binding 	-0.456	-0.228
+T0618	transporter activity 	0.344	-0.355
+T0619	electron transporter activity 	0.804	-1.1059999999999999
+T0620	oxidoreductase activity 	-0.048	-0.134
+T0621	oxidoreductase activity 	-0.675	0.20800000000000002
+T0622	oxidoreductase activity 	-0.955	-0.782
+T0623	oxidoreductase activity 	-0.059000000000000004	0.024
+T0624	oxidoreductase activity 	-0.434	-0.10800000000000001
+T0625	oxidoreductase activity 	-0.731	-0.069
+T0626	oxidoreductase activity 	-0.609	-0.079
+T0627	oxidoreductase activity 	-0.41600000000000004	0.212
+T0628	oxidoreductase activity 	-0.371	-0.127
+T0629	oxidoreductase activity 	-1.084	0.055999999999999994
+T0630	oxidoreductase activity 	-1.0290000000000001	-0.16699999999999998
+T0631	oxidoreductase activity 	0.192	0.462
+T0632	oxidoreductase activity 	-1.253	0.327
+T0633	hydrolase activity 	0.7020000000000001	1.176
+T0634	transferase activity 	0.456	-0.175
+T0635	binding 	0.915	0.442
+T0636	transferase activity 	0.147	-0.457
+T0637	transferase activity 	0.016	-0.307
+T0638	transferase activity 	0.919	0.039
+T0639	oxidoreductase activity 	-0.27899999999999997	0.794
+T0640	oxidoreductase activity 	0.5760000000000001	-0.35
+T0641	oxidoreductase activity 	1.028	-0.415
+T0642	oxidoreductase activity 	0.28300000000000003	-0.846
+T0643	protein binding 	-0.054000000000000006	0.049
+T0644	binding 	-0.175	-0.586
+T0645	binding 	0.23600000000000002	-0.021
+T0646	structural molecule activity 	0.052000000000000005	2.333
+T0647	structural molecule activity 	0.49200000000000005	0.29
+T0648	binding 	0.002	-0.522
+T0649	NONE	1.0490000000000002	1.145
+T0650	lyase activity 	-0.106	-0.44
+T0651	protein binding 	-0.04	0.081
+T0652	transcription regulator activity 	0.18	-0.35
+T0653	binding 	-0.976	0.27399999999999997
+T0654	lyase activity 	0.593	-0.038
+T0655	lyase activity 	0.51	-0.682
+T0656	transferase activity 	0.355	-0.687
+T0657	transferase activity 	0.45399999999999996	-0.069
+T0658	transferase activity 	0.623	-0.138
+T0659	transferase activity 	0.5710000000000001	-0.513
+T0660	transferase activity 	-1.084	-0.435
+T0661	lyase activity 	0.111	-0.39799999999999996
+T0662	lyase activity 	0.316	-0.157
+T0663	oxidoreductase activity 	-0.022000000000000002	0.48
+T0664	oxidoreductase activity 	0.11	0.341
+T0665	hydrolase activity 	-0.14400000000000002	0.563
+T0666	NONE	-0.9890000000000001	-0.49200000000000005
+T0667	NONE	-1.065	-0.47700000000000004
+T0668	protein binding 	0.265	-0.525
+T0669	transcription regulator activity 	0.158	0.369
+T0670	carrier activity 	-1.696	-0.193
+T0671	carrier activity 	-0.8079999999999999	-0.174
+T0672	carrier activity 	-1.028	-0.298
+T0673	carrier activity 	-1.429	0.418
+T0674	hydrolase activity 	0.5589999999999999	1.179
+T0675	NONE	0.41100000000000003	-1.8459999999999999
+T0676	binding 	-0.7829999999999999	0.012
+T0677	binding 	0.46399999999999997	-0.45799999999999996
+T0678	hydrolase activity 	0.17	0.062
+T0679	NONE	0.5489999999999999	0.113
+T0680	transporter activity 	0.519	0.317
+T0681	binding 	0.607	-0.7979999999999999
+T0682	lyase activity 	0.02	0.645
+T0683	electron transporter activity 	1.2409999999999999	0.607
+T0684	electron transporter activity 	1.253	-0.159
+T0685	electron transporter activity 	0.586	1.285
+T0686	electron transporter activity 	0.8859999999999999	-0.516
+T0687	electron transporter activity 	1.081	0.551
+T0688	electron transporter activity 	1.005	0.595
+T0689	electron transporter activity 	0.369	-0.042
+T0690	electron transporter activity 	0.5770000000000001	0.141
+T0691	electron transporter activity 	0.618	-0.284
+T0692	oxidoreductase activity 	-0.055	-0.29100000000000004
+T0693	electron transporter activity 	1.175	-0.247
+T0694	binding 	-0.777	0.042
+T0695	binding 	-0.961	-0.972
+T0696	binding 	-0.183	-0.046
+T0697	electron transporter activity 	0.028999999999999998	-0.098
+T0698	protein binding 	0.792	-0.163
+T0699	electron transporter activity 	-0.125	1.78
+T0700	electron transporter activity 	-0.166	-0.337
+T0701	electron transporter activity 	0.171	-0.038
+T0702	electron transporter activity 	-0.282	0.887
+T0703	electron transporter activity 	1.33	-0.883
+T0704	electron transporter activity 	1.163	2.003
+T0705	electron transporter activity 	-0.12	0.332
+T0706	electron transporter activity 	1.024	0.312
+T0707	electron transporter activity 	-0.057	-0.306
+T0708	electron transporter activity 	1.655	0.153
+T0709	electron transporter activity 	1.724	-0.41200000000000003
+T0710	electron transporter activity 	1.8030000000000002	-0.484
+T0711	electron transporter activity 	0.10800000000000001	-0.46399999999999997
+T0712	electron transporter activity 	-0.541	-0.47200000000000003
+T0713	electron transporter activity 	1.23	-1.071
+T0714	electron transporter activity 	1.775	-0.733
+T0715	electron transporter activity 	0.45799999999999996	-0.231
+T0716	molecular_function unknown 	0.483	0.121
+T0717	electron transporter activity 	0.633	-0.053
+T0718	electron transporter activity 	1.348	0.532
+T0719	electron transporter activity 	0.298	-1.287
+T0720	electron transporter activity 	0.11699999999999999	-0.7609999999999999
+T0721	electron transporter activity 	0.745	0.027999999999999997
+T0722	binding 	0.001	-0.13699999999999998
+T0723	electron transporter activity 	0.496	-1.0290000000000001
+T0724	electron transporter activity 	0.262	0.028999999999999998
+T0725	electron transporter activity 	0.7859999999999999	-0.838
+T0726	electron transporter activity 	0.486	0.655
+T0727	electron transporter activity 	-0.26899999999999996	-0.395
+T0728	binding 	-0.124	-1.455
+T0729	enzyme regulator activity 	-0.034	-0.818
+T0730	enzyme regulator activity 	-0.001	-0.752
+T0731	enzyme regulator activity 	0.043	-0.475
+T0732	isomerase activity 	0.055	-0.16
+T0733	oxidoreductase activity 	-0.09699999999999999	-0.20199999999999999
+T0734	transferase activity 	0.18899999999999997	0.701
+T0735	transferase activity 	0.386	0.057999999999999996
+T0736	lyase activity 	-0.8340000000000001	-1.308
+T0737	oxidoreductase activity 	1.102	0.035
+T0738	oxidoreductase activity 	0.687	-0.138
+T0739	hydrolase activity 	-0.21100000000000002	0.046
+T0740	NONE	0.529	-0.198
+T0741	protein binding 	-0.23199999999999998	-0.009000000000000001
+T0742	isomerase activity 	-0.391	-1.099
+T0743	isomerase activity 	-1.383	-0.613
+T0744	transferase activity 	0.172	-0.040999999999999995
+T0745	hydrolase activity 	-0.075	0.052000000000000005
+T0746	hydrolase activity 	0.08900000000000001	0.34600000000000003
+T0747	transferase activity 	-0.09	-0.43799999999999994
+T0748	lyase activity 	0.063	-0.8370000000000001
+T0749	oxidoreductase activity 	1.288	-0.401
+T0750	oxidoreductase activity 	0.732	-0.359
+T0751	oxidoreductase activity 	1.3119999999999998	-0.46299999999999997
+T0752	transferase activity 	0.096	0.003
+T0753	transferase activity 	-0.257	0.099
+T0754	hydrolase activity 	0.474	-0.703
+T0755	transcription regulator activity 	-0.588	0.23
+T0756	lyase activity 	-0.424	-0.773
+T0757	hydrolase activity 	0.042	-0.106
+T0758	lyase activity 	0.821	-0.816
+T0759	lyase activity 	0.44799999999999995	-0.40700000000000003
+T0760	hydrolase activity 	-0.402	-0.035
+T0761	hydrolase activity 	-0.185	-0.5710000000000001
+T0762	lyase activity 	0.41600000000000004	-0.231
+T0763	lyase activity 	0.217	0.028999999999999998
+T0764	lyase activity 	0.231	-0.508
+T0765	lyase activity 	0.23	-0.516
+T0766	transferase activity 	0.27899999999999997	-0.22399999999999998
+T0767	lyase activity 	0.013000000000000001	0.386
+T0768	transferase activity 	1.1740000000000002	-0.405
+T0769	lyase activity 	0.303	-0.302
+T0770	lyase activity 	-0.083	-0.441
+T0771	lyase activity 	0.867	-0.498
+T0772	hydrolase activity 	0.5589999999999999	-0.7340000000000001
+T0773	hydrolase activity 	0.616	-0.375
+T0774	hydrolase activity 	0.662	-0.395
+T0775	transcription regulator activity 	0.6679999999999999	-0.7
+T0776	lyase activity 	0.767	-0.909
+T0777	hydrolase activity 	-0.794	-0.19399999999999998
+T0778	hydrolase activity 	0.43700000000000006	-0.499
+T0779	lyase activity 	0.245	1.2209999999999999
+T0780	oxidoreductase activity 	0.504	-0.32799999999999996
+T0781	ligase activity 	0.235	-0.415
+T0782	ligase activity 	0.35	-0.244
+T0783	hydrolase activity 	-0.141	-0.264
+T0784	hydrolase activity 	0.271	0.13699999999999998
+T0785	hydrolase activity 	0.9670000000000001	0.402
+T0786	hydrolase activity 	1.45	-0.38
+T0787	hydrolase activity 	0.568	-0.314
+T0788	hydrolase activity 	1.141	-0.217
+T0789	hydrolase activity 	1.057	-0.266
+T0790	hydrolase activity 	0.516	-0.022000000000000002
+T0791	hydrolase activity 	0.9420000000000001	0.06
+T0792	hydrolase activity 	1.835	-0.35200000000000004
+T0793	lyase activity 	0.289	-0.89
+T0794	transferase activity 	0.5539999999999999	-0.8109999999999999
+T0795	hydrolase activity 	-0.647	-0.018000000000000002
+T0796	binding 	1.425	0.318
+T0797	binding 	1.821	0.154
+T0798	lyase activity 	0.114	-0.19399999999999998
+T0799	transferase activity 	0.24	0.059000000000000004
+T0800	oxidoreductase activity 	-0.387	0.48200000000000004
+T0801	oxidoreductase activity 	0.792	0.302
+T0802	oxidoreductase activity 	0.185	-0.35700000000000004
+T0803	isomerase activity 	0.316	-0.263
+T0804	ligase activity 	-0.895	-0.177
+T0805	oxidoreductase activity 	0.825	-1.112
+T0806	oxidoreductase activity 	1.5419999999999998	-1.426
+T0807	NONE	0.47200000000000003	-0.19399999999999998
+T0808	oxidoreductase activity 	0.207	-0.125
+T0809	oxidoreductase activity 	0.281	-0.055
+T0810	oxidoreductase activity 	0.493	0.18
+T0811	oxidoreductase activity 	-0.677	-0.046
+T0812	hydrolase activity 	1.097	-0.445
+T0813	oxidoreductase activity 	0.218	-0.409
+T0814	transferase activity 	0.519	0.267
+T0815	oxidoreductase activity 	-0.9670000000000001	-0.48200000000000004
+T0816	oxidoreductase activity 	-0.45299999999999996	-0.49200000000000005
+T0817	oxidoreductase activity 	0.141	0.23199999999999998
+T0818	oxidoreductase activity 	0.013000000000000001	-0.16399999999999998
+T0819	oxidoreductase activity 	0.589	-0.40700000000000003
+T0820	transferase activity 	0.5	0.643
+T0821	oxidoreductase activity 	0.39299999999999996	-0.301
+T0822	oxidoreductase activity 	0.29	-0.616
+T0823	oxidoreductase activity 	0.098	-0.365
+T0824	oxidoreductase activity 	0.414	-0.48700000000000004
+T0825	oxidoreductase activity 	0.34299999999999997	-0.22899999999999998
+T0826	protein binding 	0.331	-0.091
+T0827	transferase activity 	0.5720000000000001	-0.188
+T0828	oxidoreductase activity 	0.355	0.217
+T0829	oxidoreductase activity 	0.44799999999999995	0.12300000000000001
+T0830	hydrolase activity 	0.243	-0.29
+T0831	hydrolase activity 	0.39899999999999997	-0.102
+T0832	transferase activity 	0.768	-0.16
+T0833	ligase activity 	-0.08800000000000001	0.295
+T0834	ligase activity 	0.081	0.084
+T0835	ligase activity 	0.903	-0.5920000000000001
+T0836	transferase activity 	0.48700000000000004	-0.619
+T0837	hydrolase activity 	0.855	0.525
+T0838	oxidoreductase activity 	0.316	-0.096
+T0839	hydrolase activity 	0.083	0.326
+T0840	transferase activity 	-0.013999999999999999	-0.125
+T0841	transferase activity 	0.812	0.312
+T0842	hydrolase activity 	0.244	-0.23800000000000002
+T0843	hydrolase activity 	0.632	-0.5670000000000001
+T0844	hydrolase activity 	0.345	-0.035
+T0845	transferase activity 	-0.054000000000000006	-0.259
+T0846	hydrolase activity 	0.306	0.42200000000000004
+T0847	hydrolase activity 	-0.001	0.042
+T0848	hydrolase activity 	-0.18600000000000003	-0.341
+T0849	hydrolase activity 	-0.19699999999999998	0.10400000000000001
+T0850	hydrolase activity 	-0.32	-0.08800000000000001
+T0851	hydrolase activity 	-0.085	-0.223
+T0852	hydrolase activity 	-0.405	0.529
+T0853	oxidoreductase activity 	0.5670000000000001	0.23800000000000002
+T0854	binding 	-3.88	-0.16
+T0855	binding 	-4.518	-0.614
+T0856	binding 	-3.0810000000000004	-0.332
+T0857	binding 	-3.139	-0.895
+T0858	transferase activity 	-0.737	-0.153
+T0859	transcription regulator activity 	0.89	-0.315
+T0860	transferase activity 	0.141	0.245
+T0861	transferase activity 	0.623	-0.254
+T0862	hydrolase activity 	0.265	0.41200000000000003
+T0863	hydrolase activity 	0.607	-0.612
+T0864	hydrolase activity 	0.431	-1.339
+T0865	hydrolase activity 	0.6509999999999999	0.063
+T0866	oxidoreductase activity 	0.597	0.135
+T0867	oxidoreductase activity 	-0.85	-0.09
+T0868	oxidoreductase activity 	-0.579	-0.938
+T0869	oxidoreductase activity 	1.012	0.051
+T0870	oxidoreductase activity 	-0.355	-0.24100000000000002
+T0871	oxidoreductase activity 	-0.455	-0.045
+T0872	oxidoreductase activity 	0.7120000000000001	-0.636
+T0873	oxidoreductase activity 	0.419	0.198
+T0874	hydrolase activity 	0.667	0.353
+T0875	isomerase activity 	-0.158	-0.659
+T0876	lyase activity 	0.46799999999999997	-0.17800000000000002
+T0877	isomerase activity 	-0.091	0.479
+T0878	enzyme regulator activity 	-0.16699999999999998	-0.147
+T0879	hydrolase activity 	0.608	-0.17600000000000002
+T0880	NONE	-1.078	-0.36700000000000005
+T0881	protein binding 	1.123	0.07200000000000001
+T0882	translation regulator activity 	0.18	-0.637
+T0883	translation regulator activity 	-0.003	0.032
+T0884	translation regulator activity 	1.0270000000000001	-0.501
+T0885	protein binding 	0.335	0.115
+T0886	protein binding 	-1.297	-0.29600000000000004
+T0887	translation regulator activity 	0.6890000000000001	-0.552
+T0888	translation regulator activity 	0.282	-0.23800000000000002
+T0889	translation regulator activity 	0.778	-0.142
+T0890	translation regulator activity 	0.782	-0.132
+T0891	translation regulator activity 	0.9079999999999999	-0.41700000000000004
+T0892	enzyme regulator activity 	-0.293	-0.34600000000000003
+T0893	protein binding 	0.225	-0.085
+T0894	hydrolase activity 	0.067	0.29
+T0895	hydrolase activity 	0.35100000000000003	-0.894
+T0896	NONE	1.261	0.479
+T0897	NONE	-0.21600000000000003	-0.488
+T0898	NONE	0.0	-0.61
+T0899	hydrolase activity 	-0.017	0.006
+T0900	hydrolase activity 	1.188	0.248
+T0901	hydrolase activity 	0.72	-0.429
+T0902	hydrolase activity 	1.018	-0.40399999999999997
+T0903	binding 	-0.18	-0.034
+T0904	binding 	0.68	0.49
+T0905	hydrolase activity 	0.948	0.218
+T0906	lyase activity 	0.342	-0.243
+T0907	lyase activity 	0.25	-0.7390000000000001
+T0908	lyase activity 	1.0590000000000002	0.32299999999999995
+T0909	protein binding 	0.725	-0.6890000000000001
+T0910	hydrolase activity 	0.615	0.036000000000000004
+T0911	transferase activity 	-0.446	-0.449
+T0912	structural molecule activity 	-0.544	0.22699999999999998
+T0913	binding 	-0.528	0.711
+T0914	structural molecule activity 	-0.252	-0.506
+T0915	receptor activity 	-0.498	-0.19699999999999998
+T0916	transferase activity 	-0.348	-0.019
+T0917	transferase activity 	-0.7020000000000001	-0.615
+T0918	lyase activity 	0.41700000000000004	0.495
+T0919	binding 	-0.188	-0.019
+T0920	transferase activity 	-0.171	-0.516
+T0921	transferase activity 	0.27399999999999997	0.285
+T0922	translation regulator activity 	0.18600000000000003	-0.156
+T0923	oxidoreductase activity 	-1.328	-0.023
+T0924	isomerase activity 	-0.311	0.442
+T0925	NONE	0.47100000000000003	0.003
+T0926	transferase activity 	0.466	0.11599999999999999
+T0927	oxidoreductase activity 	0.316	0.23399999999999999
+T0928	transcription regulator activity 	-0.6809999999999999	-0.469
+T0929	oxidoreductase activity 	1.0190000000000001	-0.845
+T0930	transferase activity 	-0.69	-0.184
+T0931	transcription regulator activity 	-0.526	-0.402
+T0932	transcription regulator activity 	-1.1420000000000001	-0.19699999999999998
+T0933	transcription regulator activity 	-0.995	0.040999999999999995
+T0934	hydrolase activity 	-0.302	0.695
+T0935	hydrolase activity 	-0.413	0.105
+T0936	hydrolase activity 	-0.6940000000000001	-0.754
+T0937	hydrolase activity 	1.194	0.018000000000000002
+T0938	hydrolase activity 	0.38799999999999996	-0.392
+T0939	NONE	0.354	0.183
+T0940	oxidoreductase activity 	0.35600000000000004	0.12300000000000001
+T0941	hydrolase activity 	0.08800000000000001	1.536
+T0942	hydrolase activity 	0.293	2.085
+T0943	transferase activity 	-0.47	-0.055
+T0944	transferase activity 	-0.41	-0.264
+T0945	hydrolase activity 	-0.20800000000000002	0.09300000000000001
+T0946	hydrolase activity 	-0.275	0.302
+T0947	hydrolase activity 	-0.28	-0.125
+T0948	enzyme regulator activity 	0.48200000000000004	-0.33299999999999996
+T0949	enzyme regulator activity 	0.341	0.21600000000000003
+T0950	oxidoreductase activity 	0.162	0.08
+T0951	hydrolase activity 	-0.376	-0.419
+T0952	oxidoreductase activity 	-0.013999999999999999	-0.307
+T0953	hydrolase activity 	0.35100000000000003	0.28
+T0954	hydrolase activity 	0.061	-0.308
+T0955	hydrolase activity 	-0.47600000000000003	-0.188
+T0956	lyase activity 	-0.696	0.045
+T0957	transferase activity 	-0.34	-0.396
+T0958	transferase activity 	0.773	-0.2
+T0959	transferase activity 	0.799	-0.8809999999999999
+T0960	transferase activity 	0.125	-0.627
+T0961	transferase activity 	-0.514	0.366
+T0962	transferase activity 	0.514	-0.596
+T0963	transferase activity 	0.8640000000000001	0.384
+T0964	binding 	0.124	-0.631
+T0965	binding 	0.9690000000000001	-0.47
+T0966	binding 	-0.7140000000000001	-0.083
+T0967	binding 	-0.284	-0.304
+T0968	binding 	-0.618	-0.235
+T0969	binding 	0.596	-0.33299999999999996
+T0970	binding 	0.195	0.105
+T0971	binding 	-0.14	0.218
+T0972	binding 	-0.371	-0.358
+T0973	binding 	1.008	-0.205
+T0974	binding 	-0.37	-0.585
+T0975	oxidoreductase activity 	0.802	0.012
+T0976	NONE	0.9570000000000001	-0.256
+T0977	transcription regulator activity 	0.14400000000000002	-0.062
+T0978	hydrolase activity 	0.879	-0.318
+T0979	NONE	-0.39899999999999997	0.653
+T0980	transferase activity 	0.064	-0.35700000000000004
+T0981	ligase activity 	-0.037000000000000005	0.124
+T0982	protein binding 	-0.444	-0.39299999999999996
+T0983	lyase activity 	0.005	0.035
+T0984	lyase activity 	-0.55	-0.39299999999999996
+T0985	binding 	0.022000000000000002	-0.149
+T0986	binding 	0.037000000000000005	-0.25
+T0987	protein binding 	0.593	0.758
+T0988	protein binding 	0.048	-0.09300000000000001
+T0989	protein binding 	-0.46299999999999997	1.262
+T0990	protein binding 	-0.73	0.21600000000000003
+T0991	isomerase activity 	-0.17800000000000002	-0.278
+T0992	transferase activity 	0.485	-0.336
+T0993	transferase activity 	0.591	0.078
+T0994	hydrolase activity 	1.047	-0.263
+T0995	oxidoreductase activity 	0.82	-0.5770000000000001
+T0996	ion transporter activity 	0.8490000000000001	0.18600000000000003
+T0997	NONE	-0.042	0.39299999999999996
+T0998	oxidoreductase activity 	0.11199999999999999	-0.315
+T0999	oxidoreductase activity 	-0.508	0.017
+T1000	oxidoreductase activity 	1.031	0.603
+T1001	oxidoreductase activity 	1.579	0.322
+T1002	oxidoreductase activity 	1.5490000000000002	0.295
+T1003	oxidoreductase activity 	0.425	1.321
+T1004	oxidoreductase activity 	0.124	-0.7609999999999999
+T1005	oxidoreductase activity 	-0.222	0.151
+T1006	electron transporter activity 	-1.057	1.227
+T1007	electron transporter activity 	0.24600000000000002	0.209
+T1008	electron transporter activity 	-0.745	-2.153
+T1009	protein binding 	0.44	0.348
+T1010	protein binding 	1.325	-1.095
+T1011	protein binding 	0.040999999999999995	-0.633
+T1012	protein binding 	1.202	-0.054000000000000006
+T1013	transferase activity 	-0.386	-0.51
+T1014	transferase activity 	-0.322	0.331
+T1015	hydrolase activity 	1.5419999999999998	0.392
+T1016	ion transporter activity 	0.48100000000000004	0.151
+T1017	ion transporter activity 	-0.374	-0.7879999999999999
+T1018	protein binding 	1.082	0.465
+T1019	protein binding 	0.275	-0.109
+T1020	transcription regulator activity 	0.445	-0.486
+T1021	transferase activity 	1.317	-0.446
+T1022	transferase activity 	0.08	-0.609
+T1023	isomerase activity 	0.18600000000000003	-0.124
+T1024	isomerase activity 	0.615	-0.013000000000000001
+T1025	isomerase activity 	0.615	-0.013000000000000001
+T1026	isomerase activity 	0.8590000000000001	-0.068
+T1027	isomerase activity 	0.494	0.179
+T1028	isomerase activity 	0.152	-0.215
+T1029	isomerase activity 	0.866	-0.4
+T1030	oxidoreductase activity 	2.044	-0.35200000000000004
+T1031	oxidoreductase activity 	2.07	-0.102
+T1032	oxidoreductase activity 	1.386	-0.157
+T1033	oxidoreductase activity 	1.0659999999999998	0.046
+T1034	oxidoreductase activity 	1.25	-1.604
+T1035	oxidoreductase activity 	1.218	1.0859999999999999
+T1036	protein binding 	0.09699999999999999	0.325
+T1037	protein transporter activity 	0.568	-0.882
+T1038	binding 	0.418	0.44299999999999995
+T1039	oxidoreductase activity 	-0.193	-0.161
+T1040	lyase activity 	0.652	0.754
+T1041	lyase activity 	0.244	0.434
+T1042	ligase activity 	0.542	-0.713
+T1043	ligase activity 	-0.539	1.023
+T1044	ligase activity 	0.752	0.033
+T1045	hydrolase activity 	0.13699999999999998	-0.384
+T1046	binding 	-0.419	-0.05
+T1047	binding 	0.053	-0.777
+T1048	binding 	0.17	-0.929
+T1049	transferase activity 	0.76	-1.3530000000000002
+T1050	isomerase activity 	0.29	-0.361
+T1051	transferase activity 	0.311	-0.6459999999999999
+T1052	transferase activity 	-0.537	-0.7490000000000001
+T1053	oxidoreductase activity 	-0.28600000000000003	0.18
+T1054	oxidoreductase activity 	0.495	0.163
+T1055	ion transporter activity 	0.7559999999999999	0.46399999999999997
+T1056	oxidoreductase activity 	-0.547	-0.14300000000000002
+T1057	oxidoreductase activity 	0.7	-0.324
+T1058	oxidoreductase activity 	0.799	-0.41100000000000003
+T1059	oxidoreductase activity 	0.922	-0.8540000000000001
+T1060	binding 	1.6580000000000001	0.5589999999999999
+T1061	oxidoreductase activity 	1.084	0.005
+T1062	transferase activity 	0.358	-0.23800000000000002
+T1063	NONE	0.152	-0.27
+T1064	lyase activity 	-0.10099999999999999	-0.39799999999999996
+T1065	transferase activity 	-0.19899999999999998	-0.65
+T1066	hydrolase activity 	0.38799999999999996	-0.252
+T1067	hydrolase activity 	0.467	-0.5329999999999999
+T1068	hydrolase activity 	1.281	-0.253
+T1069	lyase activity 	0.644	-0.5589999999999999
+T1070	isomerase activity 	0.379	0.9620000000000001
+T1071	oxidoreductase activity 	0.514	-1.171
+T1072	lyase activity 	0.8440000000000001	-0.456
+T1073	oxidoreductase activity 	0.7190000000000001	0.152
+T1074	oxidoreductase activity 	0.076	-0.18100000000000002
+T1075	oxidoreductase activity 	-0.129	-0.49200000000000005
+T1076	oxidoreductase activity 	0.512	0.04
+T1077	oxidoreductase activity 	0.33	-0.19
+T1078	oxidoreductase activity 	-0.188	-0.299
+T1079	oxidoreductase activity 	-0.33799999999999997	0.251
+T1080	oxidoreductase activity 	0.373	-0.23399999999999999
+T1081	isomerase activity 	0.252	-0.107
+T1082	isomerase activity 	0.508	-0.147
+T1083	isomerase activity 	0.064	-0.701
+T1084	isomerase activity 	0.17	-0.299
+T1085	isomerase activity 	0.01	0.065
+T1086	isomerase activity 	-0.579	0.034
+T1087	isomerase activity 	0.171	-0.036000000000000004
+T1088	isomerase activity 	-0.485	-0.55
+T1089	receptor activity 	-0.753	-0.10099999999999999
+T1090	transferase activity 	0.552	-0.436
+T1091	transferase activity 	0.149	0.465
+T1092	transferase activity 	-0.10800000000000001	0.498
+T1093	binding 	0.608	-0.28600000000000003
+T1094	isomerase activity 	0.239	-0.336
+T1095	transferase activity 	-0.508	0.07400000000000001
+T1096	transferase activity 	0.503	0.529
+T1097	isomerase activity 	0.69	0.272
+T1098	isomerase activity 	0.598	-0.6829999999999999
+T1099	transferase activity 	-0.09699999999999999	0.115
+T1100	transferase activity 	0.024	-0.215
+T1101	transferase activity 	0.326	0.255
+T1102	transferase activity 	0.21100000000000002	1.725
+T1103	transferase activity 	0.701	1.631
+T1104	hydrolase activity 	-0.048	0.027000000000000003
+T1105	hydrolase activity 	-0.11	-0.20600000000000002
+T1106	oxidoreductase activity 	0.045	0.207
+T1107	oxidoreductase activity 	0.52	-0.16899999999999998
+T1108	NONE	0.499	-0.268
+T1109	protein binding 	0.628	0.23199999999999998
+T1110	transferase activity 	0.5660000000000001	0.13
+T1111	channel or pore class transporter activity 	-1.268	0.154
+T1112	binding 	0.35200000000000004	-0.017
+T1113	ligase activity 	0.401	-0.37
+T1114	oxidoreductase activity 	-0.053	0.44
+T1115	hydrolase activity 	-0.34600000000000003	-0.867
+T1116	hydrolase activity 	0.693	0.095
+T1117	transcription regulator activity 	0.78	-0.114
+T1118	transcription regulator activity 	-0.203	0.18600000000000003
+T1119	binding 	1.443	-0.975
+T1120	oxidoreductase activity 	0.162	0.129
+T1121	transferase activity 	0.7559999999999999	-0.7070000000000001
+T1122	transferase activity 	-0.27899999999999997	-0.28800000000000003
+T1123	transferase activity 	-0.41100000000000003	-0.917
+T1124	protein binding 	-0.21899999999999997	-0.12
+T1125	enzyme regulator activity 	0.518	0.107
+T1126	catalytic activity 	0.462	0.249
+T1127	lyase activity 	0.882	0.239
+T1128	oxidoreductase activity 	0.584	-0.175
+T1129	NONE	-0.643	-0.122
+T1130	molecular_function unknown 	0.34700000000000003	-0.302
+T1131	receptor activity 	-0.21100000000000002	0.217
+T1132	hydrolase activity 	0.006	0.489
+T1133	transferase activity 	-0.361	0.179
+T1134	transferase activity 	0.244	0.062
+T1135	binding 	0.293	-0.609
+T1136	binding 	0.24100000000000002	-0.040999999999999995
+T1137	binding 	0.6659999999999999	-1.204
+T1138	binding 	0.613	-0.981
+T1139	binding 	0.446	0.033
+T1140	binding 	0.31	-0.044000000000000004
+T1141	binding 	0.879	0.03
+T1142	binding 	-0.22399999999999998	-0.495
+T1143	binding 	0.38799999999999996	0.77
+T1144	binding 	0.467	-0.08
+T1145	binding 	0.81	-0.06
+T1146	binding 	-0.544	0.5479999999999999
+T1147	binding 	0.934	0.01
+T1148	binding 	-0.08	-0.545
+T1149	binding 	-0.483	-0.35
+T1150	binding 	1.3119999999999998	0.055
+T1151	NONE	0.396	-0.163
+T1152	hydrolase activity 	-1.1079999999999999	0.873
+T1153	isomerase activity 	0.537	-0.002
+T1154	transferase activity 	0.48200000000000004	-0.484
+T1155	transferase activity 	-1.042	-0.49
+T1156	protein binding 	-0.29600000000000004	0.386
+T1157	transferase activity 	0.45399999999999996	-0.21600000000000003
+T1158	transferase activity 	1.087	-0.92
+T1159	transferase activity 	0.311	0.369
+T1160	transferase activity 	0.37	-0.258
+T1161	transferase activity 	1.0090000000000001	-0.83
+T1162	ligase activity 	0.46799999999999997	0.218
+T1163	ligase activity 	1.133	-0.213
+T1164	ligase activity 	0.53	-0.22399999999999998
+T1165	hydrolase activity 	0.16399999999999998	0.067
+T1166	hydrolase activity 	0.509	0.09699999999999999
+T1167	oxidoreductase activity 	-0.17600000000000002	-0.49700000000000005
+T1168	transferase activity 	1.187	-1.145
+T1169	binding 	-0.18600000000000003	0.267
+T1170	transferase activity 	0.34600000000000003	-0.426
+T1171	channel or pore class transporter activity 	-1.038	0.14
+T1172	channel or pore class transporter activity 	-0.848	0.34299999999999997
+T1173	channel or pore class transporter activity 	-0.768	-0.002
+T1174	channel or pore class transporter activity 	-0.39	0.127
+T1175	NONE	1.412	-0.6709999999999999
+T1176	NONE	-0.138	-1.177
+T1177	NONE	-1.042	-0.31
+T1178	hydrolase activity 	0.184	0.142
+T1179	hydrolase activity 	0.015	-0.478
+T1180	hydrolase activity 	0.35200000000000004	0.078
+T1181	hydrolase activity 	0.542	-0.015
+T1182	NONE	-0.66	-0.256
+T1183	oxidoreductase activity 	0.22	-0.451
+T1184	hydrolase activity 	0.085	-0.292
+T1185	transferase activity 	0.774	-0.15
+T1186	transferase activity 	1.26	-0.281
+T1187	transferase activity 	0.84	0.37
+T1188	transferase activity 	0.461	0.53
+T1189	transferase activity 	0.7709999999999999	0.368
+T1190	transferase activity 	-0.6859999999999999	0.052000000000000005
+T1191	transferase activity 	0.813	-0.209
+T1192	lyase activity 	0.8079999999999999	0.713
+T1193	lyase activity 	0.758	-0.034
+T1194	lyase activity 	0.785	-0.636
+T1195	isomerase activity 	0.418	-0.8590000000000001
+T1196	oxidoreductase activity 	0.293	-0.08199999999999999
+T1197	transferase activity 	-0.106	0.14400000000000002
+T1198	binding 	0.322	-1.18
+T1199	binding 	0.214	-0.38299999999999995
+T1200	NONE	0.799	-0.528
+T1201	transferase activity 	0.244	0.574
+T1202	transferase activity 	-0.305	0.43
+T1203	transferase activity 	-0.145	0.076
+T1204	isomerase activity 	-0.064	0.35600000000000004
+T1205	receptor activity 	-2.6460000000000004	0.7509999999999999
+T1206	transferase activity 	0.456	-0.239
+T1207	NONE	0.703	0.782
+T1208	oxidoreductase activity 	0.825	-0.483
+T1209	oxidoreductase activity 	0.82	0.151
+T1210	oxidoreductase activity 	-0.158	-0.9279999999999999
+T1211	protein binding 	-0.78	-0.01
+T1212	isomerase activity 	0.649	0.006
+T1213	hydrolase activity 	0.026000000000000002	1.45
+T1214	channel or pore class transporter activity 	-0.134	0.028999999999999998
+T1215	channel or pore class transporter activity 	-0.031	0.386
+T1216	channel or pore class transporter activity 	-0.076	0.33799999999999997
+T1217	channel or pore class transporter activity 	-0.485	0.004
+T1218	channel or pore class transporter activity 	-0.425	0.162
+T1219	channel or pore class transporter activity 	-0.221	-0.069
+T1220	channel or pore class transporter activity 	-0.475	-0.114
+T1221	channel or pore class transporter activity 	-0.366	0.354
+T1222	channel or pore class transporter activity 	-0.42	0.305
+T1223	channel or pore class transporter activity 	-0.48100000000000004	0.001
+T1224	channel or pore class transporter activity 	-0.948	-0.009000000000000001
+T1225	isomerase activity 	0.732	-0.335
+T1226	ligase activity 	0.9259999999999999	-0.39899999999999997
+T1227	ligase activity 	0.191	-0.354
+T1228	ligase activity 	-0.32899999999999996	0.19899999999999998
+T1229	ligase activity 	0.35600000000000004	0.529
+T1230	oxidoreductase activity 	0.6729999999999999	-0.34299999999999997
+T1231	oxidoreductase activity 	0.17600000000000002	-0.32299999999999995
+T1232	oxidoreductase activity 	0.34700000000000003	-0.255
+T1233	transferase activity 	-0.024	0.22699999999999998
+T1234	transferase activity 	-0.085	0.231
+T1235	hydrolase activity 	0.461	0.7290000000000001
+T1236	NONE	0.20199999999999999	-0.5579999999999999
+T1237	transferase activity 	0.9209999999999999	-0.201
+T1238	transferase activity 	0.672	-1.584
+T1239	transferase activity 	1.099	-0.299
+T1240	transferase activity 	0.299	-0.106
+T1241	transferase activity 	-0.004	-0.858
+T1242	transferase activity 	0.023	-0.301
+T1243	transferase activity 	0.012	-0.747
+T1244	transferase activity 	0.188	0.048
+T1245	transferase activity 	0.46299999999999997	-0.6559999999999999
+T1246	transferase activity 	-0.371	-0.33799999999999997
+T1247	transferase activity 	0.61	0.42200000000000004
+T1248	transferase activity 	0.22	-1.166
+T1249	transferase activity 	0.968	-0.318
+T1250	transferase activity 	0.17800000000000002	-0.499
+T1251	transferase activity 	0.201	-0.154
+T1252	transferase activity 	0.594	-1.396
+T1253	transferase activity 	0.187	0.337
+T1254	transferase activity 	1.246	-0.633
+T1255	transferase activity 	0.7859999999999999	-0.341
+T1256	transferase activity 	-0.12300000000000001	-0.305
+T1257	transferase activity 	0.287	-0.583
+T1258	transferase activity 	0.655	-0.564
+T1259	transferase activity 	-0.182	0.956
+T1260	transferase activity 	0.48	0.042
+T1261	transferase activity 	0.841	-0.9209999999999999
+T1262	NONE	0.512	-0.879
+T1263	isomerase activity 	-0.168	-0.8370000000000001
+T1264	transferase activity 	-0.174	1.028
+T1265	transferase activity 	0.732	-0.478
+T1266	transferase activity 	1.725	-0.907
+T1267	ligase activity 	0.38299999999999995	0.076
+T1268	ligase activity 	0.204	-0.021
+T1269	hydrolase activity 	-0.7829999999999999	-0.049
+T1270	hydrolase activity 	0.43799999999999994	-0.782
+T1271	hydrolase activity 	0.084	1.446
+T1272	lyase activity 	0.736	1.051
+T1273	hydrolase activity 	-0.47	0.096
+T1274	hydrolase activity 	0.484	0.322
+T1275	hydrolase activity 	0.8390000000000001	0.612
+T1276	hydrolase activity 	0.44	-0.08900000000000001
+T1277	hydrolase activity 	0.619	0.47600000000000003
+T1278	hydrolase activity 	1.339	-0.34
+T1279	hydrolase activity 	0.48	0.315
+T1280	hydrolase activity 	0.59	0.036000000000000004
+T1281	hydrolase activity 	0.237	0.6459999999999999
+T1282	hydrolase activity 	1.4880000000000002	-0.05
+T1283	hydrolase activity 	0.44	-0.008
+T1284	hydrolase activity 	0.037000000000000005	-0.128
+T1285	hydrolase activity 	0.441	0.069
+T1286	hydrolase activity 	1.015	-0.674
+T1287	hydrolase activity 	0.523	0.287
+T1288	hydrolase activity 	0.898	-0.28600000000000003
+T1289	hydrolase activity 	0.862	-0.073
+T1290	isomerase activity 	0.145	-0.281
+T1291	binding 	-1.014	0.302
+T1292	hydrolase activity 	-0.067	-0.502
+T1293	hydrolase activity 	0.406	-0.8909999999999999
+T1294	hydrolase activity 	0.525	0.204
+T1295	lyase activity 	-0.27899999999999997	-0.557
+T1296	oxidoreductase activity 	-0.207	-0.34299999999999997
+T1297	oxidoreductase activity 	0.713	-0.213
+T1298	binding 	-0.126	-0.446
+T1299	binding 	-0.162	0.043
+T1300	binding 	0.9420000000000001	-0.13
+T1301	binding 	0.9890000000000001	-0.983
+T1302	oxidoreductase activity 	0.499	-0.301
+T1303	transferase activity 	-0.474	-0.583
+T1304	channel or pore class transporter activity 	-1.6159999999999999	0.128
+T1305	oxidoreductase activity 	0.42100000000000004	-0.156
+T1306	oxidoreductase activity 	0.488	0.3
+T1307	oxidoreductase activity 	0.818	0.013000000000000001
+T1308	oxidoreductase activity 	0.391	1.002
+T1309	oxidoreductase activity 	0.132	0.5589999999999999
+T1310	hydrolase activity 	-0.272	0.221
+T1311	oxidoreductase activity 	0.8079999999999999	0.177
+T1312	isomerase activity 	0.784	-0.635
+T1313	transferase activity 	0.264	-0.609
+T1314	oxidoreductase activity 	-0.044000000000000004	-0.185
+T1315	lyase activity 	-0.591	-0.784
+T1316	lyase activity 	-0.282	-1.131
+T1317	lyase activity 	0.278	-0.023
+T1318	lyase activity 	-0.046	-0.405
+T1319	lyase activity 	-0.18600000000000003	-0.311
+T1320	transferase activity 	0.677	-0.134
+T1321	binding 	0.35700000000000004	-0.13699999999999998
+T1322	NONE	-0.261	0.034
+T1323	hydrolase activity 	-0.588	0.166
+T1324	hydrolase activity 	-0.718	-0.035
+T1325	lyase activity 	0.846	0.49
+T1326	lyase activity 	-0.028999999999999998	-0.35700000000000004
+T1327	transferase activity 	0.995	0.727
+T1328	binding 	-0.364	-0.586
+T1329	binding 	1.1909999999999998	0.644
+T1330	binding 	-1.8559999999999999	-0.19899999999999998
+T1331	enzyme regulator activity 	-0.282	-0.05
+T1332	binding 	0.17600000000000002	0.499
+T1333	hydrolase activity 	-0.221	0.574
+T1334	structural molecule activity 	0.83	0.166
+T1335	binding 	-0.004	-1.085
+T1336	hydrolase activity 	0.003	-0.035
+T1337	hydrolase activity 	0.7959999999999999	-0.956
+T1338	transferase activity 	-0.23800000000000002	0.278
+T1339	transferase activity 	-0.344	0.07
+T1340	transferase activity 	0.546	-0.069
+T1341	oxidoreductase activity 	0.851	0.498
+T1342	hydrolase activity 	-0.5770000000000001	1.666
+T1343	hydrolase activity 	-0.313	-0.355
+T1344	transferase activity 	0.183	-0.5329999999999999
+T1345	transferase activity 	0.588	-0.154
+T1346	transferase activity 	0.263	0.08199999999999999
+T1347	lyase activity 	0.653	-0.09699999999999999
+T1348	lyase activity 	0.27699999999999997	-0.069
+T1349	transferase activity 	0.669	-0.7759999999999999
+T1350	transferase activity 	-0.345	-0.669
+T1351	oxidoreductase activity 	0.363	0.263
+T1352	isomerase activity 	0.723	-0.263
+T1353	NONE	0.18600000000000003	0.8270000000000001
+T1354	oxidoreductase activity 	-0.5760000000000001	-0.504
+T1355	transcription regulator activity 	0.225	0.062
+T1356	binding 	-0.126	0.012
+T1357	lyase activity 	0.26899999999999996	-1.0979999999999999
+T1358	oxidoreductase activity 	0.138	-0.43700000000000006
+T1359	hydrolase activity 	0.114	0.28600000000000003
+T1360	NONE	0.113	-0.215
+T1361	oxidoreductase activity 	0.391	0.153
+T1362	oxidoreductase activity 	0.99	-0.414
+T1363	electron transporter activity 	0.47600000000000003	-0.39899999999999997
+T1364	transcription regulator activity 	-0.41700000000000004	-0.34299999999999997
+T1365	transcription regulator activity 	-0.384	-0.34
+T1366	lyase activity 	-0.762	0.7909999999999999
+T1367	lyase activity 	-0.059000000000000004	0.28300000000000003
+T1368	transferase activity 	0.061	-0.14300000000000002
+T1369	oxidoreductase activity 	0.648	-0.9390000000000001
+T1370	oxidoreductase activity 	0.384	0.18899999999999997
+T1371	oxidoreductase activity 	0.43	-0.146
+T1372	oxidoreductase activity 	0.802	-0.198
+T1373	transferase activity 	0.478	0.133
+T1374	transferase activity 	1.188	-0.583
+T1375	transferase activity 	0.657	-0.77
+T1376	transferase activity 	-0.904	-0.575
+T1377	transferase activity 	-0.904	-0.575
+T1378	receptor activity 	-3.614	-0.52
+T1379	receptor activity 	-3.136	0.086
+T1380	receptor activity 	-3.967	-0.557
+T1381	protein binding 	0.281	-0.39799999999999996
+T1382	hydrolase activity 	0.9390000000000001	0.027999999999999997
+T1383	enzyme regulator activity 	0.391	-0.26899999999999996
+T1384	enzyme regulator activity 	0.40399999999999997	-0.203
+T1385	enzyme regulator activity 	0.418	-0.133
+T1386	oxidoreductase activity 	1.4469999999999998	-0.442
+T1387	oxidoreductase activity 	1.235	-0.6459999999999999
+T1388	transcription regulator activity 	1.056	0.774
+T1389	protein binding 	0.171	0.314
+T1390	hydrolase activity 	0.474	-0.336
+T1391	hydrolase activity 	1.036	-0.578
+T1392	protein binding 	1.058	-0.293
+T1393	protein binding 	0.726	0.7490000000000001
+T1394	protein binding 	0.89	0.7070000000000001
+T1395	hydrolase activity 	0.754	-0.18899999999999997
+T1396	transferase activity 	-0.324	0.022000000000000002
+T1397	hydrolase activity 	0.023	-0.038
+T1398	protein binding 	0.948	-0.374
+T1399	hydrolase activity 	-0.011000000000000001	0.14400000000000002
+T1400	ligase activity 	0.079	-0.156
+T1401	transcription regulator activity 	-0.366	0.726
+T1402	lyase activity 	0.09	0.025
+T1403	transferase activity 	0.275	-0.217
+T1404	transferase activity 	0.474	0.154
+T1405	transferase activity 	0.684	-0.013000000000000001
+T1406	isomerase activity 	0.165	-0.41700000000000004
+T1407	hydrolase activity 	0.36200000000000004	-0.185
+T1408	hydrolase activity 	0.486	-0.435
+T1409	hydrolase activity 	0.675	-0.9259999999999999
+T1410	hydrolase activity 	-0.745	0.619
+T1411	hydrolase activity 	-0.493	0.442
+T1412	lyase activity 	0.773	-0.268
+T1413	lyase activity 	0.596	-0.183
+T1414	oxidoreductase activity 	-0.08900000000000001	-0.649
+T1415	hydrolase activity 	0.502	-0.664
+T1416	protein binding 	0.316	-0.332
+T1417	protein binding 	-0.5479999999999999	0.023
+T1418	binding 	-0.37	-1.536
+T1419	hydrolase activity 	0.9540000000000001	0.322
+T1420	oxidoreductase activity 	0.425	-0.023
+T1421	oxidoreductase activity 	0.19	-0.032
+T1422	oxidoreductase activity 	0.625	-0.255
+T1423	oxidoreductase activity 	0.5479999999999999	-0.32899999999999996
+T1424	oxidoreductase activity 	0.5529999999999999	-0.547
+T1425	isomerase activity 	-0.061	1.0490000000000002
+T1426	isomerase activity 	-0.096	0.008
+T1427	translation regulator activity 	0.792	-0.094
+T1428	translation regulator activity 	0.807	-0.39899999999999997
+T1429	translation regulator activity 	0.18100000000000002	-0.648
+T1430	translation regulator activity 	0.017	-0.5379999999999999
+T1431	translation regulator activity 	0.508	0.34600000000000003
+T1432	protein binding 	-0.193	0.736
+T1433	transferase activity 	-0.026000000000000002	-0.061
+T1434	protein binding 	-0.493	-0.327
+T1435	binding 	0.14300000000000002	0.643
+T1436	binding 	0.057	0.355
+T1437	protein binding 	-0.19	0.08
+T1438	protein binding 	0.33899999999999997	0.067
+T1439	protein binding 	-0.835	0.349
+T1440	enzyme regulator activity 	-0.43799999999999994	0.079
+T1441	protein binding 	-0.045	0.066
+T1442	protein binding 	-0.162	0.45299999999999996
+T1443	binding 	0.917	-0.14
+T1444	binding 	-0.223	-0.098
+T1445	oxidoreductase activity 	0.098	-0.022000000000000002
+T1446	transferase activity 	0.071	-0.531
+T1447	transferase activity 	0.574	0.52
+T1448	transferase activity 	0.253	-0.251
+T1449	oxidoreductase activity 	0.375	-0.379
+T1450	oxidoreductase activity 	0.386	0.002
+T1451	oxidoreductase activity 	0.442	0.126
+T1452	transferase activity 	0.6829999999999999	-0.644
+T1453	oxidoreductase activity 	0.092	-0.618
+T1454	transferase activity 	0.9179999999999999	-0.447
+T1455	isomerase activity 	0.419	0.14400000000000002
+T1456	transferase activity 	-0.248	-0.204
+T1457	protein binding 	-1.392	-0.809
+T1458	NONE	0.396	0.085
+T1459	oxidoreductase activity 	0.24600000000000002	-0.297
+T1460	enzyme regulator activity 	0.349	0.768
+T1461	transferase activity 	0.057999999999999996	-0.001
+T1462	transferase activity 	-0.08199999999999999	0.016
+T1463	oxidoreductase activity 	0.585	0.36
+T1464	hydrolase activity 	-0.466	0.027999999999999997
+T1465	channel or pore class transporter activity 	-1.429	1.0190000000000001
+T1466	hydrolase activity 	0.435	-0.531
+T1467	transferase activity 	-0.359	-0.452
+T1468	lyase activity 	0.14	-0.536
+T1469	transferase activity 	0.5579999999999999	-0.695
+T1470	transferase activity 	0.746	-0.99
+T1471	transferase activity 	0.813	-0.53
+T1472	lyase activity 	1.347	-0.312
+T1473	lyase activity 	0.34600000000000003	-0.426
+T1474	lyase activity 	-0.228	-0.809
+T1475	hydrolase activity 	0.574	-0.023
+T1476	protein binding 	-0.258	0.39799999999999996
+T1477	protein binding 	-0.14400000000000002	0.384
+T1478	transferase activity 	-0.441	0.251
+T1479	channel or pore class transporter activity 	-0.429	-0.008
+T1480	oxidoreductase activity 	0.021	-0.96
+T1481	enzyme regulator activity 	0.322	0.17800000000000002
+T1482	transferase activity 	1.537	-1.054
+T1483	transferase activity 	-0.41700000000000004	-0.812
+T1484	transferase activity 	0.27	-0.19399999999999998
+T1485	transferase activity 	0.9059999999999999	-0.948
+T1486	transferase activity 	0.9940000000000001	-0.502
+T1487	transferase activity 	0.348	0.506
+T1488	transferase activity 	0.8140000000000001	0.281
+T1489	transferase activity 	1.775	-0.5820000000000001
+T1490	transferase activity 	0.6970000000000001	-0.701
+T1491	transferase activity 	1.703	-0.322
+T1492	transferase activity 	0.867	-1.09
+T1493	NONE	-0.7490000000000001	-0.8
+T1494	transferase activity 	-0.242	0.033
+T1495	enzyme regulator activity 	-0.613	-0.981
+T1496	enzyme regulator activity 	0.848	-0.022000000000000002
+T1497	transferase activity 	1.14	0.295
+T1498	transferase activity 	0.006999999999999999	0.345
+T1499	transferase activity 	0.158	0.38
+T1500	transferase activity 	1.4609999999999999	-0.23199999999999998
+T1501	binding 	0.718	-0.38799999999999996
+T1502	transferase activity 	0.871	0.37799999999999995
+T1503	lyase activity 	-0.055	-0.295
+T1504	transferase activity 	-0.295	-0.268
+T1505	transferase activity 	0.075	-0.9740000000000001
+T1506	transferase activity 	0.6629999999999999	-0.76
+T1507	channel or pore class transporter activity 	-0.473	1.21
+T1508	channel or pore class transporter activity 	-1.425	-0.299
+T1509	channel or pore class transporter activity 	-1.673	-0.315
+T1510	channel or pore class transporter activity 	-0.7490000000000001	-0.401
+T1511	channel or pore class transporter activity 	-0.157	-0.831
+T1512	channel or pore class transporter activity 	-1.057	0.335
+T1513	channel or pore class transporter activity 	-1.161	-0.46
+T1514	transferase activity 	0.99	-0.506
+T1515	transferase activity 	0.486	-0.276
+T1516	transferase activity 	0.991	-0.326
+T1517	transferase activity 	0.8370000000000001	-0.8640000000000001
+T1518	channel or pore class transporter activity 	-0.797	1.8030000000000002
+T1519	transferase activity 	0.74	-0.55
+T1520	transferase activity 	0.226	-1.028
+T1521	transferase activity 	0.677	0.025
+T1522	transferase activity 	0.615	-0.41600000000000004
+T1523	transferase activity 	-0.467	-0.42200000000000004
+T1524	transferase activity 	0.059000000000000004	-0.405
+T1525	hydrolase activity 	0.11900000000000001	0.485
+T1526	transferase activity 	0.444	-0.068
+T1527	transferase activity 	0.9990000000000001	-0.24600000000000002
+T1528	transferase activity 	0.40700000000000003	-0.188
+T1529	transferase activity 	1.382	0.065
+T1530	receptor activity 	-0.17	0.305
+T1531	binding 	-0.187	-0.271
+T1532	binding 	-0.095	-0.40700000000000003
+T1533	binding 	-0.111	-0.46
+T1534	binding 	0.47600000000000003	-0.185
+T1535	transferase activity 	0.527	0.052000000000000005
+T1536	binding 	0.514	0.129
+T1537	binding 	0.384	-0.35
+T1538	transferase activity 	-0.17800000000000002	-0.192
+T1539	transferase activity 	1.087	-0.8009999999999999
+T1540	transferase activity 	-0.046	-0.574
+T1541	transferase activity 	-0.139	-0.326
+T1542	transferase activity 	0.07	-0.287
+T1543	transferase activity 	-0.08800000000000001	-1.038
+T1544	transferase activity 	0.387	-0.456
+T1545	transferase activity 	-0.659	-0.604
+T1546	transferase activity 	0.41100000000000003	-0.5429999999999999
+T1547	transferase activity 	0.575	-0.124
+T1548	hydrolase activity 	-0.45899999999999996	-0.321
+T1549	hydrolase activity 	0.519	-0.048
+T1550	hydrolase activity 	-0.363	0.319
+T1551	transferase activity 	-0.022000000000000002	-0.14300000000000002
+T1552	transferase activity 	-0.138	0.161
+T1553	transferase activity 	0.08199999999999999	0.205
+T1554	transferase activity 	0.507	0.10800000000000001
+T1555	ligase activity 	-0.183	-0.816
+T1556	transferase activity 	0.584	-0.59
+T1557	transferase activity 	-0.04	-0.281
+T1558	transferase activity 	0.43	0.192
+T1559	transferase activity 	0.67	0.19899999999999998
+T1560	transferase activity 	-0.504	-0.292
+T1561	transferase activity 	0.139	0.79
+T1562	transferase activity 	0.188	0.594
+T1563	transferase activity 	0.379	-0.040999999999999995
+T1564	transferase activity 	0.9279999999999999	-0.619
+T1565	transferase activity 	0.449	1.625
+T1566	transferase activity 	0.9840000000000001	0.436
+T1567	binding 	0.17600000000000002	-0.14800000000000002
+T1568	binding 	-1.175	0.28600000000000003
+T1569	hydrolase activity 	0.451	-0.013000000000000001
+T1570	oxidoreductase activity 	-0.311	1.094
+T1571	oxidoreductase activity 	-0.046	0.866
+T1572	binding 	0.878	-0.138
+T1573	binding 	0.342	0.307
+T1574	hydrolase activity 	0.598	1.199
+T1575	transcription regulator activity 	0.599	-0.078
+T1576	ion transporter activity 	-2.272	-0.052000000000000005
+T1577	binding 	0.192	-0.182
+T1578	channel or pore class transporter activity 	0.9590000000000001	0.551
+T1579	channel or pore class transporter activity 	1.122	0.039
+T1580	NONE	0.522	-0.927
+T1581	carrier activity 	-1.9909999999999999	-0.34
+T1582	carrier activity 	-0.904	-0.249
+T1583	transferase activity 	0.175	-0.431
+T1584	transferase activity 	-0.17600000000000002	-0.038
+T1585	hydrolase activity 	-0.003	-0.29100000000000004
+T1586	transferase activity 	-0.899	0.024
+T1587	transferase activity 	-0.39899999999999997	0.237
+T1588	oxidoreductase activity 	0.09699999999999999	-0.10099999999999999
+T1589	oxidoreductase activity 	0.114	-0.23199999999999998
+T1590	oxidoreductase activity 	-0.152	1.146
+T1591	oxidoreductase activity 	0.441	0.055999999999999994
+T1592	oxidoreductase activity 	0.22399999999999998	0.5329999999999999
+T1593	oxidoreductase activity 	-0.301	-0.29
+T1594	protein binding 	0.036000000000000004	0.821
+T1595	oxidoreductase activity 	0.903	0.185
+T1596	binding 	1.192	-0.11599999999999999
+T1597	binding 	-0.051	-0.034
+T1598	binding 	0.35100000000000003	0.331
+T1599	binding 	-0.05	0.10800000000000001
+T1600	binding 	0.609	0.245
+T1601	binding 	0.326	0.48700000000000004
+T1602	binding 	0.295	0.134
+T1603	binding 	0.385	0.28600000000000003
+T1604	binding 	-0.647	0.204
+T1605	binding 	-1.51	-0.085
+T1606	binding 	0.504	-0.762
+T1607	binding 	0.253	-0.7340000000000001
+T1608	binding 	-1.2409999999999999	0.047
+T1609	binding 	-0.665	-0.342
+T1610	binding 	0.7020000000000001	-0.046
+T1611	binding 	0.528	-0.179
+T1612	protein binding 	0.9259999999999999	-0.276
+T1613	hydrolase activity 	0.9159999999999999	0.434
+T1614	binding 	0.345	0.255
+T1615	binding 	-0.086	0.7879999999999999
+T1616	binding 	0.515	-0.261
+T1617	binding 	0.449	-0.335
+T1618	binding 	1.143	-0.032
+T1619	protein binding 	0.231	-0.294
+T1620	binding 	0.894	0.08
+T1621	binding 	1.028	0.508
+T1622	hydrolase activity 	0.645	0.201
+T1623	transferase activity 	0.88	-0.326
+T1624	oxidoreductase activity 	1.024	-0.17300000000000001
+T1625	protein binding 	-0.44	-0.444
+T1626	protein binding 	0.037000000000000005	-0.612
+T1627	binding 	1.012	-0.612
+T1628	lyase activity 	0.626	0.821
+T1629	binding 	0.122	0.11800000000000001
+T1630	oxidoreductase activity 	0.271	0.036000000000000004
+T1631	oxidoreductase activity 	0.040999999999999995	0.20199999999999999
+T1632	oxidoreductase activity 	0.187	-0.017
+T1633	hydrolase activity 	0.245	-0.183
+T1634	hydrolase activity 	0.4	-0.293
+T1635	hydrolase activity 	0.042	-0.086
+T1636	hydrolase activity 	-0.21600000000000003	0.009000000000000001
+T1637	hydrolase activity 	0.24100000000000002	-0.266
+T1638	hydrolase activity 	-0.11699999999999999	-0.009000000000000001
+T1639	hydrolase activity 	0.115	-0.022000000000000002
+T1640	ligase activity 	-0.772	-0.159
+T1641	hydrolase activity 	-1.545	0.358
+T1642	hydrolase activity 	-1.3019999999999998	1.1340000000000001
+T1643	hydrolase activity 	0.5770000000000001	-0.127
+T1644	hydrolase activity 	0.8959999999999999	-0.15
+T1645	hydrolase activity 	0.228	0.10300000000000001
+T1646	hydrolase activity 	-0.6920000000000001	0.10800000000000001
+T1647	hydrolase activity 	0.6659999999999999	-0.41200000000000003
+T1648	hydrolase activity 	0.12	0.639
+T1649	hydrolase activity 	0.077	-0.035
+T1650	hydrolase activity 	-0.644	-0.157
+T1651	protein transporter activity 	0.431	0.503
+T1652	oxidoreductase activity 	-0.961	-0.591
+T1653	oxidoreductase activity 	-0.087	0.168
+T1654	hydrolase activity 	-0.8859999999999999	2.1319999999999997
+T1655	transferase activity 	0.294	0.569
+T1656	hydrolase activity 	0.9259999999999999	-0.301
+T1657	receptor activity 	-0.7340000000000001	0.10099999999999999
+T1658	oxidoreductase activity 	-0.495	-0.121
+T1659	lyase activity 	0.899	-0.191
+T1660	lyase activity 	1.624	-0.025
+T1661	binding 	0.523	-0.782
+T1662	oxidoreductase activity 	0.652	-0.35
+T1663	protein binding 	0.624	0.439
+T1664	protein binding 	-0.042	0.8170000000000001
+T1665	hydrolase activity 	0.6759999999999999	0.2
+T1666	oxidoreductase activity 	0.281	-0.179
+T1667	hydrolase activity 	0.295	0.297
+T1668	hydrolase activity 	-0.039	0.257
+T1669	NONE	0.159	-0.204
+T1670	hydrolase activity 	0.23399999999999999	0.425
+T1671	hydrolase activity 	0.159	-0.204
+T1672	hydrolase activity 	-1.104	-0.452
+T1673	hydrolase activity 	0.514	0.069
+T1674	hydrolase activity 	1.574	-1.06
+T1675	transferase activity 	-0.292	0.304
+T1676	hydrolase activity 	0.187	1.036
+T1677	hydrolase activity 	-0.359	0.055999999999999994
+T1678	isomerase activity 	0.742	0.006999999999999999
+T1679	lyase activity 	0.794	0.248
+T1680	binding 	0.873	0.355
+T1681	protein binding 	0.076	0.298
+T1682	molecular_function unknown 	-0.079	0.013000000000000001
+T1683	carrier activity 	0.354	0.309
+T1684	carrier activity 	0.32899999999999996	0.452
+T1685	transferase activity 	0.281	-0.086
+T1686	transferase activity 	0.175	-0.193
+T1687	transcription regulator activity 	0.73	-0.303
+T1688	isomerase activity 	0.10800000000000001	-0.941
+T1689	hydrolase activity 	1.045	0.39899999999999997
+T1690	hydrolase activity 	0.061	0.629
+T1691	isomerase activity 	-0.795	0.087
+T1692	hydrolase activity 	1.145	-0.105
+T1693	binding 	-0.24	0.34
+T1694	isomerase activity 	0.38	0.192
+T1695	oxidoreductase activity 	0.078	-0.284
+T1696	oxidoreductase activity 	-0.038	-0.188
+T1697	transferase activity 	0.331	0.05
+T1698	transcription regulator activity 	0.201	-0.812
+T1699	hydrolase activity 	-0.051	-0.191
+T1700	enzyme regulator activity 	0.085	-0.125
+T1701	transferase activity 	0.644	-0.401
+T1702	transferase activity 	-0.16399999999999998	-0.45799999999999996
+T1703	binding 	0.469	0.023
+T1704	binding 	0.43799999999999994	0.08800000000000001
+T1705	oxidoreductase activity 	1.061	-0.465
+T1706	ligase activity 	-0.38	-0.35200000000000004
+T1707	ligase activity 	-0.079	-0.038
+T1708	hydrolase activity 	0.29600000000000004	0.019
+T1709	transferase activity 	0.3	0.027999999999999997
+T1710	receptor activity 	0.748	0.284
+T1711	hydrolase activity 	0.263	0.626
+T1712	receptor activity 	-0.752	-0.086
+T1713	transcription regulator activity 	-0.425	-0.226
+T1714	oxidoreductase activity 	0.129	-0.29600000000000004
+T1715	oxidoreductase activity 	-0.018000000000000002	-0.973
+T1716	oxidoreductase activity 	1.349	-0.611
+T1717	lyase activity 	0.6659999999999999	-0.222
+T1718	oxidoreductase activity 	-0.092	-0.308
+T1719	lyase activity 	0.54	-0.35600000000000004
+T1720	transcription regulator activity 	-0.026000000000000002	0.02
+T1721	ligase activity 	0.44299999999999995	-0.11
+T1722	hydrolase activity 	0.51	1.354
+T1723	lyase activity 	0.7140000000000001	-0.7979999999999999
+T1724	lyase activity 	-0.207	0.33
+T1725	hydrolase activity 	-0.21899999999999997	-0.317
+T1726	oxidoreductase activity 	0.368	-0.9640000000000001
+T1727	transferase activity 	0.35	-0.371
+T1728	transferase activity 	0.263	0.19699999999999998
+T1729	transferase activity 	0.846	0.177
+T1730	transferase activity 	0.29100000000000004	-0.209
+T1731	transferase activity 	0.573	0.171
+T1732	oxidoreductase activity 	1.026	0.57
+T1733	transferase activity 	0.677	-0.365
+T1734	transferase activity 	0.125	-0.21100000000000002
+T1735	transferase activity 	0.613	0.209
+T1736	transferase activity 	0.342	-0.46799999999999997
+T1737	transferase activity 	0.235	0.272
+T1738	transferase activity 	0.349	0.182
+T1739	transferase activity 	-0.513	0.033
+T1740	protein transporter activity 	1.2590000000000001	-0.6609999999999999
+T1741	protein binding 	1.071	0.792
+T1742	binding 	-0.321	-0.14
+T1743	transferase activity 	-0.242	0.5720000000000001
+T1744	transferase activity 	0.42	-0.11
+T1745	binding 	-1.1179999999999999	-0.784
+T1746	receptor activity 	-0.975	-0.32799999999999996
+T1747	receptor activity 	-0.9440000000000001	-0.349
+T1748	lyase activity 	0.502	-0.804
+T1749	hydrolase activity 	-1.061	0.248
+T1750	isomerase activity 	-0.9209999999999999	-0.187
+T1751	transporter activity 	-1.607	1.3
+T1752	transferase activity 	0.474	-0.342
+T1753	transferase activity 	-0.504	-0.203
+T1754	transferase activity 	-0.465	-0.721
+T1755	transferase activity 	0.066	-0.17800000000000002
+T1756	transferase activity 	0.017	-0.27699999999999997
+T1757	hydrolase activity 	0.048	-0.7170000000000001
+T1758	lyase activity 	0.382	-0.376
+T1759	hydrolase activity 	-0.8059999999999999	1.208
+T1760	hydrolase activity 	-0.069	0.6779999999999999
+T1761	hydrolase activity 	-0.35200000000000004	0.35600000000000004
+T1762	hydrolase activity 	-0.726	0.377
+T1763	enzyme regulator activity 	-1.2890000000000001	-0.087
+T1764	hydrolase activity 	0.309	0.09300000000000001
+T1765	hydrolase activity 	-0.3	0.609
+T1766	hydrolase activity 	0.21600000000000003	0.158
+T1767	hydrolase activity 	0.044000000000000004	-0.13
+T1768	oxidoreductase activity 	-0.511	-0.452
+T1769	hydrolase activity 	0.322	0.195
+T1770	binding 	1.538	0.172
+T1771	NONE	1.14	0.20600000000000002
+T1772	NONE	0.64	0.106
+T1773	NONE	-0.342	-1.212
+T1774	binding 	-0.11599999999999999	-0.8690000000000001
+T1775	oxidoreductase activity 	0.58	-0.187
+T1776	carrier activity 	-1.744	0.174
+T1777	carrier activity 	-1.82	-0.31
+T1778	carrier activity 	-0.20800000000000002	-0.253
+T1779	carrier activity 	-1.64	0.135
+T1780	carrier activity 	-1.883	0.0
+T1781	carrier activity 	-1.492	-0.589
+T1782	carrier activity 	-1.984	-0.273
+T1783	carrier activity 	-0.7759999999999999	0.872
+T1784	transferase activity 	-0.706	0.188
+T1785	NONE	1.7180000000000002	0.902
+T1786	hydrolase activity 	-0.057	0.292
+T1787	hydrolase activity 	-0.051	0.001
+T1788	binding 	0.413	0.135
+T1789	transporter activity 	0.081	-0.184
+T1790	transferase activity 	0.242	0.032
+T1791	hydrolase activity 	1.051	-0.603
+T1792	hydrolase activity 	-1.275	-0.29
+T1793	lyase activity 	-0.6609999999999999	0.006999999999999999
+T1794	oxidoreductase activity 	0.163	0.078
+T1795	oxidoreductase activity 	0.544	0.063
+T1796	oxidoreductase activity 	0.484	-0.67
+T1797	oxidoreductase activity 	0.36700000000000005	0.38
+T1798	oxidoreductase activity 	0.758	-0.036000000000000004
+T1799	transferase activity 	0.094	-0.163
+T1800	transferase activity 	-0.29600000000000004	-0.423
+T1801	hydrolase activity 	0.295	0.26899999999999996
+T1802	transferase activity 	0.7609999999999999	-0.23800000000000002
+T1803	receptor activity 	-1.5190000000000001	0.349
+T1804	transferase activity 	0.128	-0.662
+T1805	hydrolase activity 	0.401	-0.915
+T1806	transferase activity 	-0.38	-0.07
+T1807	binding 	-0.41100000000000003	0.021
+T1808	receptor activity 	-2.904	-0.332
+T1809	transferase activity 	-0.207	-0.376
+T1810	binding 	1.3880000000000001	1.033
+T1811	oxidoreductase activity 	-0.036000000000000004	-0.302
+T1812	transferase activity 	0.665	0.688
+T1813	binding 	0.18600000000000003	0.359
+T1814	binding 	0.158	0.248
+T1815	binding 	-0.34600000000000003	-1.057
+T1816	transferase activity 	0.6970000000000001	-0.017
+T1817	transferase activity 	0.598	-0.136
+T1818	oxidoreductase activity 	0.45	0.087
+T1819	oxidoreductase activity 	0.872	-0.6809999999999999
+T1820	ligase activity 	0.256	-0.22699999999999998
+T1821	ligase activity 	0.5539999999999999	0.10300000000000001
+T1822	ligase activity 	0.46399999999999997	-0.86
+T1823	transferase activity 	0.363	-0.6970000000000001
+T1824	isomerase activity 	1.369	0.313
+T1825	hydrolase activity 	-0.105	-0.22
+T1826	binding 	0.5529999999999999	-0.37200000000000005
+T1827	hydrolase activity 	1.1179999999999999	-0.262
+T1828	hydrolase activity 	0.154	-0.599
+T1829	oxidoreductase activity 	0.981	0.10300000000000001
+T1830	NONE	0.7040000000000001	-0.6970000000000001
+T1831	binding 	1.439	0.35
+T1832	binding 	0.489	-0.085
+T1833	binding 	1.43	-0.6409999999999999
+T1834	protein binding 	0.475	-0.292
+T1835	protein binding 	0.252	-0.209
+T1836	protein binding 	-0.053	-0.132
+T1837	binding 	-0.129	-0.183
+T1838	hydrolase activity 	0.396	-0.07
+T1839	protein binding 	0.9620000000000001	-0.153
+T1840	hydrolase activity 	0.534	0.14
+T1841	oxidoreductase activity 	1.054	-0.18100000000000002
+T1842	transferase activity 	0.9079999999999999	-0.961
+T1843	transferase activity 	0.907	0.441
+T1844	transferase activity 	0.002	-0.5
+T1845	transferase activity 	0.325	-0.982
+T1846	transferase activity 	0.55	-0.191
+T1847	ligase activity 	0.684	0.2
+T1848	ligase activity 	-0.534	0.053
+T1849	ligase activity 	-0.701	-0.6629999999999999
+T1850	transferase activity 	0.588	-0.063
+T1851	hydrolase activity 	-0.6809999999999999	0.39899999999999997
+T1852	transcription regulator activity 	-0.28300000000000003	-0.306
+T1853	isomerase activity 	0.245	-0.043
+T1854	isomerase activity 	-0.006	0.41200000000000003
+T1855	hydrolase activity 	0.28600000000000003	-0.402
+T1856	lyase activity 	-0.38799999999999996	0.34700000000000003
+T1857	hydrolase activity 	0.65	0.039
+T1858	hydrolase activity 	-0.012	-0.298
+T1859	hydrolase activity 	0.705	0.408
+T1860	lyase activity 	0.948	-0.11
+T1861	binding 	1.151	1.501
+T1862	binding 	0.214	0.2
+T1863	oxidoreductase activity 	0.20600000000000002	-0.091
+T1864	transferase activity 	-0.591	0.638
+T1865	transferase activity 	1.445	-0.6990000000000001
+T1866	oxidoreductase activity 	0.6920000000000001	-0.7
+T1867	oxidoreductase activity 	1.003	-0.363
+T1868	oxidoreductase activity 	0.49200000000000005	-0.774
+T1869	protein binding 	0.14300000000000002	0.17600000000000002
+T1870	oxidoreductase activity 	0.052000000000000005	-0.537
+T1871	oxidoreductase activity 	0.172	-0.465
+T1872	enzyme regulator activity 	-0.033	-0.19
+T1873	protein binding 	0.379	-0.348
+T1874	binding 	1.092	-0.22699999999999998
+T1875	transferase activity 	0.127	-0.001
+T1876	transferase activity 	-0.395	-0.233
+T1877	hydrolase activity 	0.282	0.003
+T1878	transcription regulator activity 	0.237	-1.002
+T1879	transferase activity 	0.7509999999999999	-0.08
+T1880	lyase activity 	-0.155	-0.003
+T1881	hydrolase activity 	0.152	1.358
+T1882	hydrolase activity 	0.7070000000000001	-0.313
+T1883	hydrolase activity 	-0.08900000000000001	0.39899999999999997
+T1884	hydrolase activity 	0.026000000000000002	0.563
+T1885	protein binding 	0.501	0.035
+T1886	transferase activity 	-0.631	-0.20199999999999999
+T1887	transferase activity 	0.491	-0.24
+T1888	hydrolase activity 	0.47200000000000003	-0.8009999999999999
+T1889	protein binding 	-0.309	-1.4169999999999998
+T1890	NONE	0.54	-0.043
+T1891	oxidoreductase activity 	0.217	-0.6779999999999999
+T1892	oxidoreductase activity 	0.503	-0.69
+T1893	transferase activity 	0.64	-0.098
+T1894	oxidoreductase activity 	0.27699999999999997	-0.001
+T1895	hydrolase activity 	0.593	0.375
+T1896	binding 	-0.354	0.39
+T1897	binding 	-0.878	-0.033
+T1898	binding 	-0.267	0.256
+T1899	oxidoreductase activity 	-0.581	-0.003
+T1900	oxidoreductase activity 	0.298	-0.092
+T1901	transcription regulator activity 	0.32899999999999996	-0.925
+T1902	transcription regulator activity 	1.3659999999999999	-0.057
+T1903	NONE	1.0170000000000001	-0.516
+T1904	oxidoreductase activity 	0.536	-0.784
+T1905	oxidoreductase activity 	0.292	-0.408
+T1906	oxidoreductase activity 	0.51	-0.261
+T1907	binding 	-2.504	-0.5329999999999999
+T1908	binding 	0.135	0.599
+T1909	binding 	0.34700000000000003	-0.253
+T1910	binding 	0.396	-0.825
+T1911	binding 	-0.996	-0.051
+T1912	binding 	-0.055999999999999994	-0.733
+T1913	channel or pore class transporter activity 	-1.742	0.28300000000000003
+T1914	channel or pore class transporter activity 	-1.405	0.355
+T1915	channel or pore class transporter activity 	-0.853	0.011000000000000001
+T1916	channel or pore class transporter activity 	-0.7829999999999999	-0.12300000000000001
+T1917	channel or pore class transporter activity 	-1.345	0.059000000000000004
+T1918	channel or pore class transporter activity 	-1.1420000000000001	-0.27
+T1919	channel or pore class transporter activity 	-1.136	-1.023
+T1920	channel or pore class transporter activity 	-1.183	-1.077
+T1921	transferase activity 	0.046	-1.159
+T1922	transferase activity 	0.7390000000000001	-0.517
+T1923	transferase activity 	0.757	0.33399999999999996
+T1924	transferase activity 	-0.506	0.308
+T1925	transferase activity 	0.154	0.076
+T1926	oxidoreductase activity 	0.07	-0.303
+T1927	oxidoreductase activity 	0.264	-0.07400000000000001
+T1928	oxidoreductase activity 	0.425	0.035
+T1929	oxidoreductase activity 	0.392	-0.055
+T1930	oxidoreductase activity 	0.198	-0.046
+T1931	oxidoreductase activity 	0.135	-0.20600000000000002
+T1932	oxidoreductase activity 	-1.909	0.485
+T1933	oxidoreductase activity 	0.195	0.11199999999999999
+T1934	oxidoreductase activity 	-0.314	0.128
+T1935	oxidoreductase activity 	-0.067	0.25
+T1936	oxidoreductase activity 	0.045	-0.5770000000000001
+T1937	oxidoreductase activity 	0.607	-0.304
+T1938	oxidoreductase activity 	0.326	-0.256
+T1939	oxidoreductase activity 	-0.782	-0.973
+T1940	binding 	0.799	0.146
+T1941	binding 	-0.256	-0.636
+T1942	binding 	0.16399999999999998	0.233
+T1943	NONE	1.0190000000000001	-0.332
+T1944	transcription regulator activity 	0.28600000000000003	0.26
+T1945	transcription regulator activity 	0.943	-0.22899999999999998
+T1946	hydrolase activity 	1.135	0.065
+T1947	hydrolase activity 	1.033	0.235
+T1948	transferase activity 	0.046	-0.327
+T1949	oxidoreductase activity 	0.327	-0.055999999999999994
+T1950	oxidoreductase activity 	-0.22399999999999998	0.151
+T1951	oxidoreductase activity 	-0.248	0.496
+T1952	oxidoreductase activity 	0.358	0.7759999999999999
+T1953	transcription regulator activity 	0.535	0.18899999999999997
+T1954	transcription regulator activity 	0.624	-0.018000000000000002
+T1955	transcription regulator activity 	-0.304	-0.384
+T1956	hydrolase activity 	0.242	0.313
+T1957	hydrolase activity 	0.263	0.289
+T1958	hydrolase activity 	0.297	0.19699999999999998
+T1959	hydrolase activity 	0.461	0.049
+T1960	hydrolase activity 	0.402	0.032
+T1961	oxidoreductase activity 	0.639	-0.58
+T1962	molecular_function unknown 	1.69	0.5660000000000001
+T1963	oxidoreductase activity 	-0.078	0.141
+T1964	oxidoreductase activity 	0.391	-0.7909999999999999
+T1965	oxidoreductase activity 	0.193	-0.542
+T1966	protein binding 	0.419	0.639
+T1967	hydrolase activity 	0.46299999999999997	0.32799999999999996
+T1968	hydrolase activity 	0.36700000000000005	0.025
+T1969	hydrolase activity 	-1.06	0.135
+T1970	transferase activity 	-0.273	-0.7390000000000001
+T1971	hydrolase activity 	0.6459999999999999	-0.47700000000000004
+T1972	hydrolase activity 	-0.282	0.39799999999999996
+T1973	transcription regulator activity 	0.027000000000000003	-0.802
+T1974	oxidoreductase activity 	-2.1959999999999997	-0.9740000000000001
+T1975	hydrolase activity 	0.271	0.48100000000000004
+T1976	hydrolase activity 	-0.19699999999999998	-1.092
+T1977	hydrolase activity 	-0.84	0.223
+T1978	hydrolase activity 	0.865	0.171
+T1979	hydrolase activity 	0.517	0.5710000000000001
+T1980	hydrolase activity 	0.025	0.22399999999999998
+T1981	transcription regulator activity 	0.956	0.095
+T1982	transcription regulator activity 	0.377	0.6859999999999999
+T1983	hydrolase activity 	1.244	-0.039
+T1984	binding 	0.002	0.662
+T1985	transferase activity 	0.6779999999999999	-0.765
+T1986	lyase activity 	-0.257	-0.414
+T1987	isomerase activity 	0.099	-0.424
+T1988	lyase activity 	0.48	-0.41200000000000003
+T1989	isomerase activity 	0.804	-0.354
+T1990	NONE	0.983	-0.20600000000000002
+T1991	hydrolase activity 	1.255	0.498
+T1992	lyase activity 	0.22699999999999998	-0.406
+T1993	oxidoreductase activity 	0.371	-1.001
+T1994	hydrolase activity 	0.09699999999999999	-0.047
+T1995	hydrolase activity 	-0.263	-0.973
+T1996	oxidoreductase activity 	-0.33	-0.011000000000000001
+T1997	lyase activity 	0.076	-0.501
+T1998	hydrolase activity 	1.014	0.895
+T1999	oxidoreductase activity 	0.47100000000000003	-0.251
+T2000	binding 	0.797	-0.040999999999999995
+T2001	transferase activity 	1.492	-0.5539999999999999
+T2002	NONE	0.09699999999999999	-0.6709999999999999
+T2003	transcription regulator activity 	0.65	-0.72
+T2004	binding 	0.138	-1.157
+T2005	oxidoreductase activity 	1.375	0.613
+T2006	NONE	1.161	-0.654
+T2007	NONE	-0.185	-0.446
+T2008	transferase activity 	-0.11699999999999999	-0.929
+T2009	hydrolase activity 	0.805	-0.375
+T2010	NONE	0.807	-0.465
+T2011	ion transporter activity 	0.043	-1.165
+T2012	transferase activity 	1.236	-0.9259999999999999
+T2013	transcription regulator activity 	0.32	-0.43700000000000006
+T2014	transferase activity 	0.647	0.069
+T2015	NONE	0.726	-0.46799999999999997
+T2016	transferase activity 	0.429	-1.056
+T2017	hydrolase activity 	0.002	-0.064
+T2018	NONE	-0.596	-0.067
+T2019	NONE	0.439	0.215
+T2020	ligase activity 	0.568	-0.5489999999999999
+T2021	hydrolase activity 	-0.475	-0.168
+T2022	enzyme regulator activity 	-0.314	-0.479
+T2023	NONE	0.475	-0.578
+T2024	electron transporter activity 	0.34	-1.413
+T2025	oxidoreductase activity 	-0.478	-1.43
+T2026	oxidoreductase activity 	-0.075	-0.113
+T2027	transferase activity 	-0.353	1.068
+T2028	oxidoreductase activity 	0.249	-0.259
+T2029	hydrolase activity 	0.091	-0.281
+T2030	ion transporter activity 	0.33	-0.281
+T2031	hydrolase activity 	0.33799999999999997	0.33799999999999997
+T2032	transferase activity 	0.436	-0.484
+T2033	NONE	0.7120000000000001	-0.682
+T2034	NONE	-0.11599999999999999	-0.478
+T2035	hydrolase activity 	0.606	0.5479999999999999
+T2036	NONE	-0.019	-0.68
+T2037	hydrolase activity 	-0.6990000000000001	-0.125
+T2038	hydrolase activity 	0.6629999999999999	0.239
+T2039	lyase activity 	1.013	-0.034
+T2040	NONE	0.10400000000000001	-0.115
+T2041	hydrolase activity 	0.292	-0.42100000000000004
+T2042	transcription regulator activity 	0.79	0.076
+T2043	hydrolase activity 	0.085	0.085
+T2044	oxidoreductase activity 	1.131	-0.713
+T2045	oxidoreductase activity 	1.159	-1.2
+T2046	hydrolase activity 	0.23600000000000002	-0.243
+T2047	hydrolase activity 	-0.027999999999999997	0.402
+T2048	oxidoreductase activity 	0.295	-0.23199999999999998
+T2049	hydrolase activity 	-0.604	-0.278
+T2050	electron transporter activity 	0.863	0.18
+T2051	transferase activity 	-0.002	-0.831
+T2052	NONE	0.7759999999999999	-0.475
+T2053	hydrolase activity 	0.601	-0.353
+T2054	hydrolase activity 	-0.892	0.151
+T2055	NONE	0.40299999999999997	-0.711
+T2056	oxidoreductase activity 	0.275	-0.32299999999999995
+T2057	ion transporter activity 	-0.396	-0.28300000000000003
+T2058	transferase activity 	-0.114	0.34600000000000003
+T2059	transferase activity 	-0.218	0.006999999999999999
+T2060	enzyme regulator activity 	0.040999999999999995	0.39
+T2061	binding 	0.28300000000000003	0.536
+T2062	binding 	1.109	-0.882
+T2063	binding 	0.9490000000000001	0.395
+T2064	binding 	0.179	0.426
+T2065	binding 	0.242	0.057999999999999996
+T2066	binding 	0.302	-0.799
+T2067	binding 	0.205	-0.201
+T2068	transferase activity 	-0.08900000000000001	-0.147
+T2069	transferase activity 	1.002	-0.158
+T2070	oxidoreductase activity 	0.002	0.609
+T2071	channel or pore class transporter activity 	1.2790000000000001	-0.375
+T2072	channel or pore class transporter activity 	1.063	0.773
+T2073	channel or pore class transporter activity 	1.112	-0.115
+T2074	hydrolase activity 	0.7829999999999999	0.10300000000000001
+T2075	NONE	1.19	-0.024
+T2076	oxidoreductase activity 	0.873	-0.469
+T2077	oxidoreductase activity 	0.652	-0.518
+T2078	oxidoreductase activity 	0.7070000000000001	-0.342
+T2079	binding 	-3.286	-0.198
+T2080	binding 	-2.591	-0.18100000000000002
+T2081	binding 	-3.4789999999999996	-0.55
+T2082	receptor activity 	-1.93	-0.7140000000000001
+T2083	protein binding 	0.514	-1.2590000000000001
+T2084	binding 	-0.649	-0.938
+T2085	binding 	-0.013999999999999999	-1.4380000000000002
+T2086	transferase activity 	0.672	-0.301
+T2087	transferase activity 	-0.723	-0.38299999999999995
+T2088	binding 	0.126	0.41100000000000003
+T2089	binding 	-0.8240000000000001	1.4680000000000002
+T2090	binding 	-0.64	-1.694
+T2091	transferase activity 	0.027999999999999997	-0.025
+T2092	transferase activity 	-0.302	0.8140000000000001
+T2093	transferase activity 	-0.754	0.36
+T2094	transferase activity 	0.168	0.516
+T2095	transferase activity 	0.865	0.981
+T2096	enzyme regulator activity 	0.755	0.8190000000000001
+T2097	oxidoreductase activity 	-0.085	0.226
+T2098	oxidoreductase activity 	0.185	0.578
+T2099	lyase activity 	0.409	0.62
+T2100	oxidoreductase activity 	0.677	-0.016
+T2101	transcription regulator activity 	0.41100000000000003	0.10300000000000001
+T2102	oxidoreductase activity 	0.285	-0.557
+T2103	oxidoreductase activity 	0.62	-0.484
+T2104	oxidoreductase activity 	0.524	0.13699999999999998
+T2105	receptor activity 	-3.076	0.42200000000000004
+T2106	oxidoreductase activity 	0.436	-0.883
+T2107	oxidoreductase activity 	-0.242	-0.248
+T2108	oxidoreductase activity 	-0.152	-0.629
+T2109	NONE	1.045	0.203
+T2110	oxidoreductase activity 	0.705	0.165
+T2111	transcription regulator activity 	0.21100000000000002	-0.12300000000000001
+T2112	transferase activity 	1.558	-0.159
+T2113	hydrolase activity 	-0.09300000000000001	0.163
+T2114	lyase activity 	0.877	1.297
+T2115	hydrolase activity 	0.7509999999999999	0.045
+T2116	transporter activity 	-0.07	-0.091
+T2117	oxidoreductase activity 	0.528	0.345
+T2118	ligase activity 	0.973	-1.518
+T2119	transferase activity 	0.77	-0.9059999999999999
+T2120	oxidoreductase activity 	0.804	0.002
+T2121	hydrolase activity 	0.22	-0.777
+T2122	NONE	-0.342	0.555
+T2123	NONE	0.39299999999999996	-0.225
+T2124	isomerase activity 	0.732	-0.253
+T2125	lyase activity 	0.642	-0.898
+T2126	oxidoreductase activity 	0.32799999999999996	-0.151
+T2127	NONE	0.882	-0.7290000000000001
+T2128	lyase activity 	0.337	-0.01
+T2129	NONE	-0.757	-0.7170000000000001
+T2130	lyase activity 	0.21600000000000003	-0.242
+T2131	oxidoreductase activity 	-0.431	-0.67
+T2132	oxidoreductase activity 	0.42	-0.8109999999999999
+T2133	NONE	0.805	0.304
+T2134	NONE	0.23199999999999998	-0.35600000000000004
+T2135	lyase activity 	-0.642	-0.026000000000000002
+T2136	hydrolase activity 	-0.664	0.44799999999999995
+T2137	transcription regulator activity 	0.552	-0.746
+T2138	hydrolase activity 	0.732	0.289
+T2139	oxidoreductase activity 	0.397	-0.016
+T2140	hydrolase activity 	-0.18600000000000003	1.225
+T2141	transferase activity 	0.551	0.045
+T2142	transferase activity 	0.521	-0.452
+T2143	transferase activity 	0.252	0.205
+T2144	hydrolase activity 	0.159	0.309
+T2145	hydrolase activity 	0.09300000000000001	-0.045
+T2146	hydrolase activity 	-0.41200000000000003	0.8959999999999999
+T2147	hydrolase activity 	0.264	-0.254
+T2148	hydrolase activity 	0.669	0.27699999999999997
+T2149	hydrolase activity 	0.619	-0.289
+T2150	hydrolase activity 	0.304	-0.10300000000000001
+T2151	hydrolase activity 	-0.379	0.076
+T2152	hydrolase activity 	-0.304	-0.08900000000000001
+T2153	hydrolase activity 	1.375	-0.395
+T2154	hydrolase activity 	-0.465	-0.765
+T2155	hydrolase activity 	1.204	-0.013999999999999999
+T2156	hydrolase activity 	-0.069	0.24
+T2157	hydrolase activity 	0.147	-0.218
+T2158	hydrolase activity 	0.165	-0.161
+T2159	hydrolase activity 	0.331	0.015
+T2160	hydrolase activity 	-0.504	-0.703
+T2161	hydrolase activity 	0.366	0.245
+T2162	hydrolase activity 	-0.8590000000000001	-0.6629999999999999
+T2163	hydrolase activity 	0.35700000000000004	-0.87
+T2164	ligase activity 	-0.11	-0.039
+T2165	lyase activity 	-0.039	0.237
+T2166	ligase activity 	0.27899999999999997	0.195
+T2167	protein binding 	-0.033	-0.75
+T2168	hydrolase activity 	-0.797	-0.519
+T2169	lyase activity 	-0.009000000000000001	-0.685
+T2170	hydrolase activity 	1.018	-0.647
+T2171	enzyme regulator activity 	0.193	0.316
+T2172	transferase activity 	-0.35600000000000004	-1.591
+T2173	ligase activity 	0.503	0.105
+T2174	ligase activity 	0.311	0.27699999999999997
+T2175	transferase activity 	0.647	-0.483
+T2176	transferase activity 	0.139	-0.973
+T2177	ligase activity 	0.342	-0.44299999999999995
+T2178	ligase activity 	0.696	1.197
+T2179	lyase activity 	-0.287	-0.308
+T2180	oxidoreductase activity 	0.541	0.05
+T2181	oxidoreductase activity 	0.16699999999999998	-0.19699999999999998
+T2182	transferase activity 	0.41600000000000004	-0.386
+T2183	hydrolase activity 	0.384	-0.7120000000000001
+T2184	transferase activity 	0.09	-0.557
+T2185	transferase activity 	0.353	0.193
+T2186	isomerase activity 	0.466	-0.41700000000000004
+T2187	isomerase activity 	0.204	-0.502
+T2188	protein binding 	0.529	0.177
+T2189	structural molecule activity 	-0.361	0.021
+T2190	transferase activity 	0.9540000000000001	0.306
+T2191	transferase activity 	1.206	0.61
+T2192	binding 	0.311	0.21600000000000003
+T2193	binding 	-1.062	-0.6759999999999999
+T2194	isomerase activity 	0.405	-0.262
+T2195	transcription regulator activity 	0.07400000000000001	-0.527
+T2196	ligase activity 	0.087	0.18600000000000003
+T2197	ligase activity 	-0.13699999999999998	-0.275
+T2198	NONE	0.213	-0.937
+T2199	transferase activity 	0.503	-0.8009999999999999
+T2200	transferase activity 	-0.047	-1.425
+T2201	hydrolase activity 	-0.6759999999999999	-0.616
+T2202	lyase activity 	-0.847	-0.48200000000000004
+T2203	lyase activity 	0.597	-0.201
+T2204	oxidoreductase activity 	0.335	-0.215
+T2205	oxidoreductase activity 	0.391	-0.23800000000000002
+T2206	lyase activity 	0.251	-0.45299999999999996
+T2207	hydrolase activity 	-0.34600000000000003	0.038
+T2208	hydrolase activity 	-0.474	-0.221
+T2209	hydrolase activity 	-0.653	-0.001
+T2210	hydrolase activity 	-0.917	-0.11699999999999999
+T2211	hydrolase activity 	-0.231	-0.003
+T2212	hydrolase activity 	-0.359	0.128
+T2213	hydrolase activity 	-0.19699999999999998	-0.315
+T2214	hydrolase activity 	-0.001	-0.121
+T2215	hydrolase activity 	0.036000000000000004	-0.094
+T2216	hydrolase activity 	-0.40299999999999997	-0.222
+T2217	transferase activity 	0.26	-0.397
+T2218	transferase activity 	-0.244	-0.426
+T2219	transferase activity 	0.405	-0.542
+T2220	oxidoreductase activity 	0.172	-0.659
+T2221	oxidoreductase activity 	0.924	-0.442
+T2222	oxidoreductase activity 	-0.051	0.376
+T2223	NONE	0.696	-0.055
+T2224	transferase activity 	0.253	0.28800000000000003
+T2225	transferase activity 	0.675	0.11900000000000001
+T2226	transferase activity 	0.9	0.29100000000000004
+T2227	transferase activity 	-0.45899999999999996	0.604
+T2228	enzyme regulator activity 	1.031	-0.43
+T2229	oxidoreductase activity 	0.147	-0.674
+T2230	enzyme regulator activity 	-0.273	0.6659999999999999
+T2231	oxidoreductase activity 	0.6829999999999999	-0.07200000000000001
+T2232	structural molecule activity 	0.031	0.596
+T2233	hydrolase activity 	0.951	0.6459999999999999
+T2234	hydrolase activity 	0.342	0.13
+T2235	isomerase activity 	0.522	0.5579999999999999
+T2236	hydrolase activity 	1.104	0.237
+T2237	oxidoreductase activity 	-0.478	-0.272
+T2238	oxidoreductase activity 	0.387	-0.13699999999999998
+T2239	oxidoreductase activity 	-0.248	-0.047
+T2240	oxidoreductase activity 	-0.04	-0.424
+T2241	oxidoreductase activity 	-0.008	-0.024
+T2242	oxidoreductase activity 	0.195	-0.221
+T2243	oxidoreductase activity 	0.156	-0.182
+T2244	transferase activity 	0.325	-0.096
+T2245	NONE	-0.046	0.322
+T2246	oxidoreductase activity 	-0.807	0.358
+T2247	oxidoreductase activity 	-0.775	0.28600000000000003
+T2248	oxidoreductase activity 	-1.006	0.773
+T2249	oxidoreductase activity 	-0.88	0.713
+T2250	NONE	-0.758	0.327
+T2251	transferase activity 	0.48200000000000004	0.28300000000000003
+T2252	transferase activity 	0.434	0.39399999999999996
+T2253	transferase activity 	0.6759999999999999	-0.23
+T2254	isomerase activity 	-0.452	-0.292
+T2255	transferase activity 	0.895	0.285
+T2256	transferase activity 	0.325	0.064
+T2257	hydrolase activity 	-0.172	-0.127
+T2258	hydrolase activity 	1.065	-0.083
+T2259	hydrolase activity 	0.878	0.41600000000000004
+T2260	hydrolase activity 	0.858	0.172
+T2261	isomerase activity 	0.46	-0.335
+T2262	hydrolase activity 	0.825	-0.294
+T2263	hydrolase activity 	0.345	1.694
+T2264	hydrolase activity 	0.163	-0.29
+T2265	hydrolase activity 	-0.385	-1.0
+T2266	NONE	0.792	0.35
+T2267	oxidoreductase activity 	0.612	-0.5670000000000001
+T2268	oxidoreductase activity 	0.532	-0.068
+T2269	oxidoreductase activity 	0.387	0.121
+T2270	binding 	1.072	0.209
+T2271	oxidoreductase activity 	0.753	-0.8
+T2272	oxidoreductase activity 	0.78	-0.81
+T2273	transferase activity 	0.079	0.345
+T2274	hydrolase activity 	0.6609999999999999	0.7020000000000001
+T2275	lyase activity 	-0.218	-0.397
+T2276	lyase activity 	1.133	-0.201
+T2277	lyase activity 	-0.175	-0.7709999999999999
+T2278	transferase activity 	0.483	-0.14400000000000002
+T2279	transferase activity 	0.374	-0.035
+T2280	NONE	0.079	-0.9740000000000001
+T2281	transferase activity 	0.401	0.086
+T2282	lyase activity 	0.9229999999999999	-0.303
+T2283	hydrolase activity 	-0.299	-0.446
+T2284	hydrolase activity 	0.087	-0.489
+T2285	oxidoreductase activity 	0.11199999999999999	-0.639
+T2286	oxidoreductase activity 	0.626	0.297
+T2287	receptor activity 	-1.4980000000000002	0.40399999999999997
+T2288	hydrolase activity 	0.524	-0.585
+T2289	transferase activity 	0.605	-0.125
+T2290	transferase activity 	0.642	-1.031
+T2291	transferase activity 	0.541	-0.674
+T2292	transferase activity 	1.207	-0.298
+T2293	transferase activity 	-0.221	-0.10099999999999999
+T2294	binding 	-1.1640000000000001	-0.429
+T2295	hydrolase activity 	0.34600000000000003	0.79
+T2296	hydrolase activity 	0.085	-0.436
+T2297	lyase activity 	-1.052	1.621
+T2298	transferase activity 	-0.374	-0.23600000000000002
+T2299	transferase activity 	-0.456	-0.3
+T2300	transferase activity 	0.373	-0.271
+T2301	hydrolase activity 	0.11699999999999999	0.787
+T2302	lyase activity 	-0.564	0.629
+T2303	lyase activity 	0.42200000000000004	0.542
+T2304	binding 	-0.608	-0.42200000000000004
+T2305	binding 	-0.18600000000000003	0.021
+T2306	transcription regulator activity 	0.52	-0.151
+T2307	protein binding 	0.632	0.047
+T2308	hydrolase activity 	-0.217	-0.205
+T2309	hydrolase activity 	1.348	0.43200000000000005
+T2310	hydrolase activity 	0.562	-0.29100000000000004
+T2311	oxidoreductase activity 	0.033	-0.249
+T2312	hydrolase activity 	0.72	0.11
+T2313	catalytic activity 	0.369	-0.614
+T2314	hydrolase activity 	-0.5489999999999999	-0.11199999999999999
+T2315	isomerase activity 	0.071	-0.353
+T2316	binding 	-0.435	0.121
+T2317	hydrolase activity 	0.621	-0.032
+T2318	transferase activity 	-0.3	-0.42
+T2319	transferase activity 	0.6859999999999999	0.12300000000000001
+T2320	transferase activity 	0.524	-0.39399999999999996
+T2321	oxidoreductase activity 	-0.188	0.535
+T2322	oxidoreductase activity 	-0.17	-0.898
+T2323	hydrolase activity 	0.19899999999999998	-0.385
+T2324	hydrolase activity 	-0.519	0.005
+T2325	hydrolase activity 	-0.408	-0.031
+T2326	hydrolase activity 	-0.496	0.017
+T2327	hydrolase activity 	0.147	-0.465
+T2328	hydrolase activity 	-0.595	-0.304
+T2329	hydrolase activity 	-0.5529999999999999	-0.294
+T2330	hydrolase activity 	-0.47	-0.254
+T2331	hydrolase activity 	-0.65	-0.13
+T2332	hydrolase activity 	-0.508	0.05
+T2333	hydrolase activity 	0.059000000000000004	0.05
+T2334	hydrolase activity 	-0.01	0.048
+T2335	hydrolase activity 	-0.33799999999999997	0.109
+T2336	hydrolase activity 	0.10300000000000001	-0.099
+T2337	hydrolase activity 	-0.114	-0.371
+T2338	hydrolase activity 	0.145	-0.214
+T2339	hydrolase activity 	-0.258	0.11900000000000001
+T2340	hydrolase activity 	-0.026000000000000002	-0.01
+T2341	hydrolase activity 	-0.081	0.256
+T2342	hydrolase activity 	-0.069	0.031
+T2343	hydrolase activity 	-0.08199999999999999	0.20800000000000002
+T2344	hydrolase activity 	-0.18600000000000003	0.08800000000000001
+T2345	hydrolase activity 	-0.003	0.21899999999999997
+T2346	hydrolase activity 	0.306	-0.41
+T2347	hydrolase activity 	0.361	0.024
+T2348	hydrolase activity 	0.16699999999999998	0.006
+T2349	hydrolase activity 	0.509	-0.23600000000000002
+T2350	channel or pore class transporter activity 	0.9470000000000001	0.289
+T2351	transporter activity 	0.48200000000000004	-0.40399999999999997
+T2352	transporter activity 	0.91	-0.444
+T2353	oxidoreductase activity 	0.616	0.079
+T2354	hydrolase activity 	-0.55	-0.258
+T2355	hydrolase activity 	-0.532	-0.272
+T2356	hydrolase activity 	-0.452	0.10300000000000001
+T2357	hydrolase activity 	-0.29600000000000004	-0.281
+T2358	hydrolase activity 	0.36200000000000004	-0.39299999999999996
+T2359	hydrolase activity 	-0.062	0.413
+T2360	hydrolase activity 	0.9440000000000001	-0.008
+T2361	hydrolase activity 	0.27399999999999997	-0.228
+T2362	hydrolase activity 	0.848	0.048
+T2363	transcription regulator activity 	0.613	0.21100000000000002
+T2364	transcription regulator activity 	0.275	-0.76
+T2365	transcription regulator activity 	0.58	0.23199999999999998
+T2366	transcription regulator activity 	0.67	0.253
+T2367	hydrolase activity 	0.155	0.125
+T2368	hydrolase activity 	0.7829999999999999	-0.369
+T2369	hydrolase activity 	-0.23399999999999999	-0.066
+T2370	lyase activity 	-0.16899999999999998	0.131
+T2371	lyase activity 	0.6729999999999999	-0.218
+T2372	transferase activity 	0.735	-0.496
+T2373	transferase activity 	0.508	-0.23800000000000002
+T2374	enzyme regulator activity 	0.43799999999999994	-0.40700000000000003
+T2375	isomerase activity 	0.45899999999999996	0.718
+T2376	isomerase activity 	0.293	-0.107
+T2377	oxidoreductase activity 	-0.065	-0.584
+T2378	oxidoreductase activity 	0.242	-0.051
+T2379	hydrolase activity 	0.413	-0.604
+T2380	hydrolase activity 	0.017	-0.5920000000000001
+T2381	hydrolase activity 	-1.14	-0.256
+T2382	oxidoreductase activity 	0.29100000000000004	-0.358
+T2383	oxidoreductase activity 	-0.785	-0.28600000000000003
+T2384	oxidoreductase activity 	0.317	-0.14300000000000002
+T2385	binding 	-0.515	0.126
+T2386	transcription regulator activity 	-0.252	0.2
+T2387	hydrolase activity 	0.32	-0.284
+T2388	transferase activity 	0.512	-0.04
+T2389	NONE	1.031	0.578
+T2390	transferase activity 	0.878	-0.9109999999999999
+T2391	hydrolase activity 	1.219	-0.758
+T2392	hydrolase activity 	-0.257	-0.049
+T2393	oxidoreductase activity 	0.34299999999999997	0.10800000000000001
+T2394	protein binding 	-0.74	0.551
+T2395	binding 	-0.017	0.059000000000000004
+T2396	hydrolase activity 	0.005	0.5
+T2397	lyase activity 	0.772	0.579
+T2398	hydrolase activity 	0.38799999999999996	-0.022000000000000002
+T2399	hydrolase activity 	0.46799999999999997	-0.087
+T2400	binding 	0.501	0.722
+T2401	binding 	1.111	0.7809999999999999
+T2402	oxidoreductase activity 	0.65	-0.336
+T2403	hydrolase activity 	0.608	-0.8340000000000001
+T2404	hydrolase activity 	-0.561	-0.314
+T2405	oxidoreductase activity 	-0.237	-0.485
+T2406	binding 	0.499	-0.259
+T2407	ion transporter activity 	0.065	-0.31
+T2408	transferase activity 	0.41	-0.38299999999999995
+T2409	NONE	-0.5770000000000001	0.07200000000000001
+T2410	isomerase activity 	-0.304	-0.602
+T2411	NONE	0.032	-0.37200000000000005
+T2412	isomerase activity 	-0.40399999999999997	-0.174
+T2413	carrier activity 	-0.563	-1.3459999999999999
+T2414	carrier activity 	0.261	-0.8809999999999999
+T2415	protein binding 	0.066	-0.541
+T2416	hydrolase activity 	0.7609999999999999	-0.135
+T2417	hydrolase activity 	0.08	0.42100000000000004
+T2418	lyase activity 	0.096	-1.092
+T2419	transferase activity 	1.7630000000000001	-0.414
+T2420	oxidoreductase activity 	-0.21100000000000002	0.43799999999999994
+T2421	transferase activity 	0.335	-0.9420000000000001
+T2422	binding 	0.475	0.39899999999999997
+T2423	transferase activity 	1.082	-0.45399999999999996
+T2424	transferase activity 	0.502	-0.998
+T2425	transferase activity 	0.617	0.767
+T2426	transferase activity 	0.614	-0.07
+T2427	ligase activity 	0.032	-0.341
+T2428	ligase activity 	0.284	-0.114
+T2429	transferase activity 	0.27699999999999997	-0.19
+T2430	ligase activity 	0.455	-0.008
+T2431	ligase activity 	0.7759999999999999	-0.40700000000000003
+T2432	hydrolase activity 	-0.04	-0.993
+T2433	hydrolase activity 	0.165	-0.932
+T2434	hydrolase activity 	0.102	-0.772
+T2435	ligase activity 	0.993	-0.318
+T2436	ligase activity 	0.8909999999999999	-0.48100000000000004
+T2437	ligase activity 	0.363	-0.28600000000000003
+T2438	ligase activity 	0.379	-0.39899999999999997
+T2439	ligase activity 	0.34600000000000003	-0.28800000000000003
+T2440	lyase activity 	-0.647	1.4340000000000002
+T2441	transcription regulator activity 	0.335	-0.218
+T2442	transferase activity 	0.20199999999999999	-0.39899999999999997
+T2443	transcription regulator activity 	0.335	-0.023
+T2444	transcription regulator activity 	0.418	0.049
+T2445	ligase activity 	0.619	-0.303
+T2446	receptor activity 	-0.23	-1.122
+T2447	transferase activity 	0.924	-0.013999999999999999
+T2448	transferase activity 	0.445	-0.13
+T2449	hydrolase activity 	0.026000000000000002	-0.48100000000000004
+T2450	oxidoreductase activity 	0.40399999999999997	0.23399999999999999
+T2451	oxidoreductase activity 	0.5920000000000001	-0.012
+T2452	oxidoreductase activity 	0.326	-0.122
+T2453	oxidoreductase activity 	-0.037000000000000005	-0.129
+T2454	oxidoreductase activity 	0.207	-0.525
+T2455	transferase activity 	0.267	0.413
+T2456	lyase activity 	-0.215	-0.21100000000000002
+T2457	lyase activity 	1.0759999999999998	-0.424
+T2458	lyase activity 	0.444	-0.794
+T2459	lyase activity 	0.087	-0.657
+T2460	lyase activity 	0.392	-0.28800000000000003
+T2461	ligase activity 	0.45299999999999996	-0.33
+T2462	transferase activity 	0.634	-0.239
+T2463	transferase activity 	0.019	-0.614
+T2464	NONE	-0.287	0.01
+T2465	catalytic activity 	-0.015	0.013000000000000001
+T2466	oxidoreductase activity 	0.688	-1.254
+T2467	hydrolase activity 	1.1340000000000001	-0.555
+T2468	protein binding 	-0.013000000000000001	0.037000000000000005
+T2469	oxidoreductase activity 	-0.248	-0.33299999999999996
+T2470	transferase activity 	1.242	0.129
+T2471	binding 	0.6829999999999999	-0.36200000000000004
+T2472	transferase activity 	-0.963	-0.613
+T2473	hydrolase activity 	0.5720000000000001	0.797
+T2474	hydrolase activity 	0.002	0.11699999999999999
+T2475	transferase activity 	0.677	-0.331
+T2476	transferase activity 	-0.022000000000000002	-0.442
+T2477	transferase activity 	-0.111	-1.411
+T2478	transferase activity 	-0.455	-0.38299999999999995
+T2479	protein binding 	0.833	0.47200000000000003
+T2480	binding 	-0.56	-0.092
+T2481	binding 	-0.055999999999999994	-0.17
+T2482	oxidoreductase activity 	1.036	0.594
+T2483	oxidoreductase activity 	1.54	-0.055
+T2484	lyase activity 	0.11599999999999999	0.369
+T2485	oxidoreductase activity 	1.588	-0.07400000000000001
+T2486	binding 	0.386	0.233
+T2487	binding 	-0.075	0.096
+T2488	binding 	0.315	-0.079
+T2489	NONE	-0.11599999999999999	-0.16899999999999998
+T2490	transferase activity 	1.217	-1.05
+T2491	transferase activity 	-0.028999999999999998	-0.35
+T2492	NONE	-0.496	-0.012
+T2493	oxidoreductase activity 	0.634	-0.44299999999999995
+T2494	hydrolase activity 	0.35600000000000004	-0.711
+T2495	oxidoreductase activity 	0.759	-0.152
+T2496	oxidoreductase activity 	0.711	-0.701
+T2497	transferase activity 	0.327	0.038
+T2498	hydrolase activity 	-0.059000000000000004	0.237
+T2499	binding 	1.131	-0.114
+T2500	oxidoreductase activity 	0.8809999999999999	-0.528
+T2501	hydrolase activity 	0.821	0.278
+T2502	transferase activity 	0.5820000000000001	-0.456
+T2503	catalytic activity 	0.682	-0.095
+T2504	binding 	0.39799999999999996	-0.435
+T2505	oxidoreductase activity 	1.035	-0.40399999999999997
+T2506	transferase activity 	0.294	-0.588
+T2507	transporter activity 	0.109	-0.14400000000000002
+T2508	NONE	0.618	-0.575
+T2509	channel or pore class transporter activity 	1.176	0.40299999999999997
+T2510	hydrolase activity 	0.29600000000000004	0.138
+T2511	hydrolase activity 	0.43700000000000006	-0.19899999999999998
+T2512	hydrolase activity 	1.219	-0.324
+T2513	transferase activity 	0.402	-0.522
+T2514	ligase activity 	-0.63	1.092
+T2515	oxidoreductase activity 	0.146	-0.555
+T2516	NONE	-0.136	0.138
+T2517	oxidoreductase activity 	-0.381	-0.312
+T2518	transferase activity 	0.20800000000000002	-0.601
+T2519	transferase activity 	0.162	-0.01
+T2520	catalytic activity 	0.275	0.985
+T2521	isomerase activity 	-0.10099999999999999	-0.08900000000000001
+T2522	transferase activity 	0.081	-0.046
+T2523	ligase activity 	0.535	-0.755
+T2524	ligase activity 	0.39799999999999996	-0.988
+T2525	ligase activity 	0.33	0.257
+T2526	transferase activity 	0.141	-0.324
+T2527	protein binding 	0.20800000000000002	-0.125
+T2528	NONE	0.23	0.768
+T2529	hydrolase activity 	0.28600000000000003	-0.078
+T2530	transferase activity 	-0.262	0.787
+T2531	hydrolase activity 	0.11800000000000001	-0.424
+T2532	ligase activity 	0.835	-0.24600000000000002
+T2533	transferase activity 	-0.534	-0.42100000000000004
+T2534	hydrolase activity 	-0.628	-0.7490000000000001
+T2535	hydrolase activity 	-0.6659999999999999	0.155
+T2536	hydrolase activity 	-0.131	-0.77
+T2537	oxidoreductase activity 	0.495	-0.037000000000000005
+T2538	NONE	0.9440000000000001	0.606
+T2539	oxidoreductase activity 	0.774	0.165
+T2540	hydrolase activity 	0.099	-0.157
+T2541	NONE	0.428	-0.877
+T2542	NONE	0.166	0.299
+T2543	hydrolase activity 	0.21100000000000002	0.095
+T2544	isomerase activity 	1.053	-1.024
+T2545	oxidoreductase activity 	-0.258	0.413
+T2546	transferase activity 	0.249	-0.312
+T2547	oxidoreductase activity 	0.809	-0.736
+T2548	NONE	0.693	0.23199999999999998
+T2549	transferase activity 	-0.114	-0.882
+T2550	NONE	0.45899999999999996	-0.124
+T2551	isomerase activity 	1.6469999999999998	-0.266
+T2552	transferase activity 	0.5479999999999999	-0.6
+T2553	hydrolase activity 	0.375	-0.527
+T2554	transferase activity 	0.607	-0.11900000000000001
+T2555	protein binding 	-0.127	0.013000000000000001
+T2556	transferase activity 	0.718	-0.93
+T2557	hydrolase activity 	0.945	0.26899999999999996
+T2558	transferase activity 	0.91	0.369
+T2559	enzyme regulator activity 	0.315	-1.005
+T2560	NONE	0.56	-0.179
+T2561	binding 	0.313	0.633
+T2562	hydrolase activity 	0.636	0.37799999999999995
+T2563	transferase activity 	0.55	-0.882
+T2564	oxidoreductase activity 	0.772	-0.526
+T2565	catalytic activity 	0.33799999999999997	-0.32299999999999995
+T2566	hydrolase activity 	0.27399999999999997	-0.012
+T2567	NONE	0.653	1.131
+T2568	transferase activity 	0.297	-0.2
+T2569	lyase activity 	1.0	-0.927
+T2570	binding 	-0.914	-1.206
+T2571	hydrolase activity 	0.8420000000000001	0.84
+T2572	NONE	1.126	-0.16399999999999998
+T2573	hydrolase activity 	-0.355	0.546
+T2574	hydrolase activity 	-0.262	0.499
+T2575	ligase activity 	0.473	-0.21100000000000002
+T2576	oxidoreductase activity 	-0.032	0.642
+T2577	hydrolase activity 	0.429	-0.8420000000000001
+T2578	transcription regulator activity 	-1.068	0.183
+T2579	hydrolase activity 	0.213	0.293
+T2580	hydrolase activity 	1.4409999999999998	0.348
+T2581	NONE	1.2690000000000001	-0.252
+T2582	hydrolase activity 	0.958	1.3869999999999998
+T2583	transferase activity 	-2.395	-0.47200000000000003
+T2584	transferase activity 	1.3159999999999998	-0.685
+T2585	hydrolase activity 	-0.161	0.14400000000000002
+T2586	NONE	-0.10400000000000001	-0.601
+T2587	binding 	0.47600000000000003	-0.361
+T2588	hydrolase activity 	1.329	0.381
+T2589	binding 	0.33399999999999996	-0.040999999999999995
+T2590	oxidoreductase activity 	0.556	-1.5419999999999998
+T2591	hydrolase activity 	0.003	-0.446
+T2592	oxidoreductase activity 	-0.006999999999999999	-0.27699999999999997
+T2593	NONE	1.36	-0.152
+T2594	transferase activity 	1.361	-0.11199999999999999
+T2595	oxidoreductase activity 	-0.32299999999999995	0.43200000000000005
+T2596	oxidoreductase activity 	0.9390000000000001	-0.446
+T2597	ligase activity 	0.418	-0.498
+T2598	hydrolase activity 	0.736	0.136
+T2599	binding 	0.179	0.6779999999999999
+T2600	NONE	0.445	-0.439
+T2601	hydrolase activity 	0.769	0.517
+T2602	NONE	0.185	-0.882
+T2603	binding 	0.8340000000000001	-0.7559999999999999
+T2604	binding 	0.45899999999999996	0.622
+T2605	hydrolase activity 	0.708	0.42
+T2606	hydrolase activity 	0.8059999999999999	0.375
+T2607	NONE	0.895	-0.172
+T2608	NONE	0.441	0.341
+T2609	oxidoreductase activity 	0.37200000000000005	-0.025
+T2610	NONE	1.127	0.818
+T2611	NONE	0.696	-0.441
+T2612	hydrolase activity 	0.619	-0.366
+T2613	transferase activity 	0.039	0.258
+T2614	electron transporter activity 	0.708	0.214
+T2615	isomerase activity 	0.249	0.794
+T2616	hydrolase activity 	0.061	-0.083
+T2617	hydrolase activity 	1.1	-0.124
+T2618	hydrolase activity 	0.294	0.759
+T2619	ligase activity 	-0.317	-0.024
+T2620	electron transporter activity 	0.26	0.31
+T2621	NONE	0.937	0.035
+T2622	hydrolase activity 	-0.094	-0.353
+T2623	hydrolase activity 	-0.086	1.2109999999999999
+T2624	transferase activity 	0.159	0.11699999999999999
+T2625	oxidoreductase activity 	-0.602	-0.168
+T2626	oxidoreductase activity 	0.439	0.221
+T2627	hydrolase activity 	1.265	-0.166
+T2628	hydrolase activity 	0.888	0.41200000000000003
+T2629	translation regulator activity 	0.23199999999999998	0.16
+T2630	oxidoreductase activity 	1.476	-0.297
+T2631	transferase activity 	0.37799999999999995	-0.502
+T2632	binding 	-0.067	0.455
+T2633	transferase activity 	0.6990000000000001	-0.042
+T2634	hydrolase activity 	1.4380000000000002	-0.063
+T2635	NONE	-0.271	-1.033
+T2636	lyase activity 	0.341	-0.575
+T2637	hydrolase activity 	0.894	-0.40700000000000003
+T2638	hydrolase activity 	-0.035	0.713
+T2639	transferase activity 	0.903	-0.732
+T2640	binding 	1.054	1.395
+T2641	transcription regulator activity 	0.457	-0.047
+T2642	transcription regulator activity 	0.536	-0.17
+T2643	isomerase activity 	0.261	-0.17
+T2644	receptor activity 	-1.8730000000000002	-0.084
+T2645	hydrolase activity 	0.39799999999999996	-0.7879999999999999
+T2646	oxidoreductase activity 	-0.040999999999999995	-0.794
+T2647	NONE	1.2930000000000001	-1.171
+T2648	hydrolase activity 	1.219	-0.9620000000000001
+T2649	hydrolase activity 	0.254	0.207
+T2650	binding 	0.24	-0.146
+T2651	NONE	-0.517	-1.156
+T2652	binding 	0.239	0.42
+T2653	NONE	0.015	0.07
+T2654	hydrolase activity 	0.31	0.439
+T2655	transferase activity 	1.008	0.301
+T2656	hydrolase activity 	0.013999999999999999	0.428
+T2657	NONE	0.321	0.26
+T2658	binding 	-0.7659999999999999	-0.611
+T2659	NONE	0.22	0.20800000000000002
+T2660	hydrolase activity 	0.261	0.156
+T2661	NONE	0.745	-0.127
+T2662	oxidoreductase activity 	0.38299999999999995	0.075
+T2663	NONE	1.51	0.6679999999999999
+T2664	channel or pore class transporter activity 	-0.873	0.516
+T2665	hydrolase activity 	-0.608	-0.11800000000000001
+T2666	NONE	0.035	0.301
+T2667	transferase activity 	-0.795	-1.403
+T2668	hydrolase activity 	-0.785	0.193
+T2669	transferase activity 	0.902	-0.978
+T2670	NONE	0.466	-0.48
+T2671	NONE	-0.547	0.617
+T2672	NONE	0.715	-0.387
+T2673	isomerase activity 	0.426	-0.42200000000000004
+T2674	NONE	1.075	-0.009000000000000001
+T2675	hydrolase activity 	-0.054000000000000006	-0.152
+T2676	NONE	-0.774	0.273
+T2677	oxidoreductase activity 	0.39399999999999996	-0.049
+T2678	protein binding 	0.884	1.035
+T2679	molecular_function unknown 	1.392	0.091
+T2680	hydrolase activity 	0.895	0.2
+T2681	oxidoreductase activity 	1.081	-0.204
+T2682	oxidoreductase activity 	0.35100000000000003	-0.17300000000000001
+T2683	transferase activity 	0.34600000000000003	0.138
+T2684	hydrolase activity 	0.062	-0.542
+T2685	hydrolase activity 	1.176	0.125
+T2686	hydrolase activity 	-0.41	-0.26899999999999996
+T2687	transferase activity 	-0.428	0.18100000000000002
+T2688	oxidoreductase activity 	-0.23800000000000002	-0.385
+T2689	NONE	0.777	-0.377
+T2690	transferase activity 	0.643	0.023
+T2691	transferase activity 	0.53	-1.053
+T2692	transferase activity 	-0.155	0.07200000000000001
+T2693	NONE	0.5920000000000001	-0.179
+T2694	hydrolase activity 	0.5670000000000001	0.51
+T2695	hydrolase activity 	1.1440000000000001	0.127
+T2696	binding 	0.35100000000000003	-0.233
+T2697	oxidoreductase activity 	0.08199999999999999	-0.599
+T2698	NONE	0.387	-0.455
+T2699	oxidoreductase activity 	0.735	-0.483
+T2700	NONE	0.22	0.5710000000000001
+T2701	ligase activity 	1.162	-0.531
+T2702	transferase activity 	0.614	0.256
+T2703	NONE	0.467	0.195
+T2704	hydrolase activity 	0.759	0.054000000000000006
+T2705	molecular_function unknown 	0.76	-0.361
+T2706	NONE	-0.01	0.156
+T2707	enzyme regulator activity 	-1.617	0.278
+T2708	NONE	0.27399999999999997	0.317
+T2709	hydrolase activity 	0.083	0.244
+T2710	isomerase activity 	-1.0	-0.9690000000000001
+T2711	NONE	1.001	-0.7829999999999999
+T2712	binding 	1.062	0.67
+T2713	NONE	0.21	-0.06
+T2714	transferase activity 	0.045	-0.474
+T2715	transferase activity 	0.292	0.203
+T2716	NONE	0.705	0.187
+T2717	lyase activity 	0.129	-0.244
+T2718	transferase activity 	-0.077	-0.16399999999999998
+T2719	hydrolase activity 	0.39399999999999996	0.5529999999999999
+T2720	oxidoreductase activity 	-0.45799999999999996	-0.263
+T2721	hydrolase activity 	0.743	0.679
+T2722	hydrolase activity 	0.47600000000000003	0.217
+T2723	hydrolase activity 	0.174	0.095
+T2724	hydrolase activity 	-0.10400000000000001	0.023
+T2725	hydrolase activity 	-0.34600000000000003	-0.245
+T2726	oxidoreductase activity 	-1.2790000000000001	-0.723
+T2727	NONE	1.2109999999999999	0.377
+T2728	NONE	0.701	0.41
+T2729	lyase activity 	-0.016	0.409
+T2730	NONE	0.44299999999999995	-0.752
+T2731	oxidoreductase activity 	0.292	-0.153
+T2732	transferase activity 	0.5489999999999999	-0.193
+T2733	NONE	0.133	-0.52
+T2734	hydrolase activity 	-0.33899999999999997	-0.552
+T2735	transferase activity 	0.4	0.08
+T2736	NONE	0.485	0.141
+T2737	NONE	-0.272	-0.396
+T2738	oxidoreductase activity 	0.7659999999999999	0.521
+T2739	oxidoreductase activity 	0.332	0.672
+T2740	oxidoreductase activity 	-0.496	-0.255
+T2741	transferase activity 	0.556	-0.33399999999999996
+T2742	transferase activity 	0.326	-0.344
+T2743	NONE	-0.496	0.11199999999999999
+T2744	oxidoreductase activity 	0.21600000000000003	-0.332
+T2745	isomerase activity 	-0.099	-0.359
+T2746	transferase activity 	0.853	0.526
+T2747	binding 	0.327	-0.8079999999999999
+T2748	oxidoreductase activity 	-0.547	1.351
+T2749	NONE	-0.16699999999999998	-0.845
+T2750	transferase activity 	0.8809999999999999	-1.365
+T2751	NONE	1.5190000000000001	-0.8690000000000001
+T2752	hydrolase activity 	-0.16699999999999998	0.33799999999999997
+T2753	NONE	0.302	-0.9359999999999999
+T2754	NONE	0.278	-1.6580000000000001
+T2755	NONE	-0.099	-0.446
+T2756	NONE	0.001	0.381
+T2757	NONE	0.617	0.14800000000000002
+T2758	NONE	0.21600000000000003	0.9520000000000001
+T2759	molecular_function unknown 	0.396	0.026000000000000002
+T2760	hydrolase activity 	1.01	-0.1
+T2761	hydrolase activity 	1.7519999999999998	-0.195
+T2762	binding 	1.0270000000000001	0.015
+T2763	oxidoreductase activity 	0.262	0.032
+T2764	hydrolase activity 	1.297	-0.342
+T2765	oxidoreductase activity 	0.736	0.317
+T2766	NONE	0.28800000000000003	-0.524
+T2767	binding 	0.129	-0.633
+T2768	NONE	-0.47200000000000003	0.13699999999999998
+T2769	binding 	1.392	0.157
+T2770	NONE	0.981	-0.9840000000000001
+T2771	transporter activity 	0.03	-0.233
+T2772	transporter activity 	0.6	-0.16699999999999998
+T2773	lyase activity 	0.635	0.087
+T2774	NONE	0.975	0.17300000000000001
+T2775	oxidoreductase activity 	0.27899999999999997	0.45399999999999996
+T2776	oxidoreductase activity 	0.846	-0.523
+T2777	hydrolase activity 	0.836	0.07200000000000001
+T2778	hydrolase activity 	0.914	0.028999999999999998
+T2779	electron transporter activity 	1.9269999999999998	0.612
+T2780	oxidoreductase activity 	0.52	0.142
+T2781	transferase activity 	0.36700000000000005	-0.446
+T2782	isomerase activity 	0.889	-0.46
+T2783	transferase activity 	0.235	-0.201
+T2784	hydrolase activity 	0.14800000000000002	-0.131
+T2785	oxidoreductase activity 	1.1320000000000001	-1.716
+T2786	lyase activity 	0.68	-0.39399999999999996
+T2787	NONE	0.091	0.958
+T2788	transferase activity 	-0.68	0.903
+T2789	hydrolase activity 	0.562	0.158
+T2790	hydrolase activity 	-0.07200000000000001	2.559
+T2791	binding 	-0.162	0.514
+T2792	hydrolase activity 	-0.036000000000000004	-0.037000000000000005
+T2793	hydrolase activity 	-0.196	-0.6940000000000001
+T2794	transferase activity 	0.31	0.511
+T2795	electron transporter activity 	1.709	-0.49
+T2796	oxidoreductase activity 	0.623	-0.25
+T2797	hydrolase activity 	0.774	-0.22399999999999998
+T2798	oxidoreductase activity 	0.16	-0.317
+T2799	oxidoreductase activity 	0.258	0.035
+T2800	hydrolase activity 	-0.25	-0.129
+T2801	transporter activity 	0.92	-0.133
+T2802	hydrolase activity 	1.584	0.451
+T2803	transferase activity 	0.078	-0.6990000000000001
+T2804	NONE	1.3659999999999999	-1.357
+T2805	channel or pore class transporter activity 	0.171	0.138
+T2806	NONE	0.507	-1.065
+T2807	hydrolase activity 	0.264	-0.195
+T2808	lyase activity 	1.091	0.092
+T2809	oxidoreductase activity 	0.175	0.272
+T2810	hydrolase activity 	0.855	-0.23
+T2811	transcription regulator activity 	0.267	0.26
+T2812	hydrolase activity 	-0.40700000000000003	0.141
+T2813	transferase activity 	0.114	-0.736
+T2814	hydrolase activity 	0.276	0.016
+T2815	oxidoreductase activity 	-0.17800000000000002	-0.10099999999999999
+T2816	binding 	0.821	0.629
+T2817	transferase activity 	0.256	-0.195
+T2818	NONE	0.627	-0.377
+T2819	ligase activity 	0.74	-0.24
+T2820	NONE	0.659	-0.631
+T2821	hydrolase activity 	0.8420000000000001	0.8190000000000001
+T2822	oxidoreductase activity 	0.652	-0.302
+T2823	hydrolase activity 	1.23	-0.45
+T2824	binding 	0.026000000000000002	-0.445
+T2825	oxidoreductase activity 	-0.026000000000000002	-0.767
+T2826	transferase activity 	-0.11599999999999999	0.11900000000000001
+T2827	hydrolase activity 	0.736	0.5670000000000001
+T2828	transferase activity 	-0.004	-0.675
+T2829	hydrolase activity 	0.42700000000000005	0.10099999999999999
+T2830	binding 	0.581	-0.514
+T2831	NONE	0.308	-0.245
+T2832	oxidoreductase activity 	-0.29100000000000004	0.691
+T2833	transferase activity 	0.49200000000000005	-0.7020000000000001
+T2834	NONE	-0.654	0.095
+T2835	isomerase activity 	0.027000000000000003	-0.8059999999999999
+T2836	transferase activity 	-0.35700000000000004	0.003
+T2837	ligase activity 	0.8240000000000001	-0.05
+T2838	transporter activity 	1.155	0.625
+T2839	NONE	-0.384	-0.48700000000000004
+T2840	transcription regulator activity 	0.7070000000000001	-0.971
+T2841	NONE	1.011	-0.098
+T2842	NONE	0.086	-1.125
+T2843	transferase activity 	0.66	-0.14400000000000002
+T2844	catalytic activity 	-0.71	-0.813
+T2845	transferase activity 	-0.318	-0.083
+T2846	hydrolase activity 	-0.41700000000000004	-0.152
+T2847	lyase activity 	0.23199999999999998	-0.9540000000000001
+T2848	transferase activity 	0.34	-0.303
+T2849	ligase activity 	0.01	0.14300000000000002
+T2850	lyase activity 	-0.15	-1.3659999999999999
+T2851	hydrolase activity 	0.39	-0.39899999999999997
+T2852	NONE	0.203	-0.605
+T2853	ligase activity 	0.222	0.079
+T2854	electron transporter activity 	0.523	0.3
+T2855	hydrolase activity 	0.504	-0.165
+T2856	ligase activity 	0.026000000000000002	-0.461
+T2857	oxidoreductase activity 	0.26899999999999996	0.47700000000000004
+T2858	oxidoreductase activity 	1.069	0.055999999999999994
+T2859	NONE	-0.037000000000000005	-0.643
+T2860	transporter activity 	1.087	-0.107
+T2861	isomerase activity 	0.687	0.28800000000000003
+T2862	hydrolase activity 	0.111	-0.215
+T2863	hydrolase activity 	0.9690000000000001	0.67
+T2864	lyase activity 	1.033	-0.057999999999999996
+T2865	lyase activity 	0.425	-0.521
+T2866	hydrolase activity 	0.316	-0.531
+T2867	NONE	-0.31	-0.64
+T2868	NONE	-0.161	0.1
+T2869	transferase activity 	0.228	-0.25
+T2870	transcription regulator activity 	0.43799999999999994	-0.7490000000000001
+T2871	oxidoreductase activity 	0.581	-0.154
+T2872	oxidoreductase activity 	0.9329999999999999	-0.32299999999999995
+T2873	hydrolase activity 	-0.355	-0.084
+T2874	hydrolase activity 	-0.6759999999999999	-0.162
+T2875	hydrolase activity 	1.228	0.17300000000000001
+T2876	hydrolase activity 	0.11699999999999999	-0.075
+T2877	hydrolase activity 	-0.105	-0.024
+T2878	binding 	-0.47200000000000003	0.27399999999999997
+T2879	binding 	-0.447	0.10800000000000001
+T2880	binding 	-0.574	-0.057
+T2881	hydrolase activity 	0.19399999999999998	0.23199999999999998
+T2882	hydrolase activity 	0.5489999999999999	-0.7340000000000001
+T2883	transcription regulator activity 	-0.753	-0.444
+T2884	hydrolase activity 	0.7659999999999999	-0.14
+T2885	protein binding 	0.11199999999999999	-0.489
+T2886	receptor activity 	-1.4409999999999998	-0.32899999999999996
+T2887	binding 	0.35100000000000003	0.59
+T2888	binding 	0.10400000000000001	-0.406
+T2889	hydrolase activity 	1.7830000000000001	0.373
+T2890	transcription regulator activity 	-0.45799999999999996	0.433
+T2891	transcription regulator activity 	-0.377	0.168
+T2892	transcription regulator activity 	-0.306	0.342
+T2893	transcription regulator activity 	0.183	-0.129
+T2894	transcription regulator activity 	0.342	-0.258
+T2895	binding 	1.078	-0.5579999999999999
+T2896	hydrolase activity 	0.612	-0.983
+T2897	transferase activity 	0.077	0.37
+T2898	hydrolase activity 	0.172	0.34700000000000003
+T2899	carrier activity 	0.177	0.514
+T2900	transferase activity 	0.45	0.025
+T2901	oxidoreductase activity 	-0.272	-0.531
+T2902	oxidoreductase activity 	0.294	0.41700000000000004
+T2903	oxidoreductase activity 	-0.43700000000000006	-0.34700000000000003
+T2904	hydrolase activity 	0.203	-1.334
+T2905	hydrolase activity 	0.5539999999999999	-0.14
+T2906	hydrolase activity 	0.522	-0.13699999999999998
+T2907	hydrolase activity 	0.18100000000000002	-0.033
+T2908	hydrolase activity 	0.39899999999999997	0.895
+T2909	binding 	1.177	0.049
+T2910	binding 	0.516	1.2009999999999998
+T2911	transferase activity 	0.9329999999999999	0.366
+T2912	hydrolase activity 	-0.41100000000000003	-0.08900000000000001
+T2913	hydrolase activity 	-0.41100000000000003	-0.08900000000000001
+T2914	oxidoreductase activity 	-0.16399999999999998	0.136
+T2915	binding 	-0.205	0.48
+T2916	binding 	0.523	0.9229999999999999
+T2917	binding 	-0.785	2.4730000000000003
+T2918	binding 	-0.27699999999999997	2.3280000000000003
+T2919	binding 	0.225	0.812
+T2920	binding 	-0.518	0.5660000000000001
+T2921	lyase activity 	0.337	0.27899999999999997
+T2922	isomerase activity 	1.0290000000000001	-0.24100000000000002
+T2923	oxidoreductase activity 	1.139	-0.91
+T2924	isomerase activity 	0.787	0.6629999999999999
+T2925	transferase activity 	-0.11900000000000001	0.9590000000000001
+T2926	lyase activity 	0.418	-0.16399999999999998
+T2927	hydrolase activity 	0.626	-0.21100000000000002
+T2928	NONE	-0.314	0.95
+T2929	enzyme regulator activity 	0.256	0.52
+T2930	isomerase activity 	0.447	-0.08900000000000001
+T2931	hydrolase activity 	0.825	0.145
+T2932	isomerase activity 	0.322	-0.22699999999999998
+T2933	lyase activity 	0.597	-0.18600000000000003
+T2934	binding 	-0.55	-0.196
+T2935	hydrolase activity 	0.32299999999999995	-0.22399999999999998
+T2936	hydrolase activity 	1.245	-1.072
+T2937	hydrolase activity 	1.198	-1.004
+T2938	transferase activity 	1.4180000000000001	0.466
+T2939	transferase activity 	2.306	0.368
+T2940	isomerase activity 	1.2429999999999999	1.082
+T2941	catalytic activity 	0.446	-0.153
+T2942	hydrolase activity 	-0.069	-0.15
+T2943	transferase activity 	0.11800000000000001	-0.39799999999999996
+T2944	transferase activity 	1.089	-0.17600000000000002
+T2945	hydrolase activity 	0.861	-0.193
+T2946	hydrolase activity 	0.40700000000000003	-0.36
+T2947	hydrolase activity 	-0.069	-0.1
+T2948	hydrolase activity 	0.8340000000000001	-0.043
+T2949	hydrolase activity 	-0.146	0.131
+T2950	hydrolase activity 	0.095	-0.8640000000000001
+T2951	hydrolase activity 	1.023	-0.057999999999999996
+T2952	hydrolase activity 	0.183	-0.331
+T2953	oxidoreductase activity 	0.742	-0.38299999999999995
+T2954	oxidoreductase activity 	-0.14800000000000002	0.78
+T2955	oxidoreductase activity 	-0.513	0.642
+T2956	oxidoreductase activity 	0.309	-0.374
+T2957	oxidoreductase activity 	0.028999999999999998	-0.38299999999999995
+T2958	transferase activity 	1.2009999999999998	-0.439
+T2959	transferase activity 	0.652	-0.385
+T2960	transferase activity 	1.5659999999999998	-0.7979999999999999
+T2961	transferase activity 	1.206	-0.040999999999999995
+T2962	transferase activity 	0.6	-0.278
+T2963	binding 	0.23399999999999999	-0.879
+T2964	binding 	0.087	-0.42
+T2965	binding 	0.33299999999999996	-0.619
+T2966	structural molecule activity 	1.067	-0.285
+T2967	binding 	0.618	-1.016
+T2968	transferase activity 	-0.11	0.35100000000000003
+T2969	transferase activity 	0.479	0.35700000000000004
+T2970	lyase activity 	0.39799999999999996	0.151
+T2971	hydrolase activity 	0.7190000000000001	-0.48
+T2972	hydrolase activity 	-0.069	0.42200000000000004
+T2973	hydrolase activity 	0.33899999999999997	-0.713
+T2974	hydrolase activity 	0.628	-1.656
+T2975	hydrolase activity 	-0.846	-0.8079999999999999
+T2976	binding 	0.584	0.24100000000000002
+T2977	hydrolase activity 	0.6809999999999999	-0.133
+T2978	hydrolase activity 	1.003	-0.826
+T2979	hydrolase activity 	0.161	0.027000000000000003
+T2980	hydrolase activity 	1.32	-0.634
+T2981	hydrolase activity 	0.517	-0.257
+T2982	hydrolase activity 	-0.648	-0.5670000000000001
+T2983	hydrolase activity 	0.151	-0.263
+T2984	hydrolase activity 	0.816	-0.541
+T2985	hydrolase activity 	0.733	0.45299999999999996
+T2986	hydrolase activity 	0.545	-1.963
+T2987	oxidoreductase activity 	0.384	0.018000000000000002
+T2988	transcription regulator activity 	0.9279999999999999	-0.628
+T2989	transcription regulator activity 	-0.23600000000000002	-0.066
+T2990	isomerase activity 	0.595	-0.469
+T2991	transcription regulator activity 	0.18	-0.484
+T2992	isomerase activity 	0.1	-0.424
+T2993	isomerase activity 	0.861	-0.14400000000000002
+T2994	transferase activity 	1.251	0.335
+T2995	transferase activity 	0.56	-0.042
+T2996	transferase activity 	1.11	0.023
+T2997	NONE	0.42	-0.243
+T2998	NONE	0.43	0.526
+T2999	NONE	1.035	0.091
+T3000	transferase activity 	0.124	-0.135
+T3001	transferase activity 	0.8029999999999999	0.39899999999999997
+T3002	binding 	0.752	-0.544
+T3003	structural molecule activity 	0.27399999999999997	-0.8759999999999999
+T3004	binding 	-0.409	-1.247
+T3005	binding 	1.7109999999999999	-0.518
+T3006	binding 	0.623	-0.853
+T3007	binding 	-0.065	-1.464
+T3008	hydrolase activity 	-0.621	-0.966
+T3009	isomerase activity 	0.62	-0.449
+T3010	isomerase activity 	1.4980000000000002	0.086
+T3011	ligase activity 	0.19399999999999998	-0.627
+T3012	receptor activity 	0.172	0.075
+T3013	NONE	1.376	-0.7709999999999999
+T3014	electron transporter activity 	1.531	0.256
+T3015	hydrolase activity 	0.253	-0.23600000000000002
+T3016	hydrolase activity 	0.586	0.002
+T3017	NONE	-1.3769999999999998	0.618
+T3018	NONE	0.047	0.037000000000000005
+T3019	transcription regulator activity 	-0.1	-0.094
+T3020	transcription regulator activity 	-0.684	-0.09699999999999999
+T3021	transcription regulator activity 	-0.08800000000000001	-0.426
+T3022	binding 	1.83	1.056
+T3023	protein binding 	0.59	-1.068
+T3024	ion transporter activity 	-0.5870000000000001	0.84
+T3025	ion transporter activity 	-0.609	0.677
+T3026	ion transporter activity 	-0.7509999999999999	0.792
+T3027	binding 	-2.052	-0.43700000000000006
+T3028	ion transporter activity 	-1.682	0.474
+T3029	binding 	-1.265	-0.294
+T3030	transcription regulator activity 	0.308	-1.069
+T3031	protein transporter activity 	-0.09300000000000001	-0.325
+T3032	protein transporter activity 	0.139	-0.013000000000000001
+T3033	binding 	-1.058	-0.29600000000000004
+T3034	binding 	-1.919	0.132
+T3035	binding 	-0.8740000000000001	0.29600000000000004
+T3036	ion transporter activity 	-1.0859999999999999	0.114
+T3037	carrier activity 	-2.51	0.28800000000000003
+T3038	binding 	-1.435	-0.975
+T3039	oxidoreductase activity 	-0.775	-1.3159999999999998
+T3040	ion transporter activity 	-1.943	0.018000000000000002
+T3041	ion transporter activity 	-1.749	0.307
+T3042	hydrolase activity 	0.8370000000000001	-0.018000000000000002
+T3043	hydrolase activity 	0.086	-0.129
+T3044	hydrolase activity 	0.313	-0.08900000000000001
+T3045	binding 	-0.18600000000000003	0.519
+T3046	protein binding 	-0.42700000000000005	0.024
+T3047	enzyme regulator activity 	-0.226	0.33399999999999996
+T3048	enzyme regulator activity 	-0.068	0.046
+T3049	binding 	-0.305	-0.606
+T3050	transferase activity 	0.805	1.557
+T3051	transferase activity 	0.532	-0.254
+T3052	ion transporter activity 	-0.8540000000000001	0.384
+T3053	NONE	0.34700000000000003	-0.27899999999999997
+T3054	channel or pore class transporter activity 	-1.546	-0.023
+T3055	channel or pore class transporter activity 	-1.8119999999999998	0.094
+T3056	transporter activity 	0.079	-1.27
+T3057	ion transporter activity 	-2.403	0.12300000000000001
+T3058	binding 	-2.01	-0.11699999999999999
+T3059	ion transporter activity 	-2.608	0.26899999999999996
+T3060	ion transporter activity 	-3.193	-0.14
+T3061	ion transporter activity 	-2.718	-0.541
+T3062	ion transporter activity 	-3.733	-0.655
+T3063	ion transporter activity 	-1.765	0.01
+T3064	ion transporter activity 	-2.061	0.605
+T3065	transporter activity 	-0.74	-0.158
+T3066	transporter activity 	-0.022000000000000002	0.359
+T3067	transcription regulator activity 	0.318	0.9540000000000001
+T3068	transcription regulator activity 	0.028999999999999998	0.379
+T3069	channel or pore class transporter activity 	-1.338	0.043
+T3070	channel or pore class transporter activity 	-1.545	-0.071
+T3071	protein binding 	-1.494	-0.128
+T3072	channel or pore class transporter activity 	0.792	-0.051
+T3073	protein binding 	-0.775	-1.41
+T3074	protein binding 	-1.597	0.255
+T3075	protein binding 	1.207	1.001
+T3076	enzyme regulator activity 	-0.452	-0.23199999999999998
+T3077	lyase activity 	0.643	0.353
+T3078	lyase activity 	0.191	-0.092
+T3079	isomerase activity 	0.526	-0.7759999999999999
+T3080	isomerase activity 	0.8079999999999999	0.133
+T3081	transporter activity 	-0.179	-0.214
+T3082	hydrolase activity 	0.564	0.243
+T3083	hydrolase activity 	0.303	-1.206
+T3084	protein binding 	0.738	-0.5670000000000001
+T3085	protein binding 	0.653	-0.884
+T3086	NONE	0.09300000000000001	0.33899999999999997
+T3087	hydrolase activity 	-0.025	0.006999999999999999
+T3088	oxidoreductase activity 	-0.01	-0.363
+T3089	oxidoreductase activity 	0.07400000000000001	-0.159
+T3090	hydrolase activity 	0.561	0.645
+T3091	hydrolase activity 	0.122	-0.11900000000000001
+T3092	transferase activity 	-0.185	-0.106
+T3093	transferase activity 	-0.961	0.174
+T3094	NONE	-0.177	-0.57
+T3095	transferase activity 	-0.131	-0.28600000000000003
+T3096	binding 	0.586	0.055999999999999994
+T3097	lyase activity 	0.473	-0.327
+T3098	lyase activity 	0.255	0.44
+T3099	NONE	2.5669999999999997	0.138
+T3100	lyase activity 	0.13699999999999998	0.349
+T3101	binding 	0.187	-1.083
+T3102	ligase activity 	0.726	-0.5
+T3103	protein binding 	0.095	-0.043
+T3104	transporter activity 	-0.063	-0.325
+T3105	transferase activity 	-0.1	-0.294
+T3106	ion transporter activity 	-1.014	0.688
+T3107	NONE	-0.09300000000000001	1.226
+T3108	hydrolase activity 	0.244	-0.733
+T3109	transcription regulator activity 	-0.281	-0.047
+T3110	oxidoreductase activity 	0.67	0.609
+T3111	transferase activity 	-0.722	-0.965
+T3112	protein binding 	-1.365	-1.262
+T3113	protein binding 	1.225	-0.24
+T3114	protein binding 	-0.225	0.172
+T3115	transferase activity 	-2.46	0.934
+T3116	oxidoreductase activity 	0.884	0.504
+T3117	oxidoreductase activity 	-0.015	0.638
+T3118	oxidoreductase activity 	0.40399999999999997	0.027000000000000003
+T3119	oxidoreductase activity 	1.148	1.182
+T3120	oxidoreductase activity 	1.556	0.24100000000000002
+T3121	transcription regulator activity 	-0.88	-0.142
+T3122	NONE	0.705	0.33799999999999997
+T3123	hydrolase activity 	1.34	0.767
+T3124	transferase activity 	1.3030000000000002	-0.574
+T3125	lyase activity 	0.27899999999999997	-0.073
+T3126	protein binding 	1.198	0.5329999999999999
+T3127	oxidoreductase activity 	-0.43700000000000006	-0.034
+T3128	transferase activity 	-0.637	-1.255
+T3129	protein binding 	0.5429999999999999	-0.5870000000000001
+T3130	transferase activity 	-0.146	0.214
+T3131	hydrolase activity 	0.254	0.36200000000000004
+T3132	isomerase activity 	-0.23199999999999998	0.061
+T3133	transferase activity 	0.48200000000000004	-0.618
+T3134	transferase activity 	0.36700000000000005	-0.584
+T3135	transferase activity 	0.4	-0.759
+T3136	binding 	0.348	0.943
+T3137	hydrolase activity 	0.282	0.184
+T3138	isomerase activity 	0.087	-0.573
+T3139	binding 	0.9129999999999999	-0.228
+T3140	hydrolase activity 	0.392	-0.106
+T3141	transferase activity 	0.473	-0.239
+T3142	transferase activity 	0.6940000000000001	-0.31
+T3143	transferase activity 	0.026000000000000002	-0.847
+T3144	transferase activity 	-0.447	-0.32799999999999996
+T3145	transferase activity 	0.005	-0.922
+T3146	transferase activity 	0.091	0.016
+T3147	transferase activity 	0.344	-0.498
+T3148	hydrolase activity 	0.128	-0.14800000000000002
+T3149	hydrolase activity 	1.26	0.503
+T3150	hydrolase activity 	-0.102	0.5329999999999999
+T3151	hydrolase activity 	0.632	-0.107
+T3152	ligase activity 	0.883	0.185
+T3153	lyase activity 	-0.131	-0.138
+T3154	hydrolase activity 	0.787	0.29
+T3155	hydrolase activity 	0.23399999999999999	0.736
+T3156	molecular_function unknown 	0.552	0.18
+T3157	transferase activity 	0.5870000000000001	-0.124
+T3158	oxidoreductase activity 	0.66	0.47100000000000003
+T3159	oxidoreductase activity 	0.514	-0.102
+T3160	oxidoreductase activity 	0.638	0.569
+T3161	hydrolase activity 	0.545	0.475
+T3162	ligase activity 	0.445	0.08199999999999999
+T3163	ligase activity 	1.01	-0.777
+T3164	ligase activity 	0.721	-0.39399999999999996
+T3165	ligase activity 	1.095	-0.691
+T3166	ligase activity 	0.096	0.067
+T3167	NONE	0.301	-0.344
+T3168	ligase activity 	-0.19699999999999998	1.01
+T3169	ligase activity 	-0.165	-0.212
+T3170	ligase activity 	1.328	-0.057999999999999996
+T3171	ligase activity 	0.87	-0.233
+T3172	ligase activity 	-0.509	0.009000000000000001
+T3173	ligase activity 	0.16	0.094
+T3174	hydrolase activity 	-0.21899999999999997	-0.081
+T3175	ligase activity 	0.745	-0.485
+T3176	ligase activity 	0.26899999999999996	-0.657
+T3177	ligase activity 	0.184	-0.19899999999999998
+T3178	ligase activity 	-0.057999999999999996	-0.124
+T3179	ligase activity 	0.07	0.001
+T3180	protein binding 	0.01	-0.752
+T3181	protein binding 	-0.026000000000000002	-0.643
+T3182	ligase activity 	0.142	-0.325
+T3183	ligase activity 	0.622	-0.873
+T3184	ligase activity 	0.275	0.183
+T3185	ligase activity 	0.679	-0.701
+T3186	ligase activity 	-0.057999999999999996	-0.192
+T3187	ligase activity 	0.479	-0.3
+T3188	ligase activity 	0.439	-0.33299999999999996
+T3189	ligase activity 	1.344	-0.9640000000000001
+T3190	ligase activity 	0.327	-0.447
+T3191	ligase activity 	-0.183	-0.7609999999999999
+T3192	ligase activity 	0.552	0.341
+T3193	ligase activity 	0.027999999999999997	0.09699999999999999
+T3194	ligase activity 	-0.461	-0.501
+T3195	ligase activity 	0.8490000000000001	-1.09
+T3196	oxidoreductase activity 	-0.44799999999999995	0.524
+T3197	hydrolase activity 	0.752	0.376
+T3198	oxidoreductase activity 	1.161	-0.7609999999999999
+T3199	receptor activity 	-2.066	-0.48700000000000004
+T3200	NONE	0.8320000000000001	0.20199999999999999
+T3201	transferase activity 	0.847	1.344
+T3202	binding 	0.177	0.142
+T3203	protein binding 	0.402	-0.177
+T3204	transferase activity 	-0.062	0.155
+T3205	hydrolase activity 	-0.9229999999999999	-0.043
+T3206	oxidoreductase activity 	0.579	-0.196
+T3207	hydrolase activity 	-0.12	0.061
+T3208	hydrolase activity 	0.044000000000000004	0.322
+T3209	protein binding 	0.8370000000000001	-0.013999999999999999
+T3210	transferase activity 	-0.141	-0.094
+T3211	oxidoreductase activity 	-0.163	-0.535
+T3212	hydrolase activity 	1.048	0.835
+T3213	transferase activity 	0.316	-0.662
+T3214	hydrolase activity 	0.13	-0.28600000000000003
+T3215	hydrolase activity 	0.569	-0.135
+T3216	transcription regulator activity 	-0.03	-0.299
+T3217	hydrolase activity 	-0.37799999999999995	0.003
+T3218	hydrolase activity 	0.384	-0.282
+T3219	protein binding 	0.805	0.2
+T3220	hydrolase activity 	-0.064	-0.11
+T3221	protein binding 	0.721	0.28300000000000003
+T3222	transferase activity 	-1.099	-0.7440000000000001
+T3223	transferase activity 	-0.7829999999999999	-0.54
+T3224	transferase activity 	-0.168	0.24
+T3225	transferase activity 	-0.321	0.426
+T3226	transferase activity 	-0.315	0.28800000000000003
+T3227	transcription regulator activity 	-0.318	0.135
+T3228	transcription regulator activity 	-0.133	0.59
+T3229	NONE	1.038	0.203
+T3230	transferase activity 	0.45799999999999996	-0.307
+T3231	NONE	-0.12300000000000001	-0.934
+T3232	transferase activity 	0.17800000000000002	-0.004
+T3233	transferase activity 	-0.064	-0.243
+T3234	transferase activity 	1.395	-1.094
+T3235	transferase activity 	0.441	-0.001
+T3236	transferase activity 	0.489	-0.11599999999999999
+T3237	transferase activity 	-0.27399999999999997	-0.308
+T3238	transferase activity 	-0.24600000000000002	-0.337
+T3239	transferase activity 	0.765	0.303
+T3240	electron transporter activity 	0.9690000000000001	0.02
+T3241	NONE	0.45	-0.23199999999999998
+T3242	NONE	-0.225	-1.252
+T3243	NONE	-0.035	-0.217
+T3244	lyase activity 	-0.271	-0.435
+T3245	hydrolase activity 	-0.07400000000000001	-0.28
+T3246	hydrolase activity 	-0.32899999999999996	-0.475
+T3247	lyase activity 	0.504	-0.674
+T3248	protein binding 	0.489	-0.418
+T3249	transferase activity 	0.988	0.349
+T3250	lyase activity 	0.833	0.23600000000000002
+T3251	transferase activity 	0.772	-0.365
+T3252	transferase activity 	-0.13699999999999998	0.38299999999999995
+T3253	transferase activity 	-0.405	-1.026
+T3254	NONE	0.111	0.12300000000000001
+T3255	isomerase activity 	1.537	-0.276
+T3256	transferase activity 	-0.185	0.11699999999999999
+T3257	transferase activity 	0.091	0.23199999999999998
+T3258	transferase activity 	-0.255	0.562
+T3259	protein binding 	-0.838	-0.316
+T3260	oxidoreductase activity 	-0.034	-0.904
+T3261	protein binding 	-1.013	-0.581
+T3262	protein binding 	0.9590000000000001	-0.266
+T3263	binding 	0.935	0.217
+T3264	hydrolase activity 	-0.142	-0.52
+T3265	transporter activity 	0.518	-0.107
+T3266	isomerase activity 	-0.327	-0.27699999999999997
+T3267	isomerase activity 	0.391	-0.436
+T3268	isomerase activity 	0.027000000000000003	0.011000000000000001
+T3269	isomerase activity 	0.262	0.233
+T3270	isomerase activity 	0.08900000000000001	-0.207
+T3271	protein binding 	0.441	-0.084
+T3272	transferase activity 	0.441	0.35
+T3273	hydrolase activity 	0.32299999999999995	0.315
+T3274	oxidoreductase activity 	0.504	0.449
+T3275	oxidoreductase activity 	0.43799999999999994	-0.207
+T3276	isomerase activity 	-0.175	-0.386
+T3277	isomerase activity 	0.302	-1.2890000000000001
+T3278	isomerase activity 	0.245	1.3019999999999998
+T3279	isomerase activity 	0.059000000000000004	-0.5920000000000001
+T3280	isomerase activity 	0.74	-0.043
+T3281	isomerase activity 	0.693	0.39899999999999997
+T3282	isomerase activity 	0.07	-0.545
+T3283	isomerase activity 	0.024	-0.39399999999999996
+T3284	isomerase activity 	0.715	-0.304
+T3285	isomerase activity 	-0.006999999999999999	-0.8690000000000001
+T3286	isomerase activity 	-0.818	0.293
+T3287	transferase activity 	0.737	1.29
+T3288	transferase activity 	0.586	0.596
+T3289	lyase activity 	0.251	-0.938
+T3290	NONE	1.636	0.493
+T3291	oxidoreductase activity 	-0.664	-0.34700000000000003
+T3292	hydrolase activity 	0.379	-0.273
+T3293	binding 	-0.111	0.485
+T3294	receptor activity 	0.546	-0.306
+T3295	transcription regulator activity 	-0.434	0.682
+T3296	binding 	0.483	0.44799999999999995
+T3297	binding 	0.14300000000000002	0.319
+T3298	binding 	-0.319	-0.076
+T3299	binding 	-0.115	-0.134
+T3300	hydrolase activity 	-0.17300000000000001	-0.069
+T3301	lyase activity 	-0.73	-0.835
+T3302	hydrolase activity 	-0.514	-0.20600000000000002
+T3303	transferase activity 	0.713	-0.155
+T3304	transferase activity 	1.315	-0.21600000000000003
+T3305	oxidoreductase activity 	-0.053	-0.028999999999999998
+T3306	lyase activity 	0.41100000000000003	-0.006999999999999999
+T3307	lyase activity 	0.7709999999999999	-0.485
+T3308	isomerase activity 	0.066	0.516
+T3309	lyase activity 	0.2	-0.034
+T3310	isomerase activity 	0.209	-0.24600000000000002
+T3311	transferase activity 	-0.54	-0.275
+T3312	transcription regulator activity 	1.274	-1.3769999999999998
+T3313	oxidoreductase activity 	0.627	0.596
+T3314	oxidoreductase activity 	0.9540000000000001	-0.047
+T3315	oxidoreductase activity 	0.778	0.134
+T3316	hydrolase activity 	0.147	0.5
+T3317	hydrolase activity 	-0.547	-0.34700000000000003
+T3318	hydrolase activity 	-0.207	0.184
+T3319	hydrolase activity 	0.244	0.465
+T3320	hydrolase activity 	-0.18100000000000002	0.306
+T3321	hydrolase activity 	0.153	0.261
+T3322	hydrolase activity 	-0.247	-0.478
+T3323	hydrolase activity 	0.34	0.311
+T3324	hydrolase activity 	-0.27899999999999997	0.745
+T3325	hydrolase activity 	1.335	0.013000000000000001
+T3326	protein binding 	-1.278	0.23600000000000002
+T3327	protein binding 	-1.111	-0.21
+T3328	protein binding 	-0.534	-0.504
+T3329	enzyme regulator activity 	0.948	0.257
+T3330	hydrolase activity 	0.5589999999999999	0.174
+T3331	channel or pore class transporter activity 	0.8759999999999999	0.162
+T3332	protein binding 	0.293	0.16399999999999998
+T3333	protein binding 	0.648	0.359
+T3334	binding 	-0.488	1.911
+T3335	receptor activity 	0.379	1.98
+T3336	protein binding 	1.143	0.684
+T3337	oxidoreductase activity 	0.268	-0.071
+T3338	oxidoreductase activity 	0.335	0.237
+T3339	transferase activity 	0.494	0.10300000000000001
+T3340	transferase activity 	0.575	-0.245
+T3341	transferase activity 	0.599	-0.467
+T3342	transferase activity 	0.508	-1.276
+T3343	transferase activity 	-0.221	-0.785
+T3344	transferase activity 	0.382	-0.163
+T3345	transferase activity 	0.325	-0.922
+T3346	transferase activity 	0.7020000000000001	-0.051
+T3347	transferase activity 	-0.122	-1.2329999999999999
+T3348	oxidoreductase activity 	0.493	-0.196
+T3349	oxidoreductase activity 	0.11699999999999999	0.09300000000000001
+T3350	transferase activity 	0.54	0.419
+T3351	transferase activity 	0.18600000000000003	0.125
+T3352	hydrolase activity 	0.7490000000000001	-0.266
+T3353	ligase activity 	0.762	-0.5670000000000001
+T3354	ligase activity 	-1.242	1.4909999999999999
+T3355	lyase activity 	-0.35700000000000004	-0.914
+T3356	NONE	1.3019999999999998	-1.087
+T3357	transferase activity 	-0.24	-0.887
+T3358	oxidoreductase activity 	-0.257	0.47
+T3359	transferase activity 	1.0659999999999998	0.017
+T3360	transferase activity 	1.057	-0.32799999999999996
+T3361	hydrolase activity 	0.33399999999999996	-0.083
+T3362	transferase activity 	0.001	-1.157
+T3363	NONE	0.978	-0.47700000000000004
+T3364	hydrolase activity 	-0.311	-0.306
+T3365	hydrolase activity 	-0.545	-0.457
+T3366	transferase activity 	-0.26899999999999996	-0.695
+T3367	transferase activity 	1.4140000000000001	-0.46399999999999997
+T3368	transferase activity 	-0.179	0.591
+T3369	transferase activity 	0.768	-0.39
+T3370	transferase activity 	0.391	-0.726
+T3371	transcription regulator activity 	-0.531	0.146
+T3372	oxidoreductase activity 	0.769	0.345
+T3373	oxidoreductase activity 	1.237	-0.045
+T3374	hydrolase activity 	-0.249	0.35200000000000004
+T3375	hydrolase activity 	0.7090000000000001	0.55
+T3376	hydrolase activity 	0.9790000000000001	-0.5589999999999999
+T3377	oxidoreductase activity 	0.16899999999999998	0.562
+T3378	hydrolase activity 	0.225	-0.728
+T3379	hydrolase activity 	-0.222	-0.002
+T3380	transferase activity 	0.27	-0.052000000000000005
+T3381	protein binding 	0.045	-0.273
+T3382	transcription regulator activity 	-0.424	0.149
+T3383	transcription regulator activity 	-1.04	2.25
+T3384	NONE	0.044000000000000004	-1.49
+T3385	NONE	0.754	-0.358
+T3386	NONE	-0.06	-0.044000000000000004
+T3387	structural molecule activity 	-0.17	0.316
+T3388	ligase activity 	-0.499	0.945
+T3389	oxidoreductase activity 	-3.4	-0.085
+T3390	transferase activity 	-0.326	-0.292
+T3391	transporter activity 	-1.6909999999999998	-0.405
+T3392	structural molecule activity 	-0.45899999999999996	0.9359999999999999
+T3393	binding 	0.046	-0.41
+T3394	transferase activity 	-0.306	-0.649
+T3395	enzyme regulator activity 	0.45899999999999996	0.319
+T3396	hydrolase activity 	0.35700000000000004	-0.431
+T3397	hydrolase activity 	0.304	0.526
+T3398	structural molecule activity 	1.114	2.24
+T3399	NONE	0.9159999999999999	0.45
+T3400	hydrolase activity 	0.374	0.775
+T3401	protein binding 	-0.265	-0.085
+T3402	enzyme regulator activity 	-1.501	0.11
+T3403	isomerase activity 	0.243	0.257
+T3404	transferase activity 	0.11	-0.297
+T3405	carrier activity 	-2.026	-0.215
+T3406	oxidoreductase activity 	-0.606	-0.214
+T3407	oxidoreductase activity 	-0.563	-0.225
+T3408	oxidoreductase activity 	0.16	-0.444
+T3409	transferase activity 	0.319	-0.28600000000000003
+T3410	hydrolase activity 	0.961	0.126
+T3411	transferase activity 	0.49200000000000005	-0.447
+T3412	NONE	0.38	-0.28800000000000003
+T3413	isomerase activity 	0.725	-0.302
+T3414	isomerase activity 	0.7979999999999999	0.5870000000000001
+T3415	isomerase activity 	1.409	-0.040999999999999995
+T3416	isomerase activity 	0.885	-0.133
+T3417	hydrolase activity 	0.6829999999999999	-0.316
+T3418	hydrolase activity 	0.613	0.627
+T3419	hydrolase activity 	-0.955	-0.106
+T3420	hydrolase activity 	0.13	-0.547
+T3421	hydrolase activity 	0.159	-0.5429999999999999
+T3422	hydrolase activity 	0.18600000000000003	0.531
+T3423	hydrolase activity 	0.7829999999999999	-0.067
+T3424	hydrolase activity 	0.8490000000000001	0.225
+T3425	hydrolase activity 	1.545	0.303
+T3426	hydrolase activity 	0.43200000000000005	-0.292
+T3427	hydrolase activity 	-0.298	-0.045
+T3428	NONE	-0.08800000000000001	-1.22
+T3429	binding 	1.723	-0.639
+T3430	molecular_function unknown 	1.902	1.771
+T3431	NONE	0.252	0.488
+T3432	NONE	-2.591	-0.37
+T3433	isomerase activity 	0.9640000000000001	0.14300000000000002
+T3434	NONE	0.892	-0.15
+T3435	NONE	-0.903	-0.278
+T3436	binding 	-0.032	-0.609
+T3437	NONE	0.433	-0.6629999999999999
+T3438	molecular_function unknown 	0.7559999999999999	-0.335
+T3439	binding 	-0.03	-0.9079999999999999
+T3440	oxidoreductase activity 	-0.004	-0.93
+T3441	transferase activity 	1.165	0.33
+T3442	NONE	0.401	-0.369
+T3443	catalytic activity 	0.513	-0.040999999999999995
+T3444	transferase activity 	0.031	-0.9390000000000001
+T3445	hydrolase activity 	0.111	-0.391
+T3446	hydrolase activity 	-1.035	0.263
+T3447	molecular_function unknown 	1.479	2.298
+T3448	NONE	0.179	-0.972
+T3449	hydrolase activity 	0.826	-0.929
+T3450	transferase activity 	1.29	1.162
+T3451	molecular_function unknown 	1.41	0.5479999999999999
+T3452	molecular_function unknown 	0.193	0.217
+T3453	isomerase activity 	2.13	-1.22
+T3454	oxidoreductase activity 	-0.096	0.49200000000000005
+T3455	hydrolase activity 	0.857	-0.12
+T3456	molecular_function unknown 	0.312	0.317
+T3457	NONE	0.053	0.7490000000000001
+T3458	NONE	0.23800000000000002	0.975
+T3459	NONE	-0.282	-0.042
+T3460	NONE	1.375	-0.7709999999999999
+T3461	NONE	0.01	-0.899
+T3462	oxidoreductase activity 	0.02	0.865
+T3463	hydrolase activity 	0.285	0.203
+T3464	binding 	0.262	-2.019
+T3465	NONE	1.016	-0.5660000000000001
+T3466	NONE	0.8340000000000001	-0.3
+T3467	NONE	0.287	0.039
+T3468	hydrolase activity 	-0.332	0.156
+T3469	binding 	-0.342	0.6609999999999999
+T3470	hydrolase activity 	0.415	-0.282
+T3471	hydrolase activity 	1.1909999999999998	0.7340000000000001
+T3472	hydrolase activity 	0.188	-0.59
+T3473	oxidoreductase activity 	0.212	0.8109999999999999
+T3474	hydrolase activity 	0.5589999999999999	0.84
+T3475	transferase activity 	-0.536	-0.055
+T3476	protein binding 	-0.051	0.126
