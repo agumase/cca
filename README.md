@@ -54,6 +54,8 @@ dpi     1106.7584
 ddpi       3.7576
 ```
 
-<img src="https://raw.githubusercontent.com/taneishi/reduction/master/cca/result.png" width="300" alt="cca" />
+<img src="https://raw.githubusercontent.com/taneishi/cca/master/cca/result.png" width="300" alt="cca" />
 
 [CCA result of DrugBank interactions](https://taneishi.github.io/cca)
+
+<img src="https://raw.githubusercontent.com/taneishi/cca/master/cca/drugbank.png" width="300" alt="drugbank" />
