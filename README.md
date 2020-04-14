@@ -2,6 +2,10 @@
 
 Reference: http://numerical.recipes/whp/notes/CanonCorrBySVD.pdf
 
+## TODO
+
+- [ ] CCA implementation in Javascript.
+
 ## R cancor() help
 
 ```
