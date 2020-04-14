@@ -4,6 +4,7 @@ Reference: http://numerical.recipes/whp/notes/CanonCorrBySVD.pdf
 
 ## TODO
 
+- [ ] Update D3 version from v3 to v5.
 - [ ] CCA implementation in Javascript.
 
 ## R cancor() help
