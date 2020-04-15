@@ -63,4 +63,4 @@ ddpi       3.7576
 
 [CCA result of DrugBank interactions](https://taneishi.github.io/cca)
 
-<img src="rugbank.png" width="500" alt="drugbank" />
+<img src="drugbank.png" width="500" alt="drugbank" />
