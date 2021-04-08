@@ -85,21 +85,21 @@ var DrugBank = function(){
 
         scene = new THREE.Scene();
 
-        d3.text('data/drug.tsv', function(data){
+        d3.text('https://raw.githubusercontent.com/taneishi/cca/master/data/drug.tsv').then(function(data){
             var Data = {};
-            var objects = d3.tsv.parseRows(data);
+            var objects = d3.tsvParseRows(data);
             var color = new THREE.Color().setHSL(200./360., 1.0, 0.6);
             load(objects, color, -offset);
             objects.forEach(function(object){ Data[object[0]] = object; });
 
-            d3.text('data/target.tsv', function(data){
-                var objects = d3.tsv.parseRows(data);
+            d3.text('https://raw.githubusercontent.com/taneishi/cca/master/data/target.tsv').then(function(data){
+                var objects = d3.tsvParseRows(data);
                 var color = new THREE.Color().setHSL(120./360., 1.0, 0.6);
                 load(objects, color, +offset);
                 objects.forEach(function(object){ Data[object[0]] = object; });
 
-                d3.text('data/relation.tsv', function(data){
-                    relations = d3.tsv.parseRows(data);
+                d3.text('https://raw.githubusercontent.com/taneishi/cca/master/data/relation.tsv').then(function(data){
+                    relations = d3.tsvParseRows(data);
                     var groups = {};
                     relations.forEach(function(relation){
                         var categories = relation.map(function(x){ return Data[x][1]; });
