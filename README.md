@@ -2,6 +2,13 @@
 
 Reference: http://numerical.recipes/whp/notes/CanonCorrBySVD.pdf
 
+## Environments
+
+- D3.js: BSD 3-Clause
+- dat.GUI: Apache-2.0
+- stats.js: MIT
+- three.js: MIT
+
 ## TODO
 
 - [ ] Update D3 version from v3 to v5.
