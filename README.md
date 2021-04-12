@@ -4,7 +4,7 @@ Reference: http://numerical.recipes/whp/notes/CanonCorrBySVD.pdf
 
 ## Environments
 
-- D3.js: BSD 3-Clause
+- D3.js-v6: BSD 3-Clause
 - dat.GUI: Apache-2.0
 - stats.js: MIT
 - three.js: MIT
